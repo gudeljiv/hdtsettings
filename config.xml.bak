@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <DataDirPath>.</DataDirPath>
-  <SaveConfigInAppData xsi:nil="true" />
-  <SaveDataInAppData xsi:nil="true" />
-  <SaveInAppData>true</SaveInAppData>
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>fa901f11-325f-4b45-ad8f-ce78298352ed</ActiveDeckIdString>
+  <ActiveDeckIdString>00000000-0000-0000-0000-000000000000</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -109,27 +105,27 @@
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>2</int>
+    <int>1</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-11T00:00:00</dateTime>
+    <dateTime>2019-11-10T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>0</int>
+    <int>10</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
