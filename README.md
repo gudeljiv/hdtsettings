@@ -1,1 +1,1 @@
-# Hearthstone Deck Tracker Settings
+# Hearthstone Deck Tracker - Settings
