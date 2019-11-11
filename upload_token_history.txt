@@ -1,0 +1,10 @@
+12/18/2018 3:20 PM: Trying to request new token
+12/18/2018 3:20 PM: Trying to request new token
+12/18/2018 3:20 PM: Received d0102356-70d8-447f-9782-c3103dac5f6f
+12/18/2018 3:20 PM: Received 07fa23e5-9448-47ac-83bc-11237b6702da
+12/18/2018 3:47 PM: Trying to request new token
+12/18/2018 3:47 PM: Trying to request new token
+12/18/2018 3:47 PM: Received 5e5110d2-1ebe-4d69-b116-8e1645a7e5a8
+12/18/2018 3:47 PM: Received 7d114797-256a-40eb-b79e-153b39f6f437
+1/9/2019 12:59 PM: Trying to claim 7d114797-256a-40eb-b79e-153b39f6f437
+1/9/2019 12:59 PM: Claimed 7d114797-256a-40eb-b79e-153b39f6f437: 

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Color x:Key="AccentColor4">#33006FC7</Color>
+  <SolidColorBrush x:Key="MetroDataGrid.InactiveSelectionHighlightBrush">#99006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="RightArrowFill">#CC006FC7</SolidColorBrush>
+  <Color x:Key="HighlightColor">#FF006FC7</Color>
+  <SolidColorBrush x:Key="MetroDataGrid.MouseOverHighlightBrush">#66006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="WindowTitleColorBrush">#CC006FC7</SolidColorBrush>
+  <Color x:Key="AccentColor3">#66006FC7</Color>
+  <SolidColorBrush x:Key="AccentColorBrush4">#33006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="MetroDataGrid.HighlightTextBrush">#FFFFFFFF</SolidColorBrush>
+  <SolidColorBrush x:Key="AccentColorBrush">#CC006FC7</SolidColorBrush>
+  <LinearGradientBrush StartPoint="0.001,0.5" EndPoint="1.002,0.5" x:Key="ProgressBrush">
+    <LinearGradientBrush.GradientStops>
+      <GradientStop Color="#FF006FC7" Offset="0" />
+      <GradientStop Color="#66006FC7" Offset="1" />
+    </LinearGradientBrush.GradientStops>
+  </LinearGradientBrush>
+  <Color x:Key="AccentColor">#CC006FC7</Color>
+  <SolidColorBrush x:Key="AccentColorBrush2">#99006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="AccentColorBrush3">#66006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="AccentSelectedColorBrush">#FFFFFFFF</SolidColorBrush>
+  <Color x:Key="IdealForegroundColor">#FFFFFFFF</Color>
+  <SolidColorBrush x:Key="MetroDataGrid.HighlightBrush">#CC006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="MetroDataGrid.InactiveSelectionHighlightTextBrush">#FFFFFFFF</SolidColorBrush>
+  <SolidColorBrush x:Key="MetroDataGrid.FocusBorderBrush">#CC006FC7</SolidColorBrush>
+  <Color x:Key="AccentColor2">#99006FC7</Color>
+  <SolidColorBrush x:Key="HighlightBrush">#FF006FC7</SolidColorBrush>
+  <SolidColorBrush x:Key="IdealForegroundColorBrush">#FFFFFFFF</SolidColorBrush>
+  <SolidColorBrush x:Key="CheckmarkFill">#CC006FC7</SolidColorBrush>
+</ResourceDictionary>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataDirPath>.</DataDirPath>
+  <SaveConfigInAppData xsi:nil="true" />
+  <SaveDataInAppData xsi:nil="true" />
+  <SaveInAppData>true</SaveInAppData>
+  <AccentName>Emerald</AccentName>
+  <AppTheme>BaseLight</AppTheme>
+  <ActiveDeckIdString>fa901f11-325f-4b45-ad8f-ce78298352ed</ActiveDeckIdString>
+  <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
+  <OverlaySetToolTips>false</OverlaySetToolTips>
+  <AdvancedOptions>true</AdvancedOptions>
+  <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
+  <AlternativeScreenCapture>false</AlternativeScreenCapture>
+  <AllowDevUpdates xsi:nil="true" />
+  <ArenaRewardDialog>true</ArenaRewardDialog>
+  <AlwaysShowGoldProgress>false</AlwaysShowGoldProgress>
+  <ArenaSummaryChartsExpanded>true</ArenaSummaryChartsExpanded>
+  <ArenaStatsTimeFrameFilter>AllTime</ArenaStatsTimeFrameFilter>
+  <ArenaStatsTimeFrameCustomStart xsi:nil="true" />
+  <ArenaStatsTimeFrameCustomEnd xsi:nil="true" />
+  <ArenaStatsRegionFilter>ALL</ArenaStatsRegionFilter>
+  <ArenaStatsShowLegends>true</ArenaStatsShowLegends>
+  <ArenaStatsTextColoring>true</ArenaStatsTextColoring>
+  <AskBeforeDiscardingGame>true</AskBeforeDiscardingGame>
+  <ArenaStatsIncludeArchived>true</ArenaStatsIncludeArchived>
+  <ArenaStatsCustomSeasonMin>1</ArenaStatsCustomSeasonMin>
+  <ArenaStatsCustomSeasonMax xsi:nil="true" />
+  <AttackIconPlayerVerticalPosition>71.67</AttackIconPlayerVerticalPosition>
+  <AttackIconPlayerHorizontalPosition>67.5</AttackIconPlayerHorizontalPosition>
+  <AttackIconOpponentVerticalPosition>19.91</AttackIconOpponentVerticalPosition>
+  <AttackIconOpponentHorizontalPosition>67.5</AttackIconOpponentHorizontalPosition>
+  <AutoArchiveArenaDecks>false</AutoArchiveArenaDecks>
+  <AutoDeckDetection>true</AutoDeckDetection>
+  <AutoGrayoutSecrets>true</AutoGrayoutSecrets>
+  <AutoSaveOnImport>false</AutoSaveOnImport>
+  <AutoUseDeck>false</AutoUseDeck>
+  <DeckPickerCaps>true</DeckPickerCaps>
+  <ArenaDeckNameTemplate>Arena {Date dd-MM HH:mm}</ArenaDeckNameTemplate>
+  <BrawlDeckNameTemplate>Brawl {Date dd-MM HH:mm}</BrawlDeckNameTemplate>
+  <DungeonRunDeckNameTemplate>Dungeon Run {Date dd-MM HH:mm}</DungeonRunDeckNameTemplate>
+  <MonsterHuntDeckNameTemplate>Monster Hunt {Date dd-MM HH:mm}</MonsterHuntDeckNameTemplate>
+  <RumbleRunDeckNameTemplate>Rumble Run {Date dd-MM HH:mm}</RumbleRunDeckNameTemplate>
+  <DalaranHeistDeckNameTemplate>Dalaran Heist {Date dd-MM HH:mm}</DalaranHeistDeckNameTemplate>
+  <TombsOfTerrorDeckNameTemplate>Tombs of Terror {Date dd-MM HH:mm}</TombsOfTerrorDeckNameTemplate>
+  <TurnStartAction>Flash</TurnStartAction>
+  <ChallengeAction>Flash</ChallengeAction>
+  <CardSortingClassFirst>true</CardSortingClassFirst>
+  <CheckForBetaUpdates>false</CheckForBetaUpdates>
+  <CheckForDevUpdates>false</CheckForDevUpdates>
+  <CheckForUpdates>true</CheckForUpdates>
+  <ClassColorScheme>Classic</ClassColorScheme>
+  <ClassIconStyle>Round</ClassIconStyle>
+  <CardBarTheme>dark</CardBarTheme>
+  <CardDbIncludeWildOnlyCards>true</CardDbIncludeWildOnlyCards>
+  <ConstructedAutoImportNew>true</ConstructedAutoImportNew>
+  <ConstructedAutoUpdate>true</ConstructedAutoUpdate>
+  <ConstructedStatsAsPercent>false</ConstructedStatsAsPercent>
+  <ConstructedStatsApplyTagFilters>false</ConstructedStatsApplyTagFilters>
+  <ConstructedSummaryChartsExpanded>true</ConstructedSummaryChartsExpanded>
+  <ConstructedStatsModeFilter>All</ConstructedStatsModeFilter>
+  <ConstructedStatsTimeFrameFilter>CurrentSeason</ConstructedStatsTimeFrameFilter>
+  <ConstructedStatsClassFilter>All</ConstructedStatsClassFilter>
+  <ConstructedStatsOpponentClassFilter>All</ConstructedStatsOpponentClassFilter>
+  <ConstructedStatsRegionFilter>ALL</ConstructedStatsRegionFilter>
+  <ConstructedStatsFormatFilter>All</ConstructedStatsFormatFilter>
+  <ConstructedStatsCoinFilter>All</ConstructedStatsCoinFilter>
+  <ConstructedStatsResultFilter>All</ConstructedStatsResultFilter>
+  <ConstructedStatsTimeFrameCustomStart xsi:nil="true" />
+  <ConstructedStatsTimeFrameCustomEnd xsi:nil="true" />
+  <ConstructedStatsIncludeArchived>true</ConstructedStatsIncludeArchived>
+  <ConstructedStatsRankFilterMin>L1</ConstructedStatsRankFilterMin>
+  <ConstructedStatsRankFilterMax>25</ConstructedStatsRankFilterMax>
+  <ConstructedStatsCustomSeasonMin>1</ConstructedStatsCustomSeasonMin>
+  <ConstructedStatsCustomSeasonMax xsi:nil="true" />
+  <ConstructedStatsTurnsFilterMin>0</ConstructedStatsTurnsFilterMin>
+  <ConstructedStatsTurnsFilterMax>99</ConstructedStatsTurnsFilterMax>
+  <ConstructedStatsOpponentNameFilter />
+  <ConstructedStatsNoteFilter />
+  <ConstructedStatsActiveDeckOnly>false</ConstructedStatsActiveDeckOnly>
+  <ClearLogFileAfterGame>true</ClearLogFileAfterGame>
+  <CloseToTray>true</CloseToTray>
+  <CloseWithHearthstone>true</CloseWithHearthstone>
+  <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
+  <CreatedByVersion>1.8.22.3855</CreatedByVersion>
+  <CustomDisplayedTimeFrame xsi:nil="true" />
+  <CustomHeight>-1</CustomHeight>
+  <CustomWidth>-1</CustomWidth>
+  <SelectedDateFormat>DayMonthYear</SelectedDateFormat>
+  <Debug>false</Debug>
+  <DeckPickerItemLayout>Layout1</DeckPickerItemLayout>
+  <DeckPickerWildIncludesStandard>true</DeckPickerWildIncludesStandard>
+  <DeckImportAutoDetectCardCount>false</DeckImportAutoDetectCardCount>
+  <DiscardGameIfIncorrectDeck>false</DiscardGameIfIncorrectDeck>
+  <DiscardZeroTurnGame>true</DiscardZeroTurnGame>
+  <DisplayHsReplayNoteLive>true</DisplayHsReplayNoteLive>
+  <DisplayedMode>All</DisplayedMode>
+  <DisplayedStats>All</DisplayedStats>
+  <DisplayedTimeFrame>AllTime</DisplayedTimeFrame>
+  <DungeonAutoImport>true</DungeonAutoImport>
+  <DungeonRunIncludePassiveCards>true</DungeonRunIncludePassiveCards>
+  <EnterToSaveNote>true</EnterToSaveNote>
+  <ExportIncludeVersion>false</ExportIncludeVersion>
+  <ExtraFeatures>false</ExtraFeatures>
+  <ExtraFeaturesFriendslist>true</ExtraFeaturesFriendslist>
+  <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
+  <ForceMouseHook>false</ForceMouseHook>
+  <GoldProgessX>0.075</GoldProgessX>
+  <GoldProgessY>0.075</GoldProgessY>
+  <GoldProgress>
+    <int>0</int>
+    <int>2</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </GoldProgress>
+  <GoldProgressLastReset>
+    <dateTime>0001-01-01T00:00:00</dateTime>
+    <dateTime>2019-11-11T00:00:00</dateTime>
+    <dateTime>0001-01-01T00:00:00</dateTime>
+    <dateTime>0001-01-01T00:00:00</dateTime>
+    <dateTime>0001-01-01T00:00:00</dateTime>
+  </GoldProgressLastReset>
+  <GoldProgressTotal>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </GoldProgressTotal>
+  <GoogleAnalytics>true</GoogleAnalytics>
+  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
+  <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
+  <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
+  <HideCollectionSyncingBanner>0</HideCollectionSyncingBanner>
+  <HideDecksInOverlay>false</HideDecksInOverlay>
+  <HideDrawChances>true</HideDrawChances>
+  <HideInBackground>true</HideInBackground>
+  <HideInMenu>true</HideInMenu>
+  <HideOpponentAttackIcon>true</HideOpponentAttackIcon>
+  <OpponentCthunCounter>Auto</OpponentCthunCounter>
+  <OpponentSpellsCounter>Never</OpponentSpellsCounter>
+  <OpponentJadeCounter>Auto</OpponentJadeCounter>
+  <OpponentPogoHopperCounter>Auto</OpponentPogoHopperCounter>
+  <HideOpponentCardAge>true</HideOpponentCardAge>
+  <HideOpponentCardCount>true</HideOpponentCardCount>
+  <HideOpponentCardMarks>true</HideOpponentCardMarks>
+  <HideOpponentCards>false</HideOpponentCards>
+  <HideOpponentDrawChances>true</HideOpponentDrawChances>
+  <HideOpponentFatigueCount>true</HideOpponentFatigueCount>
+  <HideOverlay>false</HideOverlay>
+  <HideOverlayInSpectator>false</HideOverlayInSpectator>
+  <HidePlayerAttackIcon>true</HidePlayerAttackIcon>
+  <PlayerCthunCounter>Auto</PlayerCthunCounter>
+  <PlayerSpellsCounter>Auto</PlayerSpellsCounter>
+  <PlayerJadeCounter>Auto</PlayerJadeCounter>
+  <HidePlayerCardCount>true</HidePlayerCardCount>
+  <PlayerPogoHopperCounter>Auto</PlayerPogoHopperCounter>
+  <HidePlayerCards>false</HidePlayerCards>
+  <HidePlayerFatigueCount>true</HidePlayerFatigueCount>
+  <HideSecrets>false</HideSecrets>
+  <HideTimers>false</HideTimers>
+  <HighlightCardsInHand>false</HighlightCardsInHand>
+  <HighlightDiscarded>false</HighlightDiscarded>
+  <HighlightLastDrawn>true</HighlightLastDrawn>
+  <HsReplayAutoUpload>true</HsReplayAutoUpload>
+  <HsReplayUploadRanked>true</HsReplayUploadRanked>
+  <HsReplayUploadCasual>true</HsReplayUploadCasual>
+  <HsReplayUploadArena>true</HsReplayUploadArena>
+  <HsReplayUploadBrawl>true</HsReplayUploadBrawl>
+  <HsReplayUploadFriendly>true</HsReplayUploadFriendly>
+  <HsReplayUploadPractice>true</HsReplayUploadPractice>
+  <HsReplayUploadSpectator>true</HsReplayUploadSpectator>
+  <HsReplayUploadBattlegrounds>true</HsReplayUploadBattlegrounds>
+  <HsReplayUploadPacks xsi:nil="true" />
+  <Id>e61fc6ee-1a31-45b0-9e67-aa57312f3578</Id>
+  <IgnoredConfigWarnings />
+  <IgnoreNewsId>17</IgnoreNewsId>
+  <KeepDecksVisible>true</KeepDecksVisible>
+  <KeepStatsWhenDeletingDeck>true</KeepStatsWhenDeletingDeck>
+  <Localization>enUS</Localization>
+  <LogConfigConsolePrinting>false</LogConfigConsolePrinting>
+  <LogLevel>0</LogLevel>
+  <ManaCurveFilter>Mana</ManaCurveFilter>
+  <ManaCurveMyDecks>true</ManaCurveMyDecks>
+  <MinimizeToTray>true</MinimizeToTray>
+  <NonLatinUseDefaultFont>true</NonLatinUseDefaultFont>
+  <NoteDialogDelayed>false</NoteDialogDelayed>
+  <NotificationFadeOutDelay>4</NotificationFadeOutDelay>
+  <OffsetX>0</OffsetX>
+  <OffsetY>0</OffsetY>
+  <OpponentDeckHeight>72</OpponentDeckHeight>
+  <OpponentDeckLeft>0.5</OpponentDeckLeft>
+  <OpponentDeckTop>12.5</OpponentDeckTop>
+  <OpponentIncludeCreated>true</OpponentIncludeCreated>
+  <OpponentOpacity>100</OpponentOpacity>
+  <OpponentWindowHeight>400</OpponentWindowHeight>
+  <OpponentWindowLeft>100</OpponentWindowLeft>
+  <OpponentWindowOnStart>false</OpponentWindowOnStart>
+  <OpponentWindowTop>100</OpponentWindowTop>
+  <OverlayCardAnimations>true</OverlayCardAnimations>
+  <OverlayCardAnimationsOpacity>true</OverlayCardAnimationsOpacity>
+  <OverlayCardMarkToolTips>true</OverlayCardMarkToolTips>
+  <OverlayCardToolTips>true</OverlayCardToolTips>
+  <OverlayMouseOverTriggerDelay>250</OverlayMouseOverTriggerDelay>
+  <OverlayOpacity>100</OverlayOpacity>
+  <OverlayOpponentScaling>80</OverlayOpponentScaling>
+  <OverlayPlayerScaling>80</OverlayPlayerScaling>
+  <OverlayCenterPlayerStackPanel>false</OverlayCenterPlayerStackPanel>
+  <OverlayCenterOpponentStackPanel>false</OverlayCenterOpponentStackPanel>
+  <OverlaySecretToolTipsOnly>false</OverlaySecretToolTipsOnly>
+  <DeckPanelOrderOpponent>
+    <DeckPanel>Winrate</DeckPanel>
+    <DeckPanel>Cards</DeckPanel>
+    <DeckPanel>CardCounter</DeckPanel>
+    <DeckPanel>DrawChances</DeckPanel>
+    <DeckPanel>Fatigue</DeckPanel>
+  </DeckPanelOrderOpponent>
+  <DeckPanelOrderPlayer>
+    <DeckPanel>DeckTitle</DeckPanel>
+    <DeckPanel>Wins</DeckPanel>
+    <DeckPanel>Cards</DeckPanel>
+    <DeckPanel>CardCounter</DeckPanel>
+    <DeckPanel>DrawChances</DeckPanel>
+    <DeckPanel>Fatigue</DeckPanel>
+  </DeckPanelOrderPlayer>
+  <PanelOrderOpponent>
+    <string>Win Rate</string>
+    <string>Cards</string>
+    <string>Card Counter</string>
+    <string>Draw Chances</string>
+    <string>Fatigue Counter</string>
+  </PanelOrderOpponent>
+  <PanelOrderPlayer>
+    <string>Deck Title</string>
+    <string>Wins</string>
+    <string>Cards</string>
+    <string>Card Counter</string>
+    <string>Draw Chances</string>
+    <string>Fatigue Counter</string>
+  </PanelOrderPlayer>
+  <PlayerDeckHeight>88</PlayerDeckHeight>
+  <PlayerDeckLeft>99.5</PlayerDeckLeft>
+  <PlayerDeckTop>2</PlayerDeckTop>
+  <PlayerOpacity>100</PlayerOpacity>
+  <PlayerWindowHeight>724</PlayerWindowHeight>
+  <PlayerWindowLeft>309</PlayerWindowLeft>
+  <PlayerWindowOnStart>false</PlayerWindowOnStart>
+  <PlayerWindowTop>298</PlayerWindowTop>
+  <PasteImportingChoice>Manual</PasteImportingChoice>
+  <RarityCardFrames>false</RarityCardFrames>
+  <RarityCardGems>false</RarityCardGems>
+  <RecordArena>false</RecordArena>
+  <RecordCasual>false</RecordCasual>
+  <RecordFriendly>false</RecordFriendly>
+  <RecordOther>false</RecordOther>
+  <RecordBrawl>false</RecordBrawl>
+  <RecordPractice>false</RecordPractice>
+  <RecordRanked>true</RecordRanked>
+  <RecordReplays>true</RecordReplays>
+  <RecordSpectator>false</RecordSpectator>
+  <RemoveCardsFromDeck>false</RemoveCardsFromDeck>
+  <RemoveSecretsFromList>false</RemoveSecretsFromList>
+  <ReplayWindowHeight>660</ReplayWindowHeight>
+  <ReplayWindowLeft xsi:nil="true" />
+  <ReplayWindowTop xsi:nil="true" />
+  <ReplayWindowWidth>1250</ReplayWindowWidth>
+  <SecretsLeft>15.8203125</SecretsLeft>
+  <SecretsOpacity>100</SecretsOpacity>
+  <SecretsPanelScaling>0.75</SecretsPanelScaling>
+  <SecretsTop>0.20833333333332546</SecretsTop>
+  <SelectedArenaImportingBehaviour>AutoImportSave</SelectedArenaImportingBehaviour>
+  <SelectedDeckPickerClasses>
+    <HeroClassAll>All</HeroClassAll>
+  </SelectedDeckPickerClasses>
+  <SelectedDeckSorting>Name</SelectedDeckSorting>
+  <SelectedDeckSortingArena>Name</SelectedDeckSortingArena>
+  <SelectedDeckPickerDeckType>Standard</SelectedDeckPickerDeckType>
+  <SelectedLanguage>enUS</SelectedLanguage>
+  <AlternativeLanguages />
+  <SelectedStatsFilterGameMode>All</SelectedStatsFilterGameMode>
+  <SelectedStatsFilterTimeFrame>AllTime</SelectedStatsFilterTimeFrame>
+  <SelectedTags>
+    <Tag>All</Tag>
+  </SelectedTags>
+  <SelectedTwitchUser>38203531</SelectedTwitchUser>
+  <SelectedWindowBackground>Theme</SelectedWindowBackground>
+  <SendTwitchExtensionData>true</SendTwitchExtensionData>
+  <ShowArenaImportMessage>true</ShowArenaImportMessage>
+  <ShowBatteryLife>false</ShowBatteryLife>
+  <ShowBatteryLifePercent>true</ShowBatteryLifePercent>
+  <ShowCapturableOverlay>false</ShowCapturableOverlay>
+  <SelectedDateOnDecks>None</SelectedDateOnDecks>
+  <ShowDeckTitle>false</ShowDeckTitle>
+  <ShowDeckWins>true</ShowDeckWins>
+  <ShowFlavorText>false</ShowFlavorText>
+  <ShowMyGamesPanel>true</ShowMyGamesPanel>
+  <ShowGameResultNotifications>true</ShowGameResultNotifications>
+  <ImgurClientId>c7b1c7904951f7a</ImgurClientId>
+  <ShowInTaskbar>false</ShowInTaskbar>
+  <ShowDateOnDeck>false</ShowDateOnDeck>
+  <ShowSplashScreen>true</ShowSplashScreen>
+  <ShowNoteDialogAfterGame>false</ShowNoteDialogAfterGame>
+  <ShowPlayerGet>false</ShowPlayerGet>
+  <ShowWinRateAgainst>true</ShowWinRateAgainst>
+  <ShowReplayShareToast>true</ShowReplayShareToast>
+  <SortDecksByClass>true</SortDecksByClass>
+  <SortDecksByClassArena>false</SortDecksByClassArena>
+  <SortDecksFavoritesFirst>false</SortDecksFavoritesFirst>
+  <StartMinimized>false</StartMinimized>
+  <StartWithWindows>false</StartWithWindows>
+  <StatsAutoRefresh>true</StatsAutoRefresh>
+  <StatsClassOverviewIsExpanded>false</StatsClassOverviewIsExpanded>
+  <StatsDeckOverviewIsExpanded>true</StatsDeckOverviewIsExpanded>
+  <StatsFilterOpponentHeroClass>All</StatsFilterOpponentHeroClass>
+  <StatsInWindow>false</StatsInWindow>
+  <StatsOverallApplyTagFilters>false</StatsOverallApplyTagFilters>
+  <StatsOverallFilterDeckMode>WithDeck</StatsOverallFilterDeckMode>
+  <StatsOverallFilterPlayerHeroClass>All</StatsOverallFilterPlayerHeroClass>
+  <StatsWindowHeight>672</StatsWindowHeight>
+  <StatsWindowLeft xsi:nil="true" />
+  <StatsWindowTop xsi:nil="true" />
+  <StatsWindowWidth>510</StatsWindowWidth>
+  <StreamingOverlayBackground>#FF00FF</StreamingOverlayBackground>
+  <SyncCollection>true</SyncCollection>
+  <TagDecksOnImport>true</TagDecksOnImport>
+  <TagOperation>Or</TagOperation>
+  <TimerAlert>false</TimerAlert>
+  <TimerAlertSeconds>30</TimerAlertSeconds>
+  <TimerLeft>75</TimerLeft>
+  <TimerWindowHeight>130</TimerWindowHeight>
+  <TimerWindowLeft>100</TimerWindowLeft>
+  <TimerWindowOnStartup>false</TimerWindowOnStartup>
+  <TimerWindowTop>100</TimerWindowTop>
+  <TimerWindowTopmost>false</TimerWindowTopmost>
+  <TimerWindowTopmostIfHsForeground>false</TimerWindowTopmostIfHsForeground>
+  <TimerWindowWidth>150</TimerWindowWidth>
+  <TimersHorizontalPosition>71.410609037328157</TimersHorizontalPosition>
+  <TimersHorizontalSpacing>51</TimersHorizontalSpacing>
+  <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
+  <TimersVerticalSpacing>48</TimersVerticalSpacing>
+  <TrackerCardToolTips>true</TrackerCardToolTips>
+  <TrackerWindowLeft>32</TrackerWindowLeft>
+  <TrackerWindowTop>32</TrackerWindowTop>
+  <UseAnyUnityWindow>false</UseAnyUnityWindow>
+  <UseAnimations>true</UseAnimations>
+  <UseFullTextSearch>false</UseFullTextSearch>
+  <UseSameScaling>true</UseSameScaling>
+  <VisibleOverlay>false</VisibleOverlay>
+  <WindowCardToolTips>false</WindowCardToolTips>
+  <WindowHeight>729</WindowHeight>
+  <WindowWidth>1104</WindowWidth>
+  <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
+  <WindowsTopmost>false</WindowsTopmost>
+  <WindowsTopmostIfHsForeground>false</WindowsTopmostIfHsForeground>
+  <WotogIconsPlayerVertical>68.5</WotogIconsPlayerVertical>
+  <WotogIconsPlayerHorizontal>86.8</WotogIconsPlayerHorizontal>
+  <WotogIconsOpponentVertical>18.5</WotogIconsOpponentVertical>
+  <WotogIconsOpponentHorizontal>86.5</WotogIconsOpponentHorizontal>
+  <ThemeName>BaseLight</ThemeName>
+  <GameDetails>
+    <ShowOpponentDraw>false</ShowOpponentDraw>
+    <ShowOpponentMulligan>false</ShowOpponentMulligan>
+    <ShowOpponentPlay>true</ShowOpponentPlay>
+    <ShowPlayerDraw>false</ShowPlayerDraw>
+    <ShowPlayerMulligan>false</ShowPlayerMulligan>
+    <ShowPlayerPlay>true</ShowPlayerPlay>
+  </GameDetails>
+</Config>
