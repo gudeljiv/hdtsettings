@@ -1748,3 +1748,4 @@
 10:05:06 PM|Info|Updater.SquirrelUpdate >> No new updated available
 10:25:05 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
 10:25:06 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:31:24 PM|Info|MainWindow.Window_Closing >> Shutting down...
