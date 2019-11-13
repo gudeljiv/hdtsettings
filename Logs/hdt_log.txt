@@ -1378,3 +1378,5 @@
    at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
 7:25:38 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
 7:25:39 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:33:26 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+7:33:27 PM|Info|MainWindow.Window_Closing >> Shutting down...
