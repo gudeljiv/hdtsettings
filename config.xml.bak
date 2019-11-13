@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>814373fe-5319-43c3-9cf7-ccff562975b8</ActiveDeckIdString>
+  <ActiveDeckIdString>c470852d-bd60-4dcd-a113-8fde3025a7af</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -105,14 +105,14 @@
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>2</int>
+    <int>1</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-11T00:00:00</dateTime>
+    <dateTime>2019-11-13T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
@@ -125,7 +125,7 @@
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>

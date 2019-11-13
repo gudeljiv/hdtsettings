@@ -2435,11 +2435,6 @@
       <Name>HIGHLANDER HUNTER</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>49af4f78-3fb1-48a3-afc6-e8d76e272de6</Id>
-      <Name>TEMPO QUESTING</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Id>923e6739-8bb4-405e-bcda-5d37a8b6432b</Id>
       <Name>QUEST</Name>
@@ -2450,9 +2445,9 @@
       <Name>ZOO WARLOCK</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>814373fe-5319-43c3-9cf7-ccff562975b8</Id>
-      <Name>MALYGOS</Name>
+      <Class>Rogue</Class>
+      <Id>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</Id>
+      <Name>SHARK TEMPO</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
