@@ -75,7 +75,7 @@
   <ConstructedStatsNoteFilter />
   <ConstructedStatsActiveDeckOnly>false</ConstructedStatsActiveDeckOnly>
   <ClearLogFileAfterGame>true</ClearLogFileAfterGame>
-  <CloseToTray>true</CloseToTray>
+  <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>true</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
   <CreatedByVersion>1.8.22.3855</CreatedByVersion>
@@ -112,7 +112,7 @@
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-13T00:00:00</dateTime>
+    <dateTime>2019-11-14T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
@@ -337,8 +337,8 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>97</TrackerWindowLeft>
-  <TrackerWindowTop>84</TrackerWindowTop>
+  <TrackerWindowLeft>100</TrackerWindowLeft>
+  <TrackerWindowTop>70</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
