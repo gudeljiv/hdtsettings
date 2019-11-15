@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>c470852d-bd60-4dcd-a113-8fde3025a7af</ActiveDeckIdString>
+  <ActiveDeckIdString>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -78,7 +78,7 @@
   <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>true</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.8.22.3855</CreatedByVersion>
+  <CreatedByVersion>1.9.0.3860</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -105,21 +105,21 @@
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>2</int>
+    <int>0</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-14T00:00:00</dateTime>
+    <dateTime>2019-11-15T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>10</int>
+    <int>20</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -337,8 +337,8 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>97</TrackerWindowLeft>
-  <TrackerWindowTop>84</TrackerWindowTop>
+  <TrackerWindowLeft>100</TrackerWindowLeft>
+  <TrackerWindowTop>70</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>

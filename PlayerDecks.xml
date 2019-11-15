@@ -2445,6 +2445,11 @@
       <Name>ZOO WARLOCK</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Druid</Class>
+      <Id>e9eb2c96-f7ce-488d-802f-678312029efa</Id>
+      <Name>QUEST DRUID</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Rogue</Class>
       <Id>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</Id>
       <Name>SHARK TEMPO</Name>
