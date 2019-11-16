@@ -2881,6 +2881,11 @@
       <Name>MIRACLE PRIEST</Name>
     </Deck>
     <Deck>
+      <DeckId>2e967617-1ba8-4a46-a221-89d9a19a35c9</DeckId>
+      <Games />
+      <Name>QUEST DRUID</Name>
+    </Deck>
+    <Deck>
       <DeckId>8bf0a7f6-fbc1-4f30-a702-7c202cf64645</DeckId>
       <Games />
       <Name>Mech Hunter</Name>
@@ -2889,6 +2894,11 @@
       <DeckId>f9fcb95a-3be3-4f24-941a-f8cd8f8e8b0b</DeckId>
       <Games />
       <Name>QUESTING MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d48c284b-7786-47a0-bb43-041b0c8937c1</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>301d7f64-8353-41ed-860a-a390375513cf</DeckId>
@@ -2951,14 +2961,19 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <Games />
+      <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
       <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <DeckId>3f279879-da3f-4aad-adb6-82ee0aac7f46</DeckId>
       <Games />
-      <Name>MURLOC SHAMAN</Name>
+      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>f3c4086b-5873-4a23-845b-7829779fa6e6</DeckId>
@@ -3031,14 +3046,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
-      <Games />
-      <Name>SHARK TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
+      <Games />
+      <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e2925b01-febf-4df6-a599-2545c57328b1</DeckId>

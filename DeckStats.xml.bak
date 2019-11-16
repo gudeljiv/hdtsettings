@@ -2257,6 +2257,76 @@
             <Card Id="GIL_581" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>5322c9e3-bd97-478d-8abd-fa30a30f49a6</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>1</Turns>
+          <StartTime>2019-11-16T14:05:35.6552489+01:00</StartTime>
+          <EndTime>2019-11-16T14:06:14.575555+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Fogoner#2520</OpponentName>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>159</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.81</Address>
+            <AuroraPassword>khKCbb</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>9568497</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>DfcPbi</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>6e9nomZrJStzozy7G5XvcA</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/6e9nomZrJStzozy7G5XvcA/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="CS2_181" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_235" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_621" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_332" Count="2" Unconfirmed="2" />
+            <Card Id="BOT_517" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_191" Count="2" Unconfirmed="2" />
+            <Card Id="CS1_129" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_001" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_004" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_271" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_007" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_262" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_268" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+        </Game>
       </Games>
       <Name>COMBO</Name>
     </Deck>
@@ -2881,6 +2951,11 @@
       <Name>MIRACLE PRIEST</Name>
     </Deck>
     <Deck>
+      <DeckId>2e967617-1ba8-4a46-a221-89d9a19a35c9</DeckId>
+      <Games />
+      <Name>QUEST DRUID</Name>
+    </Deck>
+    <Deck>
       <DeckId>8bf0a7f6-fbc1-4f30-a702-7c202cf64645</DeckId>
       <Games />
       <Name>Mech Hunter</Name>
@@ -2889,6 +2964,11 @@
       <DeckId>f9fcb95a-3be3-4f24-941a-f8cd8f8e8b0b</DeckId>
       <Games />
       <Name>QUESTING MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d48c284b-7786-47a0-bb43-041b0c8937c1</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>301d7f64-8353-41ed-860a-a390375513cf</DeckId>
@@ -2951,14 +3031,19 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <Games />
+      <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
       <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <DeckId>3f279879-da3f-4aad-adb6-82ee0aac7f46</DeckId>
       <Games />
-      <Name>MURLOC SHAMAN</Name>
+      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>f3c4086b-5873-4a23-845b-7829779fa6e6</DeckId>
@@ -3031,14 +3116,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
-      <Games />
-      <Name>SHARK TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
+      <Games />
+      <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e2925b01-febf-4df6-a599-2545c57328b1</DeckId>
