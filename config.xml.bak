@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>c470852d-bd60-4dcd-a113-8fde3025a7af</ActiveDeckIdString>
+  <ActiveDeckIdString>814373fe-5319-43c3-9cf7-ccff562975b8</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -119,7 +119,7 @@
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>10</int>
+    <int>20</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -346,7 +346,7 @@
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>false</WindowCardToolTips>
   <WindowHeight>812</WindowHeight>
-  <WindowWidth>1105</WindowWidth>
+  <WindowWidth>1104</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>
   <WindowsTopmostIfHsForeground>false</WindowsTopmostIfHsForeground>
