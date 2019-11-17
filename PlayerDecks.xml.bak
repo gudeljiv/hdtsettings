@@ -3063,11 +3063,6 @@
       <Name>HIGHLANDER HUNTER</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
-      <Name>COMBO</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Druid</Class>
       <Id>e9eb2c96-f7ce-488d-802f-678312029efa</Id>
       <Name>QUEST DRUID</Name>
@@ -3079,8 +3074,13 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>
-      <Id>12dfa3a7-92de-4dd1-bb43-61748dce06d8</Id>
-      <Name>DEATHRATTLE ROGUE</Name>
+      <Id>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</Id>
+      <Name>SHARK TEMPO</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
+      <Name>COMBO</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
