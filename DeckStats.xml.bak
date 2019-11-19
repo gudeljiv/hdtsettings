@@ -1321,6 +1321,11 @@
       <Name>COMBO</Name>
     </Deck>
     <Deck>
+      <DeckId>32662e79-8ea3-4237-9236-5f5244869a80</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>a1fab014-6d8a-4d8d-adfb-fb31a338253b</DeckId>
       <Games />
       <Name>Brawl 09-01 20:42</Name>
@@ -1596,6 +1601,11 @@
       <Name>TEMPO MECH ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>2597845b-4c6c-4fbe-94e1-0bf9a4022d1f</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>6cd93b00-4f4b-496c-bbf6-c9de1c3bf760</DeckId>
       <Games />
       <Name>BEAST HUNTER</Name>
@@ -1864,6 +1874,93 @@
             <Card Id="ULD_138" Count="1" />
             <Card Id="EX1_164" Count="1" />
             <Card Id="EX1_573" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>28ef843c-7f93-43e6-94b4-dd87a8a9c5d4</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2019-11-19T16:54:01.7646816+01:00</StartTime>
+          <EndTime>2019-11-19T17:04:38.1455554+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>kos#2521</OpponentName>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>177</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.99</Address>
+            <AuroraPassword>LGjePd</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>16057047</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>kdKbOi</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</DeckId>
+          <DeckName>SHARK TEMPO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>N3wFYtnopuvhgQRmx7nUWb</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/N3wFYtnopuvhgQRmx7nUWb/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1862887126</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_613" Count="1" />
+            <Card Id="GIL_827" Count="2" />
+            <Card Id="DAL_415" Count="2" />
+            <Card Id="DAL_400" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_716" Count="2" />
+            <Card Id="GIL_622" Count="1" />
+            <Card Id="EX1_116" Count="1" />
+            <Card Id="CS2_072" Count="2" />
+            <Card Id="WE1_029" Count="2" />
+            <Card Id="DAL_417" Count="1" />
+            <Card Id="EX1_129" Count="1" />
+            <Card Id="DAL_714" Count="2" Unconfirmed="1" />
+            <Card Id="DAL_720" Count="2" />
+            <Card Id="EX1_144" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_186" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_581" Count="2" Unconfirmed="2" />
+            <Card Id="DAL_416" Count="2" Unconfirmed="2" />
+            <Card Id="TRL_092" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CS2_072" Count="2" />
+            <Card Id="ULD_186" Count="1" />
+            <Card Id="DAL_010" Count="1" />
+            <Card Id="EX1_012" Count="1" />
+            <Card Id="NEW1_021" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="EX1_015" Count="1" />
+            <Card Id="EX1_581" Count="1" />
+            <Card Id="EX1_278" Count="1" />
+            <Card Id="DAL_415" Count="2" />
+            <Card Id="EX1_085" Count="1" />
+            <Card Id="ULD_208" Count="1" />
+            <Card Id="WE1_035" Count="1" />
           </OpponentCards>
         </Game>
       </Games>
@@ -3963,6 +4060,420 @@
             <Card Id="WE1_024" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>1a15cf0e-33a3-4954-b36a-6537a387ee9f</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-11-18T18:48:06.5752571+01:00</StartTime>
+          <EndTime>2019-11-18T18:56:31.9998662+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>RacheT#2332</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs RacheT#2332(Priest) 1856-181119.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>4</Rank>
+          <Stars>5</Stars>
+          <OpponentRank>3</OpponentRank>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.205</Address>
+            <AuroraPassword>AINbjg</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>15991388</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>OhDCgN</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_09c</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>8njRrFUnvoBHrxWoYNg7Th</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/8njRrFUnvoBHrxWoYNg7Th/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="ULD_196" Count="2" />
+            <Card Id="BOT_517" Count="1" />
+            <Card Id="NEW1_020" Count="2" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="CS2_235" Count="2" />
+            <Card Id="CS1_129" Count="2" />
+            <Card Id="ULD_268" Count="2" />
+            <Card Id="ULD_262" Count="1" />
+            <Card Id="ULD_271" Count="2" />
+            <Card Id="EX1_621" Count="2" />
+            <Card Id="CS2_236" Count="2" />
+            <Card Id="EX1_001" Count="2" />
+            <Card Id="CS2_004" Count="2" />
+            <Card Id="EX1_332" Count="2" />
+            <Card Id="CS2_181" Count="2" />
+            <Card Id="ULD_191" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_621" Count="1" />
+            <Card Id="EX1_332" Count="2" />
+            <Card Id="BOT_517" Count="1" />
+            <Card Id="EX1_001" Count="1" />
+            <Card Id="CS2_235" Count="2" />
+            <Card Id="CS2_004" Count="1" />
+            <Card Id="CS2_236" Count="2" />
+            <Card Id="ULD_271" Count="2" />
+            <Card Id="ULD_196" Count="2" />
+            <Card Id="NEW1_020" Count="1" />
+            <Card Id="BOT_219" Count="1" />
+            <Card Id="CS2_181" Count="2" />
+            <Card Id="ULD_262" Count="1" />
+            <Card Id="TRL_260" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>18b7b261-bc02-47a4-8229-7ed1228cfdea</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2019-11-18T19:12:57.2668561+01:00</StartTime>
+          <EndTime>2019-11-18T19:15:28.1002248+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Ильдар#2302</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs Ильдар#2302(Druid) 1915-181119.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>3</Rank>
+          <Stars>1</Stars>
+          <OpponentRank>3</OpponentRank>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>19</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.197</Address>
+            <AuroraPassword>oiPooi</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>262620</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>LpmHoh</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>fCk9T72tXEVszsq9NAQVYC</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/fCk9T72tXEVszsq9NAQVYC/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="CS2_235" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_268" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_004" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_007" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_271" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_001" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_621" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_332" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_517" Count="1" />
+            <Card Id="CS1_129" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_191" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_181" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_262" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="ULD_131" Count="1" />
+            <Card Id="EX1_154" Count="1" />
+            <Card Id="TRL_343" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>f4686c44-35da-4746-b4ec-b3a02b9ff7ab</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2019-11-18T21:06:15.047397+01:00</StartTime>
+          <EndTime>2019-11-18T21:11:25.2252541+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>uptop#2763</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs uptop#2763(Shaman) 2111-181119.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>3</Rank>
+          <Stars>2</Stars>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.89</Address>
+            <AuroraPassword>iODEHo</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>29360140</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>PCeNkl</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>uYeem49md3LmsMgd6meBnE</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/uYeem49md3LmsMgd6meBnE/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="ULD_191" Count="2" />
+            <Card Id="CS2_181" Count="2" />
+            <Card Id="EX1_621" Count="2" />
+            <Card Id="EX1_001" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_268" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_517" Count="1" />
+            <Card Id="CS2_004" Count="2" />
+            <Card Id="CS2_235" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_007" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="1" />
+            <Card Id="CS1_129" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_332" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_271" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_262" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="ULD_291" Count="1" />
+            <Card Id="ULD_276" Count="1" />
+            <Card Id="ULD_157" Count="1" />
+            <Card Id="ULD_158" Count="1" />
+            <Card Id="ULD_719" Count="1" />
+            <Card Id="GIL_622" Count="1" />
+            <Card Id="ULD_169" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>27348518-c9f9-4a66-b3fd-ba7ed555d5b4</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>9</Turns>
+          <StartTime>2019-11-18T21:11:59.614663+01:00</StartTime>
+          <EndTime>2019-11-18T21:17:31.5045276+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>john#22108</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs john#22108(Priest) 2117-181119.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>3</Rank>
+          <Stars>3</Stars>
+          <OpponentRank>3</OpponentRank>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>154</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.214</Address>
+            <AuroraPassword>FlimjC</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>14156387</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>pgaMkN</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_09b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>L4VTHpTxx7q2tJdJQaqxad</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/L4VTHpTxx7q2tJdJQaqxad/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="ULD_191" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_271" Count="2" />
+            <Card Id="EX1_621" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="CS1_129" Count="2" />
+            <Card Id="ULD_262" Count="1" />
+            <Card Id="CS2_181" Count="2" />
+            <Card Id="EX1_001" Count="2" />
+            <Card Id="EX1_332" Count="2" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_268" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_004" Count="2" />
+            <Card Id="CS2_235" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_517" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_723" Count="1" />
+            <Card Id="CS2_234" Count="2" />
+            <Card Id="ULD_268" Count="1" />
+            <Card Id="DAL_039" Count="1" />
+            <Card Id="TRL_258" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="ULD_718" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>c6f3106a-bb94-4f5a-92ce-55daee8b2c15</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-11-18T21:17:50.4606977+01:00</StartTime>
+          <EndTime>2019-11-18T21:23:08.9182777+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Kaspiyskiy#21806</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs Kaspiyskiy#21806(Shaman) 2123-181119.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>3</Rank>
+          <Stars>2</Stars>
+          <OpponentRank>3</OpponentRank>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.212</Address>
+            <AuroraPassword>NnCpDE</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>23396735</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>ijBkdA</SpectatorPassword>
+            <Version>1326263</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>JtAzkt5wYCdeoGkACLmFL4</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/JtAzkt5wYCdeoGkACLmFL4/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="BOT_517" Count="1" />
+            <Card Id="CS2_004" Count="2" />
+            <Card Id="CS2_235" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_007" Count="2" />
+            <Card Id="CS2_181" Count="2" Unconfirmed="1" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" />
+            <Card Id="EX1_001" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_191" Count="2" Unconfirmed="1" />
+            <Card Id="CS1_129" Count="2" />
+            <Card Id="ULD_271" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_268" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_621" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_332" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_262" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="ULD_291" Count="1" />
+            <Card Id="WE1_014" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="ULD_276" Count="2" />
+            <Card Id="ULD_170" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>COMBO</Name>
     </Deck>
@@ -4497,6 +5008,11 @@
       <Name>BEAST HUNTER</Name>
     </Deck>
     <Deck>
+      <DeckId>1e9485d7-92c1-482a-a29c-9a39634b2b38</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>14b3833b-c1ef-42ca-9481-72787ebfcf71</DeckId>
       <Games />
       <Name />
@@ -4637,14 +5153,14 @@
       <Name>CONTROL WARRIOR</Name>
     </Deck>
     <Deck>
-      <DeckId>8cfab147-5406-4c49-afd6-218b553d2a92</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>9873ae9c-37b5-4852-a608-5cecc6630dcd</DeckId>
       <Games />
       <Name>MECH HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>8cfab147-5406-4c49-afd6-218b553d2a92</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>12cc830f-d8be-41aa-a089-5ea9528339df</DeckId>
@@ -4677,14 +5193,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
       <Games />
       <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
+      <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>3f279879-da3f-4aad-adb6-82ee0aac7f46</DeckId>
@@ -4767,14 +5283,14 @@
       <Name>QUEST DRUID</Name>
     </Deck>
     <Deck>
-      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
-      <Games />
-      <Name>SHARK TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
+      <Games />
+      <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e2925b01-febf-4df6-a599-2545c57328b1</DeckId>
