@@ -3063,19 +3063,19 @@
       <Name>HIGHLANDER HUNTER</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>e9eb2c96-f7ce-488d-802f-678312029efa</Id>
-      <Name>QUEST DRUID</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Id>89ef421a-f34e-461a-a1c1-139536e23b6c</Id>
       <Name>HIGHLANDER</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</Id>
-      <Name>SHARK TEMPO</Name>
+      <Class>Druid</Class>
+      <Id>814373fe-5319-43c3-9cf7-ccff562975b8</Id>
+      <Name>MALYGOS</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
+      <Name>COMBO</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
