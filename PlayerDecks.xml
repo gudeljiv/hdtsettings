@@ -3048,11 +3048,6 @@
       <Name>TEMPO BURN</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>923e6739-8bb4-405e-bcda-5d37a8b6432b</Id>
-      <Name>QUEST</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warlock</Class>
       <Id>df91c2e2-8178-4cc0-9fc6-87ebd6615998</Id>
       <Name>ZOO WARLOCK</Name>
@@ -3073,9 +3068,14 @@
       <Name>MALYGOS</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
-      <Name>COMBO</Name>
+      <Class>Shaman</Class>
+      <Id>25a23857-1064-4121-9c3d-8046223f31b1</Id>
+      <Name>QUEST</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>8f7aa15f-3ed5-4778-b368-4e32d6d5f6a2</Id>
+      <Name>TEMPO QUESTING</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
