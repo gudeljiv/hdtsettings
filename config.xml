@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>8f7aa15f-3ed5-4778-b368-4e32d6d5f6a2</ActiveDeckIdString>
+  <ActiveDeckIdString>12dfa3a7-92de-4dd1-bb43-61748dce06d8</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -119,13 +119,13 @@
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>0</int>
+    <int>30</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -134,7 +134,7 @@
   <HideDrawChances>true</HideDrawChances>
   <HideInBackground>true</HideInBackground>
   <HideInMenu>true</HideInMenu>
-  <HideOpponentAttackIcon>true</HideOpponentAttackIcon>
+  <HideOpponentAttackIcon>false</HideOpponentAttackIcon>
   <OpponentCthunCounter>Auto</OpponentCthunCounter>
   <OpponentSpellsCounter>Never</OpponentSpellsCounter>
   <OpponentJadeCounter>Auto</OpponentJadeCounter>
@@ -147,7 +147,7 @@
   <HideOpponentFatigueCount>true</HideOpponentFatigueCount>
   <HideOverlay>false</HideOverlay>
   <HideOverlayInSpectator>false</HideOverlayInSpectator>
-  <HidePlayerAttackIcon>true</HidePlayerAttackIcon>
+  <HidePlayerAttackIcon>false</HidePlayerAttackIcon>
   <PlayerCthunCounter>Auto</PlayerCthunCounter>
   <PlayerSpellsCounter>Auto</PlayerSpellsCounter>
   <PlayerJadeCounter>Auto</PlayerJadeCounter>

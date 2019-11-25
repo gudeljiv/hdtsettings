@@ -142,6 +142,11 @@
       <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
+      <DeckId>ee74ef32-1274-4ce3-84cb-1a6b05ed5f90</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
+    </Deck>
+    <Deck>
       <DeckId>35304c7b-c4cf-42f8-99ed-b54cdd563676</DeckId>
       <Games />
       <Name>Monster Hunt 11-07 17:04</Name>
@@ -1603,6 +1608,11 @@
       <DeckId>ae8a41e0-5c14-493d-8714-e2526d1bc40c</DeckId>
       <Games />
       <Name>CONTROL</Name>
+    </Deck>
+    <Deck>
+      <DeckId>746066ac-c5a8-4680-8317-6fb66da41680</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>25884ab1-9db4-4e49-bf94-38746ae4e262</DeckId>
@@ -4994,6 +5004,89 @@
             <Card Id="ULD_169" Count="2" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>ba24a8f6-3acc-433f-a41b-317d63f94836</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2019-11-25T20:28:48.156588+01:00</StartTime>
+          <EndTime>2019-11-25T20:33:47.6046189+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>SUPREME#22230</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Priest) vs SUPREME#22230(Druid) 2033-251119.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <Rank>2</Rank>
+          <Stars>1</Stars>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>167</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.77</Address>
+            <AuroraPassword>EoMhoO</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>28770949</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>knBpKM</SpectatorPassword>
+            <Version>1330525</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>c470852d-bd60-4dcd-a113-8fde3025a7af</DeckId>
+          <DeckName>COMBO</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>52hQFFLWafBDqceuQwdXcH</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/52hQFFLWafBDqceuQwdXcH/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1865145308</HsDeckId>
+          <PlayerCards>
+            <Card Id="ULD_268" Count="2" />
+            <Card Id="CS2_235" Count="2" />
+            <Card Id="EX1_621" Count="2" />
+            <Card Id="EX1_332" Count="2" Unconfirmed="1" />
+            <Card Id="EX1_007" Count="2" Unconfirmed="1" />
+            <Card Id="CS2_236" Count="2" />
+            <Card Id="EX1_001" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_196" Count="2" Unconfirmed="1" />
+            <Card Id="ULD_262" Count="1" />
+            <Card Id="CS1_129" Count="2" Unconfirmed="1" />
+            <Card Id="BOT_517" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_191" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_004" Count="2" Unconfirmed="2" />
+            <Card Id="ULD_271" Count="2" Unconfirmed="2" />
+            <Card Id="NEW1_020" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_181" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_169" Count="1" />
+            <Card Id="ULD_131" Count="1" />
+            <Card Id="EX1_154" Count="2" />
+            <Card Id="TRL_343" Count="1" />
+            <Card Id="CS2_012" Count="1" />
+            <Card Id="ULD_138" Count="1" />
+            <Card Id="ULD_292" Count="1" />
+            <Card Id="EX1_164" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>COMBO</Name>
     </Deck>
@@ -5073,6 +5166,11 @@
       <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
+      <DeckId>cda7817b-c599-4d88-9a49-bed0b468b106</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
+    </Deck>
+    <Deck>
       <DeckId>5ae1cd40-ebe8-4525-9fdb-5824e06ed959</DeckId>
       <Games />
       <Name>CYCLONE MAGE</Name>
@@ -5098,14 +5196,14 @@
       <Name>MIDRANGE HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>e50b8d8b-ec93-4256-9b14-92fc0817da55</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>32b0fdc6-ca48-4e04-b92d-6b64b0140915</DeckId>
       <Games />
       <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
+      <DeckId>e50b8d8b-ec93-4256-9b14-92fc0817da55</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>df29edac-54da-40e7-92ee-edbc1a0797ed</DeckId>
@@ -5158,6 +5256,11 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>395b784f-4724-4f15-bb40-b5b08bbfd424</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
+    </Deck>
+    <Deck>
       <DeckId>0feed799-1920-4163-b2c5-e9bc1aa8e1b7</DeckId>
       <Games />
       <Name />
@@ -5193,14 +5296,14 @@
       <Name>TEMPO ROGUE</Name>
     </Deck>
     <Deck>
-      <DeckId>05540089-f94b-4423-adf5-ed26693e536b</DeckId>
-      <Games />
-      <Name>CYCLONE MAGE</Name>
-    </Deck>
-    <Deck>
       <DeckId>b689fe6b-6b0d-4d75-92f8-6add54298586</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>05540089-f94b-4423-adf5-ed26693e536b</DeckId>
+      <Games />
+      <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
       <DeckId>07a6cab0-78ae-4c0d-b5c8-c5bb1b05528c</DeckId>
@@ -5213,14 +5316,14 @@
       <Name>BEAST HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>26415aff-8f47-4b82-88b8-991d3c328501</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>a805492f-b493-436e-a43f-ad6223da21da</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>26415aff-8f47-4b82-88b8-991d3c328501</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>8990f902-e5a0-4285-ac75-7af1b69adbcc</DeckId>
@@ -5263,14 +5366,14 @@
       <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>6226d38e-2341-409f-8632-dfcf475c90fc</DeckId>
-      <Games />
-      <Name>SHARK TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>0a52fd2a-9738-49fc-b1d8-4df1b5f8fe19</DeckId>
       <Games />
       <Name>CYCLONE MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>6226d38e-2341-409f-8632-dfcf475c90fc</DeckId>
+      <Games />
+      <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e4c41efd-aff7-4562-beee-f9eaef6d4a53</DeckId>
@@ -5311,6 +5414,11 @@
       <DeckId>2ad9f4ed-3c70-46ed-b1c1-3f696d6d1c27</DeckId>
       <Games />
       <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
+      <DeckId>84c90c70-1ea7-4342-b3cf-989a89c28e3f</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>518cdb0a-0f8f-4a85-9722-fe59278ceac4</DeckId>
@@ -5533,14 +5641,14 @@
       <Name>CONTROL SHAMAN</Name>
     </Deck>
     <Deck>
-      <DeckId>1e9485d7-92c1-482a-a29c-9a39634b2b38</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>f9aa27dc-08ff-4207-aafe-4b09c949f9d2</DeckId>
       <Games />
       <Name>BEAST HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>1e9485d7-92c1-482a-a29c-9a39634b2b38</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>14b3833b-c1ef-42ca-9481-72787ebfcf71</DeckId>
@@ -5688,14 +5796,14 @@
       <Name>CONTROL WARRIOR</Name>
     </Deck>
     <Deck>
-      <DeckId>9873ae9c-37b5-4852-a608-5cecc6630dcd</DeckId>
-      <Games />
-      <Name>MECH HUNTER</Name>
-    </Deck>
-    <Deck>
       <DeckId>8cfab147-5406-4c49-afd6-218b553d2a92</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>9873ae9c-37b5-4852-a608-5cecc6630dcd</DeckId>
+      <Games />
+      <Name>MECH HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>12cc830f-d8be-41aa-a089-5ea9528339df</DeckId>
@@ -5728,19 +5836,24 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
-      <Games />
-      <Name>MURLOC SHAMAN</Name>
-    </Deck>
-    <Deck>
       <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
+      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <Games />
+      <Name>MURLOC SHAMAN</Name>
+    </Deck>
+    <Deck>
       <DeckId>3f279879-da3f-4aad-adb6-82ee0aac7f46</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>93db0b7b-8f85-4aff-bc18-0fe3923594ae</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>f3c4086b-5873-4a23-845b-7829779fa6e6</DeckId>
@@ -5751,6 +5864,11 @@
       <DeckId>8364424f-35c3-4fd8-b505-50c091291338</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>c942ec8f-ab47-435c-b354-e7723bab97f9</DeckId>
+      <Games />
+      <Name>DEATHRATTLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>064e0ac4-0f94-48aa-8b23-7af1bd616d80</DeckId>
@@ -5823,14 +5941,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
-      <Games />
-      <Name>TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
       <Games />
       <Name>SHARK TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
+      <Games />
+      <Name>TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e2925b01-febf-4df6-a599-2545c57328b1</DeckId>
