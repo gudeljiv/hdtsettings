@@ -105,27 +105,27 @@
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>0</int>
+    <int>1</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-24T00:00:00</dateTime>
+    <dateTime>2019-11-25T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>20</int>
+    <int>0</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -337,15 +337,15 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>100</TrackerWindowLeft>
-  <TrackerWindowTop>70</TrackerWindowTop>
+  <TrackerWindowLeft>34</TrackerWindowLeft>
+  <TrackerWindowTop>48</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
   <UseSameScaling>true</UseSameScaling>
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>false</WindowCardToolTips>
-  <WindowHeight>812</WindowHeight>
+  <WindowHeight>720</WindowHeight>
   <WindowWidth>1104</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>

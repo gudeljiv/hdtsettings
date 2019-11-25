@@ -1455,99 +1455,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_188</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BOT_447</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_319</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>TRL_249</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BOT_445</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BOT_568</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_065</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DAL_606</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_019</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_174</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_203</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>DAL_773</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_161</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_093</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_167</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_586</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Warlock</Class>
-    <LastEdited>2019-11-11T17:45:50.5931707+01:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <HsId>1838162970</HsId>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <IsArenaDeck>false</IsArenaDeck>
-    <IsDungeonDeck>false</IsDungeonDeck>
-    <DeckId>df91c2e2-8178-4cc0-9fc6-87ebd6615998</DeckId>
-    <Name>ZOO WARLOCK</Name>
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>EX1_169</Id>
         <Count>2</Count>
       </Card>
@@ -1656,111 +1563,6 @@
     <IsDungeonDeck>false</IsDungeonDeck>
     <DeckId>814373fe-5319-43c3-9cf7-ccff562975b8</DeckId>
     <Name>MALYGOS</Name>
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
-        <Id>DAL_723</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_724</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>ULD_714</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>TRL_097</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_234</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_622</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_626</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>ULD_268</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DAL_039</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS1_112</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>TRL_258</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_270</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BOT_548</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>ULD_208</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GIL_124</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>DAL_538</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>DAL_592</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DAL_724</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>ULD_718</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Priest</Class>
-    <LastEdited>2019-11-11T17:45:50.5961639+01:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <HsId>1851093681</HsId>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <IsArenaDeck>false</IsArenaDeck>
-    <IsDungeonDeck>false</IsDungeonDeck>
-    <DeckId>bc9da46f-7bbb-4c30-a093-84f233f15186</DeckId>
-    <Name>QUEST PRIEST</Name>
     <Tags />
   </Deck>
   <Deck>
@@ -3036,6 +2838,404 @@
     <Name>DEATHRATTLE ROGUE</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_447</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_319</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>TRL_249</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_445</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_568</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DAL_606</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_174</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DAL_773</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_161</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_093</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_167</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_116</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_586</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2019-11-25T16:01:54.8338646+01:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>CS2_188</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BOT_447</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_319</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>TRL_249</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BOT_445</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BOT_568</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS2_065</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DAL_606</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>NEW1_019</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_174</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_203</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_773</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_161</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_093</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_167</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_586</Id>
+            <Count>2</Count>
+          </Card>
+        </Cards>
+        <Class>Warlock</Class>
+        <LastEdited>2019-11-11T17:45:50.5931707+01:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>1838162970</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <DeckId>e7397470-5bcb-42f9-9cfc-7e2110de97f9</DeckId>
+        <Name>ZOO WARLOCK</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <HsId>1838162970</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>df91c2e2-8178-4cc0-9fc6-87ebd6615998</DeckId>
+    <Name>ZOO WARLOCK</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>DAL_723</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_724</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>TRL_502</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_661</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_714</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_622</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DAL_558</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ULD_268</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DAL_039</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>TRL_258</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_270</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_548</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ULD_208</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DAL_554</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DAL_592</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>TRL_513</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DAL_724</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_718</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2019-11-25T16:01:54.8458668+01:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>DAL_723</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_724</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_714</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>TRL_097</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS2_234</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_622</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_626</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_268</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DAL_039</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS1_112</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>TRL_258</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_270</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BOT_548</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_208</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>GIL_124</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_538</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_592</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DAL_724</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>ULD_718</Id>
+            <Count>2</Count>
+          </Card>
+        </Cards>
+        <Class>Priest</Class>
+        <LastEdited>2019-11-11T17:45:50.5961639+01:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>1851093681</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <DeckId>0d990335-103e-41b8-b481-da249497d84f</DeckId>
+        <Name>QUEST PRIEST</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <HsId>1851093681</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>bc9da46f-7bbb-4c30-a093-84f233f15186</DeckId>
+    <Name>QUEST PRIEST</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -3046,11 +3246,6 @@
       <Class>Mage</Class>
       <Id>8b2338d8-ce7b-4e8d-a254-bb30526393ea</Id>
       <Name>TEMPO BURN</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>df91c2e2-8178-4cc0-9fc6-87ebd6615998</Id>
-      <Name>ZOO WARLOCK</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Hunter</Class>
@@ -3071,6 +3266,16 @@
       <Class>Shaman</Class>
       <Id>25a23857-1064-4121-9c3d-8046223f31b1</Id>
       <Name>QUEST</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>df91c2e2-8178-4cc0-9fc6-87ebd6615998</Id>
+      <Name>ZOO WARLOCK</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
+      <Name>COMBO</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>
