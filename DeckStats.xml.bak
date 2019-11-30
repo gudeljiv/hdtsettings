@@ -102,6 +102,11 @@
       <Name>TEMPO ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>5783ecb7-b74a-4886-b4b0-d3fa81b2aef8</DeckId>
+      <Games />
+      <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
       <DeckId>ad34ba0a-a539-4516-bab7-381372fb0fe2</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
@@ -1495,6 +1500,11 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>45dcd549-d114-420a-b0d1-d25caf2482dc</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>47962ec2-41a4-4b10-82b2-5142141b6c35</DeckId>
       <Games />
       <Name />
@@ -1610,14 +1620,14 @@
       <Name>CONTROL</Name>
     </Deck>
     <Deck>
-      <DeckId>746066ac-c5a8-4680-8317-6fb66da41680</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>25884ab1-9db4-4e49-bf94-38746ae4e262</DeckId>
       <Games />
       <Name>Monster Hunt 11-07 16:38</Name>
+    </Deck>
+    <Deck>
+      <DeckId>746066ac-c5a8-4680-8317-6fb66da41680</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>03d4b193-03ca-4404-8679-1382d2bf2626</DeckId>
@@ -1768,11 +1778,6 @@
       <DeckId>9d94a6fc-fca7-41f6-b770-692dd66285bb</DeckId>
       <Games />
       <Name>Arena 17-10 20:16</Name>
-    </Deck>
-    <Deck>
-      <DeckId>89ef421a-f34e-461a-a1c1-139536e23b6c</DeckId>
-      <Games />
-      <Name>HIGHLANDER</Name>
     </Deck>
     <Deck>
       <DeckId>18a0b5ab-b585-463a-95c2-27d1def118b9</DeckId>
@@ -2072,6 +2077,11 @@
       <DeckId>a9ae3eac-06d1-4cd5-82dd-674d6f6423f2</DeckId>
       <Games />
       <Name>MECH HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>04a5eb9e-7c63-409f-8ebb-bdc294e11640</DeckId>
+      <Games />
+      <Name>Tombs of Terror 30-11 11:04</Name>
     </Deck>
     <Deck>
       <DeckId>efb771f4-cd0c-46ea-b6c8-89de19be1dbf</DeckId>
@@ -5156,11 +5166,6 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>12dfa3a7-92de-4dd1-bb43-61748dce06d8</DeckId>
-      <Games />
-      <Name>DEATHRATTLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>ee16cd78-3f5a-4fde-a1ea-4fbf8dfd33d8</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
@@ -5226,6 +5231,102 @@
       <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</DeckId>
+      <Games>
+        <Game>
+          <GameId>2ca22305-0c6e-4320-85f8-b9dd0e46d4da</GameId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>4</Turns>
+          <StartTime>2019-11-30T11:53:01.2673071+01:00</StartTime>
+          <EndTime>2019-11-30T11:55:15.0532177+01:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Decomposer#2760</OpponentName>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>36393</HearthstoneBuild>
+          <PlayerCardbackId>145</PlayerCardbackId>
+          <OpponentCardbackId>155</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.188</Address>
+            <AuroraPassword>CKJPpO</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>25362863</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>jnfehA</SpectatorPassword>
+            <Version>1339171</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>73</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</DeckId>
+          <DeckName>HIGHLANDER HUNTER</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>SLVJCwoPGFGJCXkcquatQY</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/SLVJCwoPGFGJCXkcquatQY/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1838537752</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_609" Count="1" />
+            <Card Id="GIL_577" Count="1" />
+            <Card Id="ULD_156" Count="1" />
+            <Card Id="EX1_617" Count="1" />
+            <Card Id="DAL_587" Count="1" />
+            <Card Id="DAL_378" Count="1" />
+            <Card Id="ULD_429" Count="1" />
+            <Card Id="BOT_548" Count="1" />
+            <Card Id="EX1_554" Count="1" />
+            <Card Id="BOT_700" Count="1" />
+            <Card Id="EX1_080" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_348" Count="1" Unconfirmed="1" />
+            <Card Id="DS1_184" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_610" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_611" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_152" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_086" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_003" Count="1" Unconfirmed="1" />
+            <Card Id="NEW1_031" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_536" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_539" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_530" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_209" Count="1" Unconfirmed="1" />
+            <Card Id="ULD_154" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_622" Count="1" Unconfirmed="1" />
+            <Card Id="DAL_371" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_347" Count="1" Unconfirmed="1" />
+            <Card Id="BOT_573" Count="1" Unconfirmed="1" />
+            <Card Id="WE1_037" Count="1" Unconfirmed="1" />
+            <Card Id="TRL_065" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BOT_445" Count="1" />
+            <Card Id="CS2_065" Count="1" />
+            <Card Id="DAL_400" Count="1" />
+            <Card Id="ULD_161" Count="1" />
+          </OpponentCards>
+        </Game>
+      </Games>
+      <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
       <DeckId>c2193ad0-a86e-4495-8ae7-e8a0cff20321</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
@@ -5279,11 +5380,6 @@
       <DeckId>6fe7788b-5e40-4b1d-b82f-d7569f97a551</DeckId>
       <Games />
       <Name />
-    </Deck>
-    <Deck>
-      <DeckId>a2a79840-12ce-44a3-94ca-7b56851dcbbd</DeckId>
-      <Games />
-      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>0153dbe5-ce1f-4730-824d-2aed1c67c0a8</DeckId>
@@ -5617,6 +5713,11 @@
     </Deck>
     <Deck>
       <DeckId>fb82d83b-0aa1-4cf4-916a-5a3cdb821542</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
+      <DeckId>597729ef-c90e-407b-9390-1f9d1db2ab06</DeckId>
       <Games />
       <Name />
     </Deck>

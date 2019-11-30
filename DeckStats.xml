@@ -102,6 +102,11 @@
       <Name>TEMPO ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>5783ecb7-b74a-4886-b4b0-d3fa81b2aef8</DeckId>
+      <Games />
+      <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
       <DeckId>ad34ba0a-a539-4516-bab7-381372fb0fe2</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
@@ -1775,11 +1780,6 @@
       <Name>Arena 17-10 20:16</Name>
     </Deck>
     <Deck>
-      <DeckId>89ef421a-f34e-461a-a1c1-139536e23b6c</DeckId>
-      <Games />
-      <Name>HIGHLANDER</Name>
-    </Deck>
-    <Deck>
       <DeckId>18a0b5ab-b585-463a-95c2-27d1def118b9</DeckId>
       <Games />
       <Name />
@@ -2077,6 +2077,11 @@
       <DeckId>a9ae3eac-06d1-4cd5-82dd-674d6f6423f2</DeckId>
       <Games />
       <Name>MECH HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>04a5eb9e-7c63-409f-8ebb-bdc294e11640</DeckId>
+      <Games />
+      <Name>Tombs of Terror 30-11 11:04</Name>
     </Deck>
     <Deck>
       <DeckId>efb771f4-cd0c-46ea-b6c8-89de19be1dbf</DeckId>
@@ -5161,11 +5166,6 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>12dfa3a7-92de-4dd1-bb43-61748dce06d8</DeckId>
-      <Games />
-      <Name>DEATHRATTLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>ee16cd78-3f5a-4fde-a1ea-4fbf8dfd33d8</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
@@ -5231,6 +5231,11 @@
       <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</DeckId>
+      <Games />
+      <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
       <DeckId>c2193ad0-a86e-4495-8ae7-e8a0cff20321</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
@@ -5284,11 +5289,6 @@
       <DeckId>6fe7788b-5e40-4b1d-b82f-d7569f97a551</DeckId>
       <Games />
       <Name />
-    </Deck>
-    <Deck>
-      <DeckId>a2a79840-12ce-44a3-94ca-7b56851dcbbd</DeckId>
-      <Games />
-      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>0153dbe5-ce1f-4730-824d-2aed1c67c0a8</DeckId>
@@ -5626,6 +5626,11 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>597729ef-c90e-407b-9390-1f9d1db2ab06</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>30f6af88-a7bc-44b0-bb3e-fc45ecf20bbb</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
@@ -5801,14 +5806,14 @@
       <Name>CONTROL WARRIOR</Name>
     </Deck>
     <Deck>
-      <DeckId>9873ae9c-37b5-4852-a608-5cecc6630dcd</DeckId>
-      <Games />
-      <Name>MECH HUNTER</Name>
-    </Deck>
-    <Deck>
       <DeckId>8cfab147-5406-4c49-afd6-218b553d2a92</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>9873ae9c-37b5-4852-a608-5cecc6630dcd</DeckId>
+      <Games />
+      <Name>MECH HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>12cc830f-d8be-41aa-a089-5ea9528339df</DeckId>
@@ -5841,14 +5846,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
-      <Games />
-      <Name>MURLOC SHAMAN</Name>
-    </Deck>
-    <Deck>
       <DeckId>de2d6323-ff7b-4ab8-9833-2dfcf03d4b17</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>8aebed4b-07e9-4bc7-a963-f7bdee9e29e8</DeckId>
+      <Games />
+      <Name>MURLOC SHAMAN</Name>
     </Deck>
     <Deck>
       <DeckId>3f279879-da3f-4aad-adb6-82ee0aac7f46</DeckId>
@@ -5871,14 +5876,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>064e0ac4-0f94-48aa-8b23-7af1bd616d80</DeckId>
-      <Games />
-      <Name>BOMB WARRIOR</Name>
-    </Deck>
-    <Deck>
       <DeckId>c942ec8f-ab47-435c-b354-e7723bab97f9</DeckId>
       <Games />
       <Name>DEATHRATTLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>064e0ac4-0f94-48aa-8b23-7af1bd616d80</DeckId>
+      <Games />
+      <Name>BOMB WARRIOR</Name>
     </Deck>
     <Deck>
       <DeckId>d39e439c-1c35-4e0d-baef-6bdd4e28fa3f</DeckId>
@@ -5946,14 +5951,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
-      <Games />
-      <Name>TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>32783393-5568-49af-8443-e0c31b57617f</DeckId>
       <Games />
       <Name>SHARK TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>10ed5e4f-312c-4baa-a515-edb161661cfc</DeckId>
+      <Games />
+      <Name>TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>e2925b01-febf-4df6-a599-2545c57328b1</DeckId>
