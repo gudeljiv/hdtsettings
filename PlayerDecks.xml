@@ -2795,10 +2795,6 @@
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>DS1_184</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>EX1_610</Id>
         <Count>1</Count>
       </Card>
@@ -2839,6 +2835,10 @@
         <Count>1</Count>
       </Card>
       <Card>
+        <Id>ULD_430</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
         <Id>EX1_536</Id>
         <Count>1</Count>
       </Card>
@@ -2859,7 +2859,11 @@
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>ULD_209</Id>
+        <Id>EX1_538</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DAL_604</Id>
         <Count>1</Count>
       </Card>
       <Card>
@@ -2867,15 +2871,7 @@
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>GIL_622</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>DAL_371</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>TRL_347</Id>
         <Count>1</Count>
       </Card>
       <Card>
@@ -2899,18 +2895,22 @@
         <Count>1</Count>
       </Card>
       <Card>
+        <Id>WE1_027</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
         <Id>TRL_065</Id>
         <Count>1</Count>
       </Card>
     </Cards>
     <Class>Hunter</Class>
-    <LastEdited>2019-11-30T11:52:43.4848669+01:00</LastEdited>
+    <LastEdited>2019-12-01T17:05:08.6550886+01:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>1</Minor>
+      <Minor>2</Minor>
       <Revision>0</Revision>
     </Version>
     <DeckHistory>
@@ -3059,7 +3059,156 @@
         </SelectedVersion>
         <IsArenaDeck>false</IsArenaDeck>
         <IsDungeonDeck>false</IsDungeonDeck>
-        <DeckId>5783ecb7-b74a-4886-b4b0-d3fa81b2aef8</DeckId>
+        <DeckId>585612d0-8a12-4eac-a44f-ac349d284302</DeckId>
+        <Name>HIGHLANDER HUNTER</Name>
+        <Tags />
+      </Deck>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>EX1_080</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_587</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>TRL_348</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DS1_184</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_610</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_611</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_152</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GIL_577</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_554</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_609</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_086</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_003</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>NEW1_031</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_617</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_536</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_429</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_539</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>TRL_530</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BOT_700</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_209</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_154</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GIL_622</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_371</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>TRL_347</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BOT_573</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BOT_548</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DAL_378</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>ULD_156</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>WE1_037</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>TRL_065</Id>
+            <Count>1</Count>
+          </Card>
+        </Cards>
+        <Class>Hunter</Class>
+        <LastEdited>2019-11-30T11:52:43.4848669+01:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>1</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>1838537752</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>1</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <DeckId>c66bf217-add5-4fe9-9352-43bd3d258634</DeckId>
         <Name>HIGHLANDER HUNTER</Name>
         <Tags />
       </Deck>
@@ -3070,13 +3219,102 @@
     <SelectedVersion>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>1</Minor>
+      <Minor>2</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
     <IsDungeonDeck>false</IsDungeonDeck>
     <DeckId>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</DeckId>
     <Name>HIGHLANDER HUNTER</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>DAL_071</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_600</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WE1_014</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_238</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DAL_433</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_451</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_276</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>TRL_352</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DAL_710</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_719</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_241</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>TRL_060</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_046</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ULD_169</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_586</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Shaman</Class>
+    <LastEdited>2019-12-01T17:05:08.6790621+01:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1872478765</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>824dc2a9-5b08-4135-82b2-47665dde7228</DeckId>
+    <Name>AGGRO SHAMAN</Name>
     <Tags />
   </Deck>
   <LastDeckClass>
@@ -3106,11 +3344,6 @@
       <Name>COMBO</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>25a23857-1064-4121-9c3d-8046223f31b1</Id>
-      <Name>QUEST</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Id>4e04a2f3-0d7a-4cd3-92bc-6448e54b603b</Id>
       <Name>Custom Mage</Name>
@@ -3119,6 +3352,16 @@
       <Class>Rogue</Class>
       <Id>8f7aa15f-3ed5-4778-b368-4e32d6d5f6a2</Id>
       <Name>TEMPO QUESTING</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</Id>
+      <Name>HIGHLANDER HUNTER</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>824dc2a9-5b08-4135-82b2-47665dde7228</Id>
+      <Name>AGGRO SHAMAN</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

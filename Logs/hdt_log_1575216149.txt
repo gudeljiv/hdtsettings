@@ -1,0 +1,37 @@
+4:58:47 PM|Info|Core.Initialize >> HDT: 1.8.22.3855, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+4:58:47 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+4:58:47 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+4:58:47 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+4:58:47 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+4:58:47 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+4:58:47 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:58:48 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating Spawn.HDT.DustUtility.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\ArenaHelper.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\Emgu.CV.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\Emgu.Util.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Deleting ArenaHelper\plugins
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\data\cardhashes.json
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\data\cardtier.json
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\data\version.json
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\x86\cvextern.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\x86\msvcp120.dll
+4:58:49 PM|Info|PluginManager.SyncPlugins >> Updating ArenaHelper\x86\msvcr120.dll
+4:58:50 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+4:58:51 PM|Info|MainWindow.SelectDeck >> Switched to deck: HIGHLANDER HUNTER (v1.1)
+4:58:51 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:58:52 PM|Info|BackupManager.Run >> Running BackupManager
+4:58:52 PM|Info|BackupManager.Run >> Backup for today already exists
+4:58:52 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+4:58:53 PM|Info|GitHub.CheckForUpdate >> HearthSim/Hearthstone-Deck-Tracker: Checking for updates (current=1.8.22.3855, pre-release=False)
+4:58:53 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+4:58:53 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+4:58:53 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=949, ServerTS=12/1/2019 1:21:59 PM, Downloaded=12/1/2019 2:29:10 PM Age=02:29:43.0115075
+4:58:53 PM|Info|HsReplayDecks.Load >> Complete: Count=949, ServerTS=12/1/2019 1:21:59 PM, Downloaded=12/1/2019 2:29:10 PM Age=02:29:43.0115075
+4:58:53 PM|Info|GitHub.CheckForUpdate >> HearthSim/Hearthstone-Deck-Tracker: A new version is available (latest=v1.9.0, pre-release=False)
+4:58:53 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+4:58:56 PM|Info|Updater.StartUpdate >> Starting update...
+4:58:56 PM|Info|MainWindow.Window_Closing >> Shutting down...

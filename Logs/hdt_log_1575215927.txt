@@ -1,0 +1,81 @@
+2:28:46 PM|Info|Core.Initialize >> HDT: 1.9.0.3860, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+2:28:46 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+2:28:46 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+2:28:47 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+2:28:48 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:28:50 PM|Info|Updater.SquirrelUpdate >> No new updated available
+2:28:50 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+2:28:51 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+2:28:51 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+2:28:51 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+2:28:51 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+2:28:51 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:28:53 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+2:28:55 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+2:29:02 PM|Info|MainWindow.SelectDeck >> Switched to deck: HIGHLANDER HUNTER (v1.1)
+2:29:02 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:29:07 PM|Info|BackupManager.Run >> Running BackupManager
+2:29:07 PM|Info|BackupManager.Run >> Deleting old backup: Backup_19112019.zip
+2:29:07 PM|Info|BackupManager.Run >> Creating backup for today
+2:29:08 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+2:29:09 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+2:29:09 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+2:29:09 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=980, ServerTS=11/29/2019 6:32:33 PM, Downloaded=11/29/2019 7:47:52 PM Age=1.18:41:17.0998849
+2:29:09 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+2:29:09 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+2:29:10 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+2:29:10 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+2:29:10 PM|Info|HsReplayDecks.Load >> Complete: Count=949, ServerTS=12/1/2019 1:21:59 PM, Downloaded=12/1/2019 2:29:10 PM Age=00:00:00.0939931
+14:29:53|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+14:29:57|Info|LogWatcherManager.OnLogFileFound >> Achievements
+2:29:58 PM|Info|Helper.GetCurrentRegion >> Region: EU
+2:29:58 PM|Info|BackupManager.Run >> Running BackupManager
+2:29:58 PM|Info|BackupManager.Run >> Backup for today already exists
+2:29:59 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:30:00 PM|Info|GameV2.CurrentMode >> LOGIN
+14:30:06|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+2:30:07 PM|Info|GameV2.CurrentMode >> HUB
+2:30:07 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+2:30:55 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+2:34:34 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 53
+   at HearthMirror.Reflection.InternalGetGameType() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 188
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:38 PM|... 10 duplicate messages
+2:34:38 PM|Warning|Core.Initialize >> HearthMirror Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 49
+   at HearthMirror.Reflection.InternalGetGameType() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 188
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:38 PM|Warning|Core.Initialize >> HearthMirror Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.IsFriendlyChallengeDialogVisibleInternal() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 513
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:38 PM|Warning|Core.Initialize >> HearthMirror Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 49
+   at HearthMirror.Reflection.InternalGetGameType() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 188
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:39 PM|Info|Core.UpdateOverlayAsync >> Exited game
+2:34:39 PM|Info|Core.UpdateOverlayAsync >> Reset region
+2:34:39 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:34:39 PM|Warning|Core.Initialize >> HearthMirror Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 49
+   at HearthMirror.Reflection.InternalGetGameType() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 188
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:40 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+2:34:40 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 53
+   at HearthMirror.Reflection.<>c.<IsSpectating>b__20_0() in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 190
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache) in C:\projects\hearthstone-deck-tracker\HearthMirror\HearthMirror\Reflection.cs:line 35
+2:34:40 PM|Info|MainWindow.Window_Closing >> Shutting down...

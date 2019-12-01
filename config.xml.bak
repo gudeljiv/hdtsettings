@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</ActiveDeckIdString>
+  <ActiveDeckIdString>824dc2a9-5b08-4135-82b2-47665dde7228</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -112,14 +112,14 @@
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2019-11-30T00:00:00</dateTime>
+    <dateTime>2019-12-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>0</int>
+    <int>10</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
