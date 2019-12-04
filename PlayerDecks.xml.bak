@@ -3339,11 +3339,6 @@
       <Name>ZOO WARLOCK</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
-      <Name>COMBO</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Id>4e04a2f3-0d7a-4cd3-92bc-6448e54b603b</Id>
       <Name>Custom Mage</Name>
@@ -3357,6 +3352,11 @@
       <Class>Hunter</Class>
       <Id>fdf876f8-c840-40fe-93fa-d29d98e8c3b7</Id>
       <Name>HIGHLANDER HUNTER</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>c470852d-bd60-4dcd-a113-8fde3025a7af</Id>
+      <Name>COMBO</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Shaman</Class>
