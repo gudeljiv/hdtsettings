@@ -125,7 +125,7 @@
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -338,8 +338,8 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>141</TrackerWindowLeft>
-  <TrackerWindowTop>140</TrackerWindowTop>
+  <TrackerWindowLeft>128</TrackerWindowLeft>
+  <TrackerWindowTop>124</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
