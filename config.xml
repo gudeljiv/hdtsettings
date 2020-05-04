@@ -348,8 +348,8 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>320</TrackerWindowLeft>
-  <TrackerWindowTop>254</TrackerWindowTop>
+  <TrackerWindowLeft>248</TrackerWindowLeft>
+  <TrackerWindowTop>222</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>

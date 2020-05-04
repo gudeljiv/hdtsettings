@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 7:23:15 PM|Info|Core.Initialize >> HDT: 1.11.7.3957, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
 7:23:15 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
 7:23:15 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
@@ -2361,3 +2362,5 @@ System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the
 11:23:16 PM|Info|Updater.SquirrelUpdate >> No new updated available
 11:43:15 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
 11:43:16 PM|Info|Updater.SquirrelUpdate >> No new updated available
+=======
+>>>>>>> 28eb13367babc00073b3915963798a9d192d8d7f
