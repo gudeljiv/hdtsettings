@@ -1,0 +1,55 @@
+8:46:58 PM|Info|Core.Initialize >> HDT: 1.11.6.3953, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+8:46:58 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+8:46:58 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+8:46:58 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+8:46:59 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:47:00 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:47:00 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+8:47:00 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+8:47:00 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+8:47:00 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+8:47:00 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+8:47:00 PM|Info|GameV2.Reset >> -------- Reset ---------
+8:47:01 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding Autosquelch.dll
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding Spawn.HDT.DustUtility.dll
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\ArenaHelper.dll
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.CV.dll
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.Util.dll
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardhashes.json
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardtier.json
+8:47:01 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\version.json
+8:47:02 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\cvextern.dll
+8:47:02 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcp120.dll
+8:47:02 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcr120.dll
+8:47:02 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+8:47:03 PM|Info|MainWindow.SelectDeck >> Switched to deck: Underbelly (v1.0)
+8:47:03 PM|Info|GameV2.Reset >> -------- Reset ---------
+8:47:04 PM|Info|BackupManager.Run >> Running BackupManager
+8:47:04 PM|Info|BackupManager.Run >> Backup for today already exists
+8:47:04 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+8:47:04 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.11.6\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+8:47:04 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.11.6\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+8:47:04 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+8:47:04 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+8:47:04 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=4042, ServerTS=4/29/2020 6:45:15 PM, Downloaded=4/29/2020 10:23:01 PM Age=22:24:02.8987101
+8:47:04 PM|Info|HsReplayDecks.Load >> Complete: Count=4042, ServerTS=4/29/2020 6:45:15 PM, Downloaded=4/29/2020 10:23:01 PM Age=22:24:02.8987101
+8:47:05 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+20:47:09|Info|MainWindow.Window_Closing >> Shutting down...
+20:47:10|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+20:47:10|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89

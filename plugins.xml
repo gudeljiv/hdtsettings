@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfPluginSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PluginSettings>
-    <FileName>Plugins/Spawn.HDT.DustUtility.dll</FileName>
+    <FileName>Plugins/Autosquelch.dll</FileName>
     <IsEnabled>false</IsEnabled>
-    <Name>Dust Utility</Name>
-  </PluginSettings>
-  <PluginSettings>
-    <FileName>Plugins/ArenaHelper/ArenaHelper.dll</FileName>
-    <IsEnabled>false</IsEnabled>
-    <Name>Arena Helper</Name>
+    <Name>Autosquelch</Name>
   </PluginSettings>
 </ArrayOfPluginSettings>
