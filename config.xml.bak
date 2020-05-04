@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Emerald</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>d2beedd7-3702-4b9a-bcaf-604cab576643</ActiveDeckIdString>
+  <ActiveDeckIdString>00000000-0000-0000-0000-000000000000</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -126,7 +126,7 @@
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -275,7 +275,7 @@
   </SelectedDeckPickerClasses>
   <SelectedDeckSorting>Name</SelectedDeckSorting>
   <SelectedDeckSortingArena>Name</SelectedDeckSortingArena>
-  <SelectedDeckPickerDeckType>Standard</SelectedDeckPickerDeckType>
+  <SelectedDeckPickerDeckType>All</SelectedDeckPickerDeckType>
   <SelectedLanguage>enUS</SelectedLanguage>
   <AlternativeLanguages />
   <SelectedStatsFilterGameMode>All</SelectedStatsFilterGameMode>
@@ -348,15 +348,15 @@
   <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>320</TrackerWindowLeft>
-  <TrackerWindowTop>254</TrackerWindowTop>
+  <TrackerWindowLeft>248</TrackerWindowLeft>
+  <TrackerWindowTop>222</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
   <UseSameScaling>true</UseSameScaling>
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>false</WindowCardToolTips>
-  <WindowHeight>864</WindowHeight>
+  <WindowHeight>684</WindowHeight>
   <WindowWidth>1104</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>
