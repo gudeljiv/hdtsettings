@@ -1,0 +1,73 @@
+12:02:41 AM|Info|Core.Initialize >> HDT: 1.11.7.3957, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+12:02:41 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+12:02:41 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+12:02:41 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+12:02:42 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:02:43 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:02:43 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+12:02:43 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+12:02:43 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+12:02:43 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+12:02:43 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+12:02:43 AM|Info|GameV2.Reset >> -------- Reset ---------
+12:02:44 AM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+12:02:45 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+12:02:46 AM|Info|MainWindow.SelectDeck >> Switched to deck: Secrets (v1.0)
+12:02:46 AM|Info|GameV2.Reset >> -------- Reset ---------
+12:02:47 AM|Info|BackupManager.Run >> Running BackupManager
+12:02:47 AM|Info|BackupManager.Run >> Deleting old backup: Backup_25042020.zip
+12:02:47 AM|Info|BackupManager.Run >> Deleting old backup: Backup_27042020.zip
+12:02:47 AM|Info|BackupManager.Run >> Deleting old backup: Backup_28042020.zip
+12:02:47 AM|Info|BackupManager.Run >> Creating backup for today
+12:02:47 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+12:02:47 AM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.11.7\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+12:02:47 AM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.11.7\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+12:02:47 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+12:02:47 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+12:02:47 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=4196, ServerTS=5/4/2020 1:23:22 PM, Downloaded=5/4/2020 7:23:22 PM Age=04:39:25.1978451
+12:02:47 AM|Info|HsReplayDecks.Load >> Complete: Count=4196, ServerTS=5/4/2020 1:23:22 PM, Downloaded=5/4/2020 7:23:22 PM Age=04:39:25.1978451
+12:02:48 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+0:02:56|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck 9rEtMPiKVPddQlXQPWLiCg
+0:02:59|... 1 duplicate messages
+0:02:59|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Face Hunter
+0:02:59|Info|MainWindow.DeleteDeck >> Deleted deck: Face Hunter
+0:03:00|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Morphosis to default stats
+0:03:00|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Morphosis
+0:03:00|Info|MainWindow.DeleteDeck >> Deleted deck: Morphosis
+0:03:00|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: OTK
+0:03:00|Info|MainWindow.DeleteDeck >> Deleted deck: OTK
+0:03:00|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: EZ wins
+0:03:00|Info|MainWindow.DeleteDeck >> Deleted deck: EZ wins
+0:03:01|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Highlander Stealth to default stats
+0:03:01|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander Stealth
+0:03:01|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander Stealth
+0:03:01|Info|DeckList.ActiveDeck >> Set active deck to: 
+0:03:01|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Secrets to default stats
+0:03:01|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Secrets
+0:03:01|Info|MainWindow.DeleteDeck >> Deleted deck: Secrets
+0:03:02|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Teron to default stats
+0:03:02|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Teron
+0:03:02|Info|MainWindow.DeleteDeck >> Deleted deck: Teron
+0:03:02|Info|GameV2.Reset >> -------- Reset ---------
+0:03:03|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+0:03:09|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Brawl 29-04 22:23 to default stats
+0:03:09|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 29-04 22:23
+0:03:09|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 29-04 22:23
+0:03:10|Info|MainWindow.Window_Closing >> Shutting down...
+0:03:10|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+0:03:10|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89
