@@ -797,5 +797,10 @@
       <Id>d8e08be3-5b57-409b-bb42-1a43ebf09d8b</Id>
       <Name>Morphosis</Name>
     </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>b7f00dc1-2f00-4b2a-9f3b-be02832501d4</Id>
+      <Name>Secrets</Name>
+    </DeckInfo>
   </LastDeckClass>
 </Decks>
