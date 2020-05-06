@@ -1229,7 +1229,89 @@
     </Deck>
     <Deck>
       <DeckId>d8e08be3-5b57-409b-bb42-1a43ebf09d8b</DeckId>
-      <Games />
+      <Games>
+        <Game>
+          <GameId>2f4428c6-8c89-43ab-a139-5683dd577125</GameId>
+          <PlayerHero>DemonHunter</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2020-05-05T21:42:22.3118946+02:00</StartTime>
+          <EndTime>2020-05-05T21:46:05.4114201+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>СуперМаг#1708</OpponentName>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>45932</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>189</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.213</Address>
+            <AuroraPassword>KGANHo</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>163937</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>KiaaOe</SpectatorPassword>
+            <Version>1549010</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>79</RankedSeasonId>
+          <OpponentHeroCardId>HERO_09a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>d8e08be3-5b57-409b-bb42-1a43ebf09d8b</DeckId>
+          <DeckName>Morphosis</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>o4XvtDcAb3wettcyCz4xTd</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/o4XvtDcAb3wettcyCz4xTd/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1925921447</HsDeckId>
+          <PlayerCards>
+            <Card Id="BT_175" Count="2" Unconfirmed="1" />
+            <Card Id="BT_493" Count="2" Unconfirmed="1" />
+            <Card Id="BT_187" Count="1" />
+            <Card Id="BT_753" Count="1" />
+            <Card Id="BT_491" Count="2" Unconfirmed="1" />
+            <Card Id="BT_416" Count="2" />
+            <Card Id="DRG_239" Count="2" Unconfirmed="1" />
+            <Card Id="BT_352" Count="2" />
+            <Card Id="BT_351" Count="2" Unconfirmed="1" />
+            <Card Id="BT_480" Count="2" Unconfirmed="1" />
+            <Card Id="BT_430" Count="2" Unconfirmed="1" />
+            <Card Id="BT_496" Count="1" />
+            <Card Id="BT_035" Count="1" Unconfirmed="1" />
+            <Card Id="BT_922" Count="1" Unconfirmed="1" />
+            <Card Id="BT_921" Count="1" Unconfirmed="1" />
+            <Card Id="BT_801" Count="2" Unconfirmed="2" />
+            <Card Id="BT_937" Count="1" Unconfirmed="1" />
+            <Card Id="BT_429" Count="1" Unconfirmed="1" />
+            <Card Id="BT_601" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="ULD_724" Count="1" />
+            <Card Id="ULD_714" Count="1" />
+            <Card Id="DRG_307" Count="1" />
+            <Card Id="EX1_626" Count="1" />
+            <Card Id="DRG_246" Count="1" />
+            <Card Id="ULD_208" Count="1" />
+          </OpponentCards>
+        </Game>
+      </Games>
       <Name>Morphosis</Name>
     </Deck>
     <Deck>
