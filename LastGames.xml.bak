@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="f7395703-b857-43a4-8c6a-5cbd4626a5fe" gameId="8a5f002e-5ab2-4435-be95-527db9c9a6cf" />
+  <GameInfo deckId="f7395703-b857-43a4-8c6a-5cbd4626a5fe" gameId="9bbaca9e-a58d-4045-b3a0-ab06249afa91" />
+  <GameInfo deckId="f7395703-b857-43a4-8c6a-5cbd4626a5fe" gameId="ca3b764d-b016-4588-b287-2a8f466a421c" />
+  <GameInfo deckId="b7f00dc1-2f00-4b2a-9f3b-be02832501d4" gameId="b050887e-84ff-4df0-9eb3-8d7aacc23391" />
   <GameInfo deckId="b7f00dc1-2f00-4b2a-9f3b-be02832501d4" gameId="010a8336-fe3a-4bc5-aff6-eada4413077e" />
 </ArrayOfGameInfo>
