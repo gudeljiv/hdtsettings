@@ -1,0 +1,164 @@
+2:41:27 PM|Info|Core.Initialize >> HDT: 1.11.8.3961, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
+2:41:27 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+2:41:27 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+2:41:28 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+2:41:29 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:41:30 PM|Info|Updater.SquirrelUpdate >> No new updated available
+2:41:30 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+2:41:31 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+2:41:31 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+2:41:31 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+2:41:31 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+2:41:32 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:41:33 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+2:41:43 PM|Info|MainWindow.SelectDeck >> Switched to deck: Morphosis (v1.1)
+2:41:43 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:41:48 PM|Info|BackupManager.Run >> Running BackupManager
+2:41:48 PM|Info|BackupManager.Run >> Backup for today already exists
+2:41:48 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+2:41:48 PM|Error|PluginManager.GetModule >> Error loading C:\Users\gudeljiv\AppData\Local\HearthstoneDeckTracker\app-1.11.8\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+2:41:48 PM|Error|PluginManager.GetModule >> Error loading C:\Users\gudeljiv\AppData\Local\HearthstoneDeckTracker\app-1.11.8\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in C:\projects\hearthstone-deck-tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+2:41:48 PM|Info|Helper.GetCurrentRegion >> Region: EU
+2:41:48 PM|Info|BackupManager.Run >> Running BackupManager
+2:41:48 PM|Info|BackupManager.Run >> Backup for today already exists
+2:41:49 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+2:41:49 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:41:49 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+2:41:49 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+2:41:49 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+2:41:50 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=4246, ServerTS=5/5/2020 7:15:14 PM, Downloaded=5/5/2020 9:26:00 PM Age=17:15:49.2529009
+2:41:50 PM|Info|HsReplayDecks.Load >> Complete: Count=4246, ServerTS=5/5/2020 7:15:14 PM, Downloaded=5/5/2020 9:26:00 PM Age=17:15:49.2547564
+2:41:50 PM|Info|GameV2.CurrentMode >> LOGIN
+2:41:50 PM|Info|GameV2.CurrentMode >> HUB
+2:41:50 PM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+2:41:55 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:41:55 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 12 tries.
+2:41:55 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 11 tries.
+2:42:01 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+2:42:01 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+2:42:12 PM|Info|FullScreenFxHandler.Handle >> Now in queue (5/6/2020 2:42:12 PM)
+2:42:12 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=1925921447
+2:42:12 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+2:42:12 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Morphosis
+2:42:12 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+2:42:12 PM|Info|DeckManager.AutoSelectDeckById >> Already using the correct deck
+2:42:26 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+2:42:26 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:42:26 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+2:42:26 PM|Info|TurnTimer.Start >> Starting turn timer
+2:42:26 PM|Warning|TurnTimer.Start >> Waiting for player entity
+2:42:26 PM|Info|LogWatcherManager.OnLogFileFound >> Power
+2:42:27 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+2:42:29 PM|... 1 duplicate messages
+2:42:29 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=2] vs PainKiller#2892 [PlayerId=1]
+2:42:30 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+2:42:30 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=27
+2:42:30 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=65
+2:42:30 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Shaman
+2:42:30 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=67
+2:42:30 PM|Info|GameEventHandler.SetPlayerHero >> Player=DemonHunter
+2:42:30 PM|Info|Player.Draw >> [Opponent] id=14, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:42:30 PM|Info|Player.Draw >> [Opponent] id=29, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:42:30 PM|Info|Player.Draw >> [Opponent] id=23, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:42:30 PM|Info|Player.Draw >> [Player] id=39, cardId=BT_801, cardName=Eye Beam, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_801}
+2:42:30 PM|Info|Player.Draw >> [Player] id=46, cardId=BT_480, cardName=Crimson Sigil Runner, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_480}
+2:42:30 PM|Info|Player.Draw >> [Player] id=56, cardId=BT_495, cardName=Glaivebound Adept, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_495}
+2:42:30 PM|Info|Player.Draw >> [Player] id=45, cardId=BT_491, cardName=Spectral Sight, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_491}
+2:42:30 PM|Info|Player.CreateInHand >> [Player] id=69, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=GAME_005}
+2:42:42 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:42:49 PM|Info|Player.Draw >> [Opponent] id=33, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:42:49 PM|Info|Player.Mulligan >> [Opponent] id=29, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:42:50 PM|Info|Player.Draw >> [Player] id=51, cardId=BT_922, cardName=Umberwing, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_922}
+2:42:50 PM|Info|Player.Mulligan >> [Player] id=56, cardId=BT_495, cardName=Glaivebound Adept, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2, latestCardId=BT_495}
+2:42:50 PM|Info|Player.Draw >> [Player] id=59, cardId=BT_601, cardName=Skull of Gul'dan, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_601}
+2:42:50 PM|Info|Player.Mulligan >> [Player] id=45, cardId=BT_491, cardName=Spectral Sight, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2, latestCardId=BT_491}
+2:42:51 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:42:58 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+2:42:58 PM|Info|Player.Draw >> [Opponent] id=34, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=1}
+2:42:59 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:43:00 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+2:43:00 PM|Info|Player.Draw >> [Player] id=60, cardId=DRG_239, cardName=Blazing Battlemage, zonePos=6,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=DRG_239}
+2:43:06 PM|Info|Player.Play >> [Player] id=60, cardId=DRG_239, cardName=Blazing Battlemage, zonePos=0,Info={turn=1, originalZone=DECK, OriginalController=2, latestCardId=DRG_239}
+2:43:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+2:43:06 PM|Info|Player.Draw >> [Opponent] id=12, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=1}
+2:43:18 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_049 turn:2 from:-1)
+2:43:18 PM|Info|Player.CreateInPlay >> [Opponent] id=79, cardId=CS2_052, cardName=Wrath of Air Totem, zonePos=1,Info={turn=2, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=CS2_052}
+2:43:21 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+2:43:21 PM|Info|Player.Draw >> [Player] id=36, cardId=BT_175, cardName=Twin Slice, zonePos=6,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_175}
+2:43:32 PM|Info|Player.Play >> [Player] id=51, cardId=BT_922, cardName=Umberwing, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2, latestCardId=BT_922}
+2:43:32 PM|Info|Player.CreateInPlay >> [Player] id=81, cardId=BT_922t, cardName=Felwing, zonePos=2,Info={turn=2, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_922t}
+2:43:32 PM|Info|Player.CreateInPlay >> [Player] id=82, cardId=BT_922t, cardName=Felwing, zonePos=3,Info={turn=2, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=BT_922t}
+2:43:36 PM|Info|Player.PlayToGraveyard >> [Opponent] id=79, cardId=CS2_052, cardName=Wrath of Air Totem, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=CS2_052}
+2:43:39 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+2:43:39 PM|Info|Player.Draw >> [Opponent] id=11, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=1}
+2:43:45 PM|Info|Player.Play >> [Opponent] id=23, cardId=ULD_719, cardName=Desert Hare, zonePos=1,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=ULD_719}
+2:43:46 PM|Info|Player.CreateInPlay >> [Opponent] id=84, cardId=ULD_719, cardName=Desert Hare, zonePos=1,Info={turn=3, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=ULD_719}
+2:43:46 PM|Info|Player.CreateInPlay >> [Opponent] id=85, cardId=ULD_719, cardName=Desert Hare, zonePos=3,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=ULD_719}
+2:43:48 PM|Info|Player.Play >> [Opponent] id=12, cardId=DAL_071, cardName=Mutate, zonePos=0,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=DAL_071}
+2:43:50 PM|Info|Player.PlayToGraveyard >> [Opponent] id=12, cardId=DAL_071, cardName=Mutate, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=DAL_071}
+2:43:53 PM|Info|Player.Play >> [Opponent] id=14, cardId=DAL_071, cardName=Mutate, zonePos=0,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=DAL_071}
+2:43:55 PM|Info|Player.PlayToGraveyard >> [Opponent] id=14, cardId=DAL_071, cardName=Mutate, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=DAL_071}
+2:43:57 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+2:43:57 PM|Info|Player.Draw >> [Player] id=63, cardId=BT_416, cardName=Raging Felscreamer, zonePos=6,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_416}
+2:43:59 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:44:13 PM|Info|Player.PlayToGraveyard >> [Player] id=81, cardId=BT_922t, cardName=Felwing, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=BT_922t}
+2:44:15 PM|Info|Player.PlayToGraveyard >> [Player] id=82, cardId=BT_922t, cardName=Felwing, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=BT_922t}
+2:44:35 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_10p turn:3 from:-1)
+2:44:35 PM|Info|Player.CreateInSetAside >> [Player] id=90, cardId=HERO_10pe, cardName=Demon Claws, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=HERO_10pe}
+2:44:35 PM|Info|Player.CreateInPlay >> [Player] id=90, cardId=HERO_10pe, cardName=Demon Claws, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=HERO_10pe}
+2:44:38 PM|Info|Player.PlayToGraveyard >> [Player] id=51, cardId=BT_922, cardName=Umberwing, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=BT_922}
+2:44:40 PM|Info|Player.Play >> [Player] id=39, cardId=BT_801, cardName=Eye Beam, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=BT_801}
+2:44:41 PM|Info|Player.PlayToGraveyard >> [Player] id=39, cardId=BT_801, cardName=Eye Beam, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=BT_801}
+2:44:41 PM|Info|Player.PlayToGraveyard >> [Opponent] id=84, cardId=ULD_719, cardName=Desert Hare, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=CS2_182}
+2:44:52 PM|Info|Player.Play >> [Player] id=46, cardId=BT_480, cardName=Crimson Sigil Runner, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=BT_480}
+2:44:52 PM|Info|Player.Draw >> [Player] id=35, cardId=BT_351, cardName=Battlefiend, zonePos=5,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_351}
+2:44:56 PM|Info|Player.PlayToGraveyard >> [Player] id=60, cardId=DRG_239, cardName=Blazing Battlemage, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=DRG_239}
+2:44:56 PM|Info|Player.PlayToGraveyard >> [Opponent] id=23, cardId=ULD_719, cardName=Desert Hare, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=DECK, OriginalController=1, latestCardId=ULD_280}
+2:44:56 PM|Info|Player.BoardToHand >> [Player] id=46, cardId=BT_480, cardName=Crimson Sigil Runner, zonePos=0,Info={turn=3, mark=Returned, returned=true, originalZone=DECK, OriginalController=2, latestCardId=BT_480}
+2:45:03 PM|Info|Player.Play >> [Player] id=69, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=3, mark=Coin, created=true, originalZone=HAND, OriginalController=2, latestCardId=GAME_005}
+2:45:06 PM|Info|Player.PlayToGraveyard >> [Player] id=69, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=3, mark=Coin, created=true, originalZone=HAND, OriginalController=2, latestCardId=GAME_005}
+2:45:06 PM|Info|Player.Play >> [Player] id=46, cardId=BT_480, cardName=Crimson Sigil Runner, zonePos=0,Info={turn=3, mark=Returned, returned=true, originalZone=DECK, OriginalController=2, latestCardId=BT_480}
+2:45:06 PM|Info|Player.Draw >> [Player] id=45, cardId=BT_491, cardName=Spectral Sight, zonePos=5,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_491}
+2:45:09 PM|Info|Player.PlayToGraveyard >> [Player] id=90, cardId=HERO_10pe, cardName=Demon Claws, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=HERO_10pe}
+2:45:09 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+2:45:09 PM|Info|Player.Draw >> [Opponent] id=19, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=1}
+2:45:12 PM|Info|GameEventHandler.HandleLoss >> --- Game was lost! ---
+2:45:13 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:45:13 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:45:13 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+2:45:13 PM|Info|GameStats.GameEnd >> Current Game ended after 4 turns
+2:45:13 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Morphosis
+2:45:13 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:45:13 PM|Info|LogUploader.Upload >> Uploading 304843379...
+2:45:13 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:45:14 PM|Info|LogUploader.TryUpload >> Upload Id: DufnTbVULKTzo7XmnM5dRQ
+2:45:15 PM|Info|LogUploader.TryUpload >> Upload complete
+2:45:17 PM|Info|LogUploader.Upload >> 304843379 complete. Success=True
+2:45:22 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+2:45:22 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+2:45:22 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:45:22 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:45:22 PM|Info|GameEventHandler.SaveAndUpdateStats >> Gamemode Casual is not supposed to be saved. Removed game from Morphosis (DemonHunter).
+2:45:30 PM|Info|Core.UpdateOverlayAsync >> Exited game
+2:45:30 PM|Info|Core.UpdateOverlayAsync >> Reset region
+2:45:30 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:45:31 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+2:45:31 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.<>c.<IsSpectating>b__20_0()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+2:47:00 PM|Info|MainWindow.Window_Closing >> Shutting down...

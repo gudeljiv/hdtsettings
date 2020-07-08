@@ -512,6 +512,11 @@
       <Name>Quest</Name>
     </Deck>
     <Deck>
+      <DeckId>6d00c1d1-5669-425e-9773-cda4d184c608</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>a1917e1d-c887-4fd4-8037-17a68b2b8940</DeckId>
       <Games />
       <Name />
@@ -1309,6 +1314,81 @@
             <Card Id="DRG_307" Count="1" />
             <Card Id="DRG_075" Count="1" />
             <Card Id="DRG_242" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>3352ada4-5092-4399-a3b9-e6fbe71259b6</GameId>
+          <PlayerHero>DemonHunter</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Casual</GameMode>
+          <Result>Loss</Result>
+          <Turns>4</Turns>
+          <StartTime>2020-05-06T14:42:26.5762965+02:00</StartTime>
+          <EndTime>2020-05-06T14:45:13.2383295+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>PainKiller#2892</OpponentName>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>45932</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.246</Address>
+            <AuroraPassword>pGBJdi</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>189128</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>cBMblp</SpectatorPassword>
+            <Version>1549010</Version>
+          </ServerInfo>
+          <GameType>GT_CASUAL</GameType>
+          <RankedSeasonId>79</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>d8e08be3-5b57-409b-bb42-1a43ebf09d8b</DeckId>
+          <DeckName>Morphosis</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>DufnTbVULKTzo7XmnM5dRQ</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/DufnTbVULKTzo7XmnM5dRQ/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1925921447</HsDeckId>
+          <PlayerCards>
+            <Card Id="BT_351" Count="2" Unconfirmed="1" />
+            <Card Id="BT_175" Count="2" Unconfirmed="1" />
+            <Card Id="BT_801" Count="2" Unconfirmed="1" />
+            <Card Id="BT_491" Count="2" Unconfirmed="1" />
+            <Card Id="BT_480" Count="2" Unconfirmed="1" />
+            <Card Id="BT_922" Count="1" />
+            <Card Id="BT_601" Count="2" Unconfirmed="1" />
+            <Card Id="DRG_239" Count="2" Unconfirmed="1" />
+            <Card Id="BT_416" Count="2" Unconfirmed="1" />
+            <Card Id="BT_495" Count="2" Unconfirmed="1" />
+            <Card Id="BT_753" Count="1" Unconfirmed="1" />
+            <Card Id="BT_921" Count="1" Unconfirmed="1" />
+            <Card Id="BT_352" Count="2" Unconfirmed="2" />
+            <Card Id="BT_937" Count="1" Unconfirmed="1" />
+            <Card Id="BT_187" Count="1" Unconfirmed="1" />
+            <Card Id="BT_429" Count="1" Unconfirmed="1" />
+            <Card Id="BT_430" Count="2" Unconfirmed="2" />
+            <Card Id="BT_493" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DAL_071" Count="2" />
           </OpponentCards>
         </Game>
       </Games>
@@ -4224,14 +4304,14 @@
       <Name>MURLOC SHAMAN</Name>
     </Deck>
     <Deck>
-      <DeckId>b5e0696c-b7d3-4212-bb73-a18b7559f0ab</DeckId>
-      <Games />
-      <Name>Demon Hunter</Name>
-    </Deck>
-    <Deck>
       <DeckId>8d29df18-cf83-4ef7-8d3d-60300cd29bd4</DeckId>
       <Games />
       <Name>CONTROL WARRIOR</Name>
+    </Deck>
+    <Deck>
+      <DeckId>b5e0696c-b7d3-4212-bb73-a18b7559f0ab</DeckId>
+      <Games />
+      <Name>Demon Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>3dcca416-7061-4ecf-878f-a7551b02d60a</DeckId>
@@ -4254,14 +4334,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>94aaa78d-1cf4-47ea-a98e-e5cbf4259136</DeckId>
-      <Games />
-      <Name>OTK</Name>
-    </Deck>
-    <Deck>
       <DeckId>b689fe6b-6b0d-4d75-92f8-6add54298586</DeckId>
       <Games />
       <Name>TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>94aaa78d-1cf4-47ea-a98e-e5cbf4259136</DeckId>
+      <Games />
+      <Name>OTK</Name>
     </Deck>
     <Deck>
       <DeckId>2e967617-1ba8-4a46-a221-89d9a19a35c9</DeckId>
@@ -4284,14 +4364,14 @@
       <Name>QUEST</Name>
     </Deck>
     <Deck>
-      <DeckId>fd92c8cf-ccc7-46c0-99e0-648de7543b6a</DeckId>
-      <Games />
-      <Name>QUEST DRUID</Name>
-    </Deck>
-    <Deck>
       <DeckId>271026c1-8a12-4c52-aef4-5a52d3496f26</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>fd92c8cf-ccc7-46c0-99e0-648de7543b6a</DeckId>
+      <Games />
+      <Name>QUEST DRUID</Name>
     </Deck>
     <Deck>
       <DeckId>36a5d111-9986-44ae-85a5-6a24424420f6</DeckId>
@@ -4369,14 +4449,14 @@
       <Name>TEMPO MECH ROGUE</Name>
     </Deck>
     <Deck>
-      <DeckId>fd7285ce-2549-42a5-a3dc-83f008a22447</DeckId>
-      <Games />
-      <Name>Pog</Name>
-    </Deck>
-    <Deck>
       <DeckId>1fdf8dae-fb8f-4116-887d-77f4f4dac101</DeckId>
       <Games />
       <Name>CONTROL WARLOCK</Name>
+    </Deck>
+    <Deck>
+      <DeckId>fd7285ce-2549-42a5-a3dc-83f008a22447</DeckId>
+      <Games />
+      <Name>Pog</Name>
     </Deck>
     <Deck>
       <DeckId>c77749c1-0e3b-4cd5-9c7f-4a339fc83636</DeckId>
@@ -4394,14 +4474,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>c14191a4-9b4c-4103-b5bb-3c6fdc0ac1e7</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>e23c2c2b-62d0-4ddc-83a0-8b6b74874537</DeckId>
       <Games />
       <Name>SHARK TOGWAGGLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>c14191a4-9b4c-4103-b5bb-3c6fdc0ac1e7</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>08247663-d0b2-4eff-ad54-61dbd13b4069</DeckId>
@@ -4414,14 +4494,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>3cefa9ec-e397-4489-9dc1-3182d5496a49</DeckId>
-      <Games />
-      <Name>TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>585612d0-8a12-4eac-a44f-ac349d284302</DeckId>
       <Games />
       <Name>HIGHLANDER HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>3cefa9ec-e397-4489-9dc1-3182d5496a49</DeckId>
+      <Games />
+      <Name>TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>c75d8ec9-e48a-4a0d-957e-e8e33910e63b</DeckId>
@@ -4449,14 +4529,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>de45605a-59b3-4d4d-bfed-66dbd516b00a</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>a336aaae-d430-4999-81d5-1034cb277e99</DeckId>
       <Games />
       <Name>QUEST</Name>
+    </Deck>
+    <Deck>
+      <DeckId>de45605a-59b3-4d4d-bfed-66dbd516b00a</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>abc4898b-4fb2-4ada-bbe0-87e2f7eedf0f</DeckId>
@@ -4469,24 +4549,24 @@
       <Name>QUEST</Name>
     </Deck>
     <Deck>
-      <DeckId>46748b5b-539e-4eef-8716-ac255f2c5c5a</DeckId>
-      <Games />
-      <Name>ZOO</Name>
-    </Deck>
-    <Deck>
       <DeckId>05721384-7226-48e1-843c-84a4893b71e5</DeckId>
       <Games />
       <Name>Highlander</Name>
     </Deck>
     <Deck>
-      <DeckId>94f4279b-1037-4f5d-b165-0c2e7e35e802</DeckId>
+      <DeckId>46748b5b-539e-4eef-8716-ac255f2c5c5a</DeckId>
       <Games />
-      <Name>CYCLONE MAGE</Name>
+      <Name>ZOO</Name>
     </Deck>
     <Deck>
       <DeckId>c4c586a6-801a-4e0b-965b-c6bf55cbc0f1</DeckId>
       <Games />
       <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>94f4279b-1037-4f5d-b165-0c2e7e35e802</DeckId>
+      <Games />
+      <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
       <DeckId>01a2b3db-8110-4d80-ad77-5fe317a0bb55</DeckId>
@@ -4534,14 +4614,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>660f28a8-1679-4fba-908c-f8ef539d9163</DeckId>
-      <Games />
-      <Name>Custom Hunter2</Name>
-    </Deck>
-    <Deck>
       <DeckId>daf7ed0c-fa1c-4587-8b58-181aae4a65c9</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>660f28a8-1679-4fba-908c-f8ef539d9163</DeckId>
+      <Games />
+      <Name>Custom Hunter2</Name>
     </Deck>
     <Deck>
       <DeckId>d7fea723-3e7f-4182-8547-e74a1f36468a</DeckId>
@@ -4684,14 +4764,14 @@
       <Name>Face</Name>
     </Deck>
     <Deck>
-      <DeckId>e760f64e-c83a-4fe7-b141-f0dcf0dc7622</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>9b2f31bf-8b82-4acf-b77d-fb9509bfbbc6</DeckId>
       <Games />
       <Name>BEAST</Name>
+    </Deck>
+    <Deck>
+      <DeckId>e760f64e-c83a-4fe7-b141-f0dcf0dc7622</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>e4b5e105-1371-4050-9047-32356a6fca86</DeckId>
@@ -4724,12 +4804,12 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>ef0e4efd-1e71-492f-ac34-45736843a9f1</DeckId>
+      <DeckId>2b171c15-98df-4952-bd55-f2820b3d58ae</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>2b171c15-98df-4952-bd55-f2820b3d58ae</DeckId>
+      <DeckId>ef0e4efd-1e71-492f-ac34-45736843a9f1</DeckId>
       <Games />
       <Name />
     </Deck>
@@ -4749,14 +4829,14 @@
       <Name>TEMPO QUESTING</Name>
     </Deck>
     <Deck>
-      <DeckId>9e9abc2b-76f0-4021-8b22-0a7844b0d763</DeckId>
-      <Games />
-      <Name>Dragon</Name>
-    </Deck>
-    <Deck>
       <DeckId>4b81756e-f432-4a87-8f17-9c9435755ab7</DeckId>
       <Games />
       <Name>MECH ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>9e9abc2b-76f0-4021-8b22-0a7844b0d763</DeckId>
+      <Games />
+      <Name>Dragon</Name>
     </Deck>
     <Deck>
       <DeckId>749c3c16-05eb-4e5e-831a-6d9d58349ea1</DeckId>
@@ -4769,14 +4849,14 @@
       <Name>GALAKROND TEMPO</Name>
     </Deck>
     <Deck>
-      <DeckId>504e42a1-bdc0-4523-bf11-ec07dd46b96e</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>6cd93b00-4f4b-496c-bbf6-c9de1c3bf760</DeckId>
       <Games />
       <Name>BEAST HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>504e42a1-bdc0-4523-bf11-ec07dd46b96e</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>c287d4fa-085c-4419-bb90-7666fbf5c73a</DeckId>
@@ -4784,14 +4864,14 @@
       <Name>Warmaul</Name>
     </Deck>
     <Deck>
-      <DeckId>286094c9-cc68-48c2-9d52-a9feedea6ddf</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>8990f902-e5a0-4285-ac75-7af1b69adbcc</DeckId>
       <Games />
       <Name>SHARK TEMPO</Name>
+    </Deck>
+    <Deck>
+      <DeckId>286094c9-cc68-48c2-9d52-a9feedea6ddf</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>5c93524a-a9e1-4182-9b90-a509b3f9af44</DeckId>
@@ -4799,14 +4879,14 @@
       <Name>TOKEN DRUID</Name>
     </Deck>
     <Deck>
-      <DeckId>833fffdc-d7f6-465d-9fd3-bac7c4104448</DeckId>
-      <Games />
-      <Name>Brawl 15-11 09:19</Name>
-    </Deck>
-    <Deck>
       <DeckId>178afb0a-6586-4b87-91fd-b46b88a6480d</DeckId>
       <Games />
       <Name>BEAST HUNTER</Name>
+    </Deck>
+    <Deck>
+      <DeckId>833fffdc-d7f6-465d-9fd3-bac7c4104448</DeckId>
+      <Games />
+      <Name>Brawl 15-11 09:19</Name>
     </Deck>
     <Deck>
       <DeckId>21d454ab-dc89-4d59-9a47-59ab425096d1</DeckId>
@@ -5127,6 +5207,11 @@
       <Name>DEATHRATTLE ROGUE</Name>
     </Deck>
     <Deck>
+      <DeckId>a598edf8-c700-486b-bd5f-224f39cd3853</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>5e2ec759-272c-4ef0-a77f-23424e794add</DeckId>
       <Games />
       <Name>MIRACLE PRIEST</Name>
@@ -5165,6 +5250,11 @@
       <DeckId>b4a0aaf1-a04e-4c04-bb0b-04e9d8fba145</DeckId>
       <Games />
       <Name>COMBO</Name>
+    </Deck>
+    <Deck>
+      <DeckId>4694a481-e127-4457-9ff1-29f7a5e7a5d7</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>da2e50ef-a77f-4cb6-b6da-0444c234ccdf</DeckId>
@@ -5346,11 +5436,6 @@
       <Name>SHARK TEMPO</Name>
     </Deck>
     <Deck>
-      <DeckId>4694a481-e127-4457-9ff1-29f7a5e7a5d7</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>f3e333e1-b03e-470a-a645-25ccde0def56</DeckId>
       <Games />
       <Name />
@@ -5401,9 +5486,9 @@
       <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
-      <DeckId>485f52a2-a0d0-4bea-980a-cadd1e70cf6c</DeckId>
+      <DeckId>df29edac-54da-40e7-92ee-edbc1a0797ed</DeckId>
       <Games />
-      <Name>ZOO</Name>
+      <Name>POGO ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>6a298a29-1b4d-4d7c-b5fc-7dadbd55652e</DeckId>
@@ -5411,19 +5496,19 @@
       <Name>TEMPO ROGUE</Name>
     </Deck>
     <Deck>
-      <DeckId>df29edac-54da-40e7-92ee-edbc1a0797ed</DeckId>
+      <DeckId>485f52a2-a0d0-4bea-980a-cadd1e70cf6c</DeckId>
       <Games />
-      <Name>POGO ROGUE</Name>
-    </Deck>
-    <Deck>
-      <DeckId>c23d9b0d-d900-4d45-968a-3ea56fe3e0e1</DeckId>
-      <Games />
-      <Name>Morphosis</Name>
+      <Name>ZOO</Name>
     </Deck>
     <Deck>
       <DeckId>1e9485d7-92c1-482a-a29c-9a39634b2b38</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>c23d9b0d-d900-4d45-968a-3ea56fe3e0e1</DeckId>
+      <Games />
+      <Name>Morphosis</Name>
     </Deck>
     <Deck>
       <DeckId>c30fffe6-b036-4e56-b587-a203b21c9d0b</DeckId>
