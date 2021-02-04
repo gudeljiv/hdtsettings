@@ -26272,6 +26272,11 @@
       <Name />
     </Deck>
     <Deck>
+      <DeckId>51d14e5e-4aff-4926-85d5-2a5abe85f8a8</DeckId>
+      <Games />
+      <Name />
+    </Deck>
+    <Deck>
       <DeckId>7335e6b7-204a-4290-9817-564bf41bc833</DeckId>
       <Games />
       <Name />
@@ -61862,12 +61867,12 @@
       <Name>Brawl 17-07 17:32</Name>
     </Deck>
     <Deck>
-      <DeckId>2fefc12c-030e-4e0b-9a9d-625510e6f176</DeckId>
+      <DeckId>6c70f545-e4fd-4dca-bf9a-1e540999b1fd</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>6c70f545-e4fd-4dca-bf9a-1e540999b1fd</DeckId>
+      <DeckId>2fefc12c-030e-4e0b-9a9d-625510e6f176</DeckId>
       <Games />
       <Name />
     </Deck>
@@ -61902,14 +61907,14 @@
       <Name>Morphosis</Name>
     </Deck>
     <Deck>
-      <DeckId>b5e0696c-b7d3-4212-bb73-a18b7559f0ab</DeckId>
-      <Games />
-      <Name>Demon Hunter</Name>
-    </Deck>
-    <Deck>
       <DeckId>df026e74-85c6-4504-a21f-ed6e7ec66058</DeckId>
       <Games />
       <Name>Use no deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>b5e0696c-b7d3-4212-bb73-a18b7559f0ab</DeckId>
+      <Games />
+      <Name>Demon Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>902bb755-2ed3-47bb-ae01-03c5dba041ca</DeckId>
@@ -61922,14 +61927,14 @@
       <Name>Quest</Name>
     </Deck>
     <Deck>
-      <DeckId>98d9cff4-1625-4a75-be02-f9415ed2e490</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>72bcb099-6f5b-4c94-a986-9d8256158570</DeckId>
       <Games />
       <Name>CYCLONE MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>98d9cff4-1625-4a75-be02-f9415ed2e490</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>bb31b681-26ae-4b45-9a43-7721028a039d</DeckId>
@@ -61997,14 +62002,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>c10b1cb2-b768-4552-bb12-cc7da00f7705</DeckId>
-      <Games />
-      <Name>Face Hunter</Name>
-    </Deck>
-    <Deck>
       <DeckId>72d671b3-1f18-4251-be4d-c3fc33d79fee</DeckId>
       <Games />
       <Name>QUEST SHAMAN</Name>
+    </Deck>
+    <Deck>
+      <DeckId>c10b1cb2-b768-4552-bb12-cc7da00f7705</DeckId>
+      <Games />
+      <Name>Face Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>d16941e3-e54e-42be-9c5f-cc32fce61f5b</DeckId>
@@ -62017,24 +62022,24 @@
       <Name>Secret Rogue</Name>
     </Deck>
     <Deck>
-      <DeckId>6226d38e-2341-409f-8632-dfcf475c90fc</DeckId>
-      <Games />
-      <Name>SHARK TOGWAGGLE ROGUE</Name>
-    </Deck>
-    <Deck>
       <DeckId>d4eb9eb2-fccc-4af0-8b71-bdfcd1b6cd5b</DeckId>
       <Games />
       <Name>Spells</Name>
     </Deck>
     <Deck>
-      <DeckId>05540089-f94b-4423-adf5-ed26693e536b</DeckId>
+      <DeckId>6226d38e-2341-409f-8632-dfcf475c90fc</DeckId>
       <Games />
-      <Name>CYCLONE MAGE</Name>
+      <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
       <DeckId>7e1a06f4-8b3a-490d-8c41-089890cbd3c7</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>05540089-f94b-4423-adf5-ed26693e536b</DeckId>
+      <Games />
+      <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
       <DeckId>4bf474c4-8d41-4066-8959-38e6b3c0a0e8</DeckId>
@@ -62060,11 +62065,6 @@
       <DeckId>8d4b82bc-a52c-4ae1-bd8b-97d4f1435588</DeckId>
       <Games />
       <Name />
-    </Deck>
-    <Deck>
-      <DeckId>4dee5696-7a25-46cf-9d89-9e1ec2fe40a0</DeckId>
-      <Games />
-      <Name>HANDLOCK</Name>
     </Deck>
     <Deck>
       <DeckId>7cf800d4-b2fb-4cb6-9022-a9562e5947e3</DeckId>
@@ -62702,6 +62702,11 @@
         </Game>
       </Games>
       <Name>Pirate</Name>
+    </Deck>
+    <Deck>
+      <DeckId>4dee5696-7a25-46cf-9d89-9e1ec2fe40a0</DeckId>
+      <Games />
+      <Name>HANDLOCK</Name>
     </Deck>
     <Deck>
       <DeckId>3456bf62-acca-477e-ac15-426415aeef93</DeckId>
@@ -67603,14 +67608,14 @@
       <Name>MALYGOS</Name>
     </Deck>
     <Deck>
-      <DeckId>dc5ea102-b58d-465b-b1e4-ddd4e24a6d56</DeckId>
-      <Games />
-      <Name>OTK Demon Hunter</Name>
-    </Deck>
-    <Deck>
       <DeckId>f650e331-372e-4b83-b55a-ddbfc48cd717</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>dc5ea102-b58d-465b-b1e4-ddd4e24a6d56</DeckId>
+      <Games />
+      <Name>OTK Demon Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>90457ed7-258e-4e88-bd0d-8f5d61a59ec9</DeckId>
@@ -67658,12 +67663,12 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>f61f7096-9db3-4b88-972f-fcd8f37c2ea4</DeckId>
+      <DeckId>d8ea8734-7175-4bb8-8c0b-1875d64b8e1d</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>d8ea8734-7175-4bb8-8c0b-1875d64b8e1d</DeckId>
+      <DeckId>f61f7096-9db3-4b88-972f-fcd8f37c2ea4</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
     </Deck>
@@ -70281,14 +70286,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>449a20f5-c586-4208-b9ae-b40e1c782b03</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>e4c41efd-aff7-4562-beee-f9eaef6d4a53</DeckId>
       <Games />
       <Name>CONJURE SEA GIANT MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>449a20f5-c586-4208-b9ae-b40e1c782b03</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>6b1f7afc-76e5-4c98-808d-23d84b8a02d1</DeckId>

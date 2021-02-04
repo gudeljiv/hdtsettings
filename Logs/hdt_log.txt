@@ -52,3 +52,8 @@ System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the
 5:34:59 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
 5:35:00 PM|Info|HsReplayDecks.Load >> Complete: Count=2449, ServerTS=2/4/2021 4:14:36 PM, Downloaded=2/4/2021 5:34:59 PM Age=00:00:00.0339653
 5:35:00 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+17:35:52|Info|MainWindow.Window_Closing >> Shutting down...
+17:35:52|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+17:35:52|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89

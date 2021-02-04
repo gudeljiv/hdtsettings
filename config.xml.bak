@@ -79,7 +79,9 @@
   <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.13.22.5325</CreatedByVersion>
+  <CreatedByVersion>1.13.25.5346</CreatedByVersion>
+  <HearthdbVersion>19.4.1.0</HearthdbVersion>
+  <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -257,7 +259,8 @@
   <SelectedDeckSortingArena>Name</SelectedDeckSortingArena>
   <SelectedDeckPickerDeckType>All</SelectedDeckPickerDeckType>
   <SelectedLanguage>enUS</SelectedLanguage>
-  <AlternativeLanguages />
+  <CardImageSize>1</CardImageSize>
+  <HighResolutionCardImages>false</HighResolutionCardImages>
   <SelectedStatsFilterGameMode>All</SelectedStatsFilterGameMode>
   <SelectedStatsFilterTimeFrame>AllTime</SelectedStatsFilterTimeFrame>
   <SelectedTags>
