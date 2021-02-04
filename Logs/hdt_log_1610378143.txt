@@ -1,0 +1,373 @@
+4:58:11 PM|Info|Core.Initialize >> HDT: 1.13.20.5292, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
+4:58:11 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+4:58:11 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+4:58:11 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+4:58:12 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+4:58:12 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+4:58:13 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+4:58:13 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+4:58:13 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+4:58:13 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+4:58:13 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:58:14 PM|Info|PluginManager.SyncPlugins >> Adding Autosquelch.dll
+4:58:14 PM|Info|PluginManager.SyncPlugins >> Adding Spawn.HDT.DustUtility.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\ArenaHelper.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.CV.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.Util.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardhashes.json
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardtier.json
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\version.json
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\cvextern.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcp120.dll
+4:58:15 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcr120.dll
+4:58:15 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+4:58:17 PM|Info|MainWindow.SelectDeck >> Switched to deck: OTK Demon Hunter (v1.5)
+4:58:17 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:58:18 PM|Info|BackupManager.Run >> Running BackupManager
+4:58:18 PM|Info|BackupManager.Run >> Deleting old backup: Backup_03122020.zip
+4:58:18 PM|Info|BackupManager.Run >> Creating backup for today
+4:58:19 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+4:58:19 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.20\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+4:58:19 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.20\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+4:58:19 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+4:58:19 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+4:58:19 PM|Info|HSReplayNetOAuth.UpdateToken >> Refreshing token data...
+4:58:19 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2752, ServerTS=12/11/2020 4:12:10 AM, Downloaded=12/11/2020 4:09:58 PM Age=17.00:48:21.6423665
+4:58:19 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+4:58:19 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+4:58:20 PM|Info|HSReplayNetOAuth.SaveTokenData >> Saved token data
+4:58:20 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+4:58:20 PM|Info|HsReplayDecks.Load >> Complete: Count=2370, ServerTS=12/28/2020 5:33:23 AM, Downloaded=12/28/2020 4:58:20 PM Age=00:00:00.0079920
+4:58:20 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+4:58:20 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+4:58:21 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+5:09:41 PM|Warning|Core.Initialize >> HearthMirror Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetAccountIdInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+5:09:46 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+5:09:49 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+5:09:50 PM|Info|Helper.GetCurrentRegion >> Region: EU
+5:09:50 PM|Info|BackupManager.Run >> Running BackupManager
+5:09:50 PM|Info|BackupManager.Run >> Backup for today already exists
+5:09:50 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:09:51 PM|Info|GameV2.CurrentMode >> LOGIN
+5:09:56 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+5:10:10 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:10:13 PM|Info|GameV2.CurrentMode >> HUB
+5:10:13 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+5:10:18 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+5:10:18 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 1 new
+5:10:18 PM|Info|DeckManager.ImportDecksTo >> Saving Tempo as v1.1 (prev=v1.0).
+5:10:18 PM|Info|MainWindow.SelectDeck >> Switched to deck: Tempo (v1.1)
+5:10:18 PM|Info|DeckList.ActiveDeck >> Set active deck to: Tempo (Rogue)
+5:10:20 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck CqaSZf2z6GvrzXJkBk0t3e
+5:10:20 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:10:21 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+5:10:21 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+5:10:21 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+5:10:21 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+5:10:21 PM|Info|GameV2.CurrentMode >> LOGIN
+5:10:21 PM|Info|GameV2.CurrentMode >> HUB
+5:10:21 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+5:10:27 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:10:32 PM|Info|FullScreenFxHandler.Handle >> Now in queue (12/28/2020 5:10:32 PM)
+5:10:32 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2005493325
+5:10:32 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+5:10:32 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Aggro
+5:10:32 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+5:10:32 PM|Info|MainWindow.SelectDeck >> Switched to deck: Aggro (v1.0)
+5:10:32 PM|Info|DeckList.ActiveDeck >> Set active deck to: Aggro (DemonHunter)
+5:10:32 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck DqUe87qVw99Dso2poGdBif
+5:10:33 PM|... 1 duplicate messages
+5:10:33 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:10:34 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+5:10:34 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+5:10:34 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+5:10:34 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+5:10:34 PM|Info|GameV2.CurrentMode >> LOGIN
+5:10:34 PM|Info|GameV2.CurrentMode >> HUB
+5:10:34 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+5:10:34 PM|Info|FullScreenFxHandler.Handle >> Now in queue (12/28/2020 5:10:32 PM)
+5:10:39 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+5:10:39 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:10:39 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+5:10:39 PM|Info|TurnTimer.Start >> Starting turn timer
+5:10:39 PM|Warning|TurnTimer.Start >> Waiting for player entity
+5:10:40 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+5:10:41 PM|Info|LogWatcherManager.OnLogFileFound >> Power
+5:10:41 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs Kach0my#2895 [PlayerId=2]
+5:10:41 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+5:10:42 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=41
+5:10:42 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=65
+5:10:42 PM|Info|GameEventHandler.SetPlayerHero >> Player=DemonHunter
+5:10:42 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=67
+5:10:42 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Priest
+5:10:42 PM|Info|Player.Draw >> [Player] id=18, cardId=SCH_142, cardName=Voracious Reader, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=SCH_142}
+5:10:42 PM|Info|Player.Draw >> [Player] id=26, cardId=DMF_091, cardName=Wriggling Horror, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=DMF_091}
+5:10:42 PM|Info|Player.Draw >> [Player] id=5, cardId=BT_715, cardName=Bonechewer Brawler, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=BT_715}
+5:10:42 PM|Info|Player.Draw >> [Opponent] id=38, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+5:10:42 PM|Info|Player.Draw >> [Opponent] id=48, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+5:10:42 PM|Info|Player.Draw >> [Opponent] id=35, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+5:10:42 PM|Info|Player.Draw >> [Opponent] id=36, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+5:10:42 PM|Info|Player.CreateInHand >> [Opponent] id=69, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, latestCardId=GAME_005}
+5:10:47 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:10:59 PM|... 1 duplicate messages
+5:10:59 PM|Info|Player.Draw >> [Player] id=28, cardId=SCH_231, cardName=Intrepid Initiate, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=SCH_231}
+5:10:59 PM|Info|Player.Mulligan >> [Player] id=18, cardId=SCH_142, cardName=Voracious Reader, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, latestCardId=SCH_142}
+5:11:06 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:11:09 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+5:11:09 PM|Info|Player.Draw >> [Player] id=23, cardId=BT_175, cardName=Twin Slice, zonePos=4,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=BT_175}
+5:11:14 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:11:17 PM|Info|Player.Play >> [Player] id=28, cardId=SCH_231, cardName=Intrepid Initiate, zonePos=0,Info={turn=1, originalZone=DECK, OriginalController=1, latestCardId=SCH_231}
+5:11:17 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+5:11:17 PM|Info|SecretsManager.Exclude >> Excluded Secret SCH_706
+5:11:17 PM|Info|Player.Draw >> [Opponent] id=49, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=2}
+5:11:24 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:11:24 PM|Info|Player.Play >> [Opponent] id=49, cardId=SCH_233, cardName=Draconic Studies, zonePos=0,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=SCH_233}
+5:11:25 PM|Info|Player.CreateInSetAside >> [Opponent] id=80, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:11:25 PM|Info|Player.CreateInSetAside >> [Opponent] id=81, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:11:28 PM|Info|Player.CreateInHand >> [Opponent] id=81, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+5:11:28 PM|Info|Player.CreateInSetAside >> [Opponent] id=82, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:11:28 PM|Info|Player.CreateInSetAside >> [Opponent] id=83, cardId=SCH_233e, cardName=Draconic Studies, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=SCH_233e}
+5:11:28 PM|Info|Player.CreateInPlay >> [Opponent] id=83, cardId=SCH_233e, cardName=Draconic Studies, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, OriginalController=2, latestCardId=SCH_233e}
+5:11:28 PM|Info|Player.CreateInPlay >> [Opponent] id=84, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:11:28 PM|Info|Player.CreateInSetAside >> [Opponent] id=84, cardId=, cardName=, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:11:30 PM|Info|Player.PlayToGraveyard >> [Opponent] id=49, cardId=SCH_233, cardName=Draconic Studies, zonePos=0,Info={turn=1, originalZone=DECK, OriginalController=2, latestCardId=SCH_233}
+5:11:30 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+5:11:30 PM|Info|Player.Draw >> [Player] id=25, cardId=SCH_713, cardName=Cult Neophyte, zonePos=4,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=SCH_713}
+5:11:34 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:11:38 PM|Info|Player.Play >> [Player] id=5, cardId=BT_715, cardName=Bonechewer Brawler, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=1, latestCardId=BT_715}
+5:11:39 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+5:11:39 PM|Info|SecretsManager.Exclude >> Excluded Secret SCH_706
+5:11:39 PM|Info|Player.Draw >> [Opponent] id=46, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=2}
+5:11:45 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:11:46 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_09bp turn:2 from:-1)
+5:11:47 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+5:11:47 PM|Info|Player.Draw >> [Player] id=14, cardId=BT_175, cardName=Twin Slice, zonePos=4,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=BT_175}
+5:11:52 PM|Info|Player.Play >> [Player] id=26, cardId=DMF_091, cardName=Wriggling Horror, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=DMF_091}
+5:11:52 PM|Info|Player.CreateInSetAside >> [Player] id=87, cardId=DMF_091e2, cardName=Wriggling Around, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=DMF_091e2}
+5:11:52 PM|Info|Player.CreateInPlay >> [Player] id=87, cardId=DMF_091e2, cardName=Wriggling Around, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=DMF_091e2}
+5:11:52 PM|Info|Player.CreateInSetAside >> [Player] id=88, cardId=DMF_091e2, cardName=Wriggling Around, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=DMF_091e2}
+5:11:52 PM|Info|Player.CreateInPlay >> [Player] id=88, cardId=DMF_091e2, cardName=Wriggling Around, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=DMF_091e2}
+5:11:53 PM|Info|Player.Play >> [Player] id=23, cardId=BT_175, cardName=Twin Slice, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=BT_175}
+5:11:53 PM|Info|Player.CreateInSetAside >> [Player] id=90, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=BT_175e}
+5:11:53 PM|Info|Player.CreateInPlay >> [Player] id=90, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=BT_175e}
+5:11:54 PM|Info|Player.CreateInHand >> [Player] id=91, cardId=BT_175t, cardName=Second Slice, zonePos=3,Info={turn=3, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=BT_175t}
+5:11:55 PM|Info|Player.PlayToGraveyard >> [Player] id=23, cardId=BT_175, cardName=Twin Slice, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=BT_175}
+5:11:55 PM|Info|Player.CreateInSetAside >> [Player] id=92, cardId=SCH_231e, cardName=Ready for School, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=SCH_231e}
+5:11:55 PM|Info|Player.CreateInPlay >> [Player] id=92, cardId=SCH_231e, cardName=Ready for School, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=SCH_231e}
+5:11:59 PM|Info|Player.PlayToGraveyard >> [Player] id=90, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=BT_175e}
+5:11:59 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+5:11:59 PM|Info|SecretsManager.Exclude >> Excluded Secret SCH_706
+5:11:59 PM|Info|Player.Draw >> [Opponent] id=55, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=2}
+5:12:06 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:12:11 PM|Info|Player.Play >> [Opponent] id=36, cardId=DRG_307, cardName=Breath of the Infinite, zonePos=0,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=DRG_307}
+5:12:13 PM|Info|Player.CreateInSetAside >> [Player] id=94, cardId=BT_715e, cardName=Brawling, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=BT_715e}
+5:12:13 PM|Info|Player.CreateInPlay >> [Player] id=94, cardId=BT_715e, cardName=Brawling, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=BT_715e}
+5:12:14 PM|Info|Player.PlayToGraveyard >> [Opponent] id=36, cardId=DRG_307, cardName=Breath of the Infinite, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=DRG_307}
+5:12:14 PM|Info|Player.PlayToGraveyard >> [Player] id=26, cardId=DMF_091, cardName=Wriggling Horror, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1, latestCardId=DMF_091}
+5:12:15 PM|Info|Player.Play >> [Opponent] id=69, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=3, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=GAME_005}
+5:12:17 PM|Info|Player.PlayToGraveyard >> [Opponent] id=69, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=3, mark=Coin, created=true, originalZone=HAND, OriginalController=2, latestCardId=GAME_005}
+5:12:17 PM|Info|Player.Play >> [Opponent] id=38, cardId=BT_252, cardName=Renew, zonePos=0,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=BT_252}
+5:12:18 PM|Info|Player.CreateInSetAside >> [Opponent] id=97, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:12:18 PM|Info|Player.CreateInSetAside >> [Opponent] id=98, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:12:21 PM|Info|Player.CreateInHand >> [Opponent] id=97, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+5:12:21 PM|Info|Player.CreateInSetAside >> [Opponent] id=99, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+5:12:22 PM|Info|Player.PlayToGraveyard >> [Opponent] id=38, cardId=BT_252, cardName=Renew, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2, latestCardId=BT_252}
+5:12:24 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+5:12:24 PM|Info|Player.Draw >> [Player] id=27, cardId=SCH_231, cardName=Intrepid Initiate, zonePos=4,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1, latestCardId=SCH_231}
+5:12:30 PM|Info|Player.Play >> [Player] id=25, cardId=SCH_713, cardName=Cult Neophyte, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1, latestCardId=SCH_713}
+5:12:30 PM|Info|Player.CreateInSetAside >> [Player] id=101, cardId=SCH_713e, cardName=Spoiled!, zonePos=0,Info={turn=4, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=SCH_713e}
+5:12:30 PM|Info|Player.CreateInPlay >> [Player] id=101, cardId=SCH_713e, cardName=Spoiled!, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=SCH_713e}
+5:12:30 PM|Info|Player.Play >> [Player] id=27, cardId=SCH_231, cardName=Intrepid Initiate, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1, latestCardId=SCH_231}
+5:12:31 PM|Info|Player.Play >> [Player] id=91, cardId=BT_175t, cardName=Second Slice, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=HAND, OriginalController=1, latestCardId=BT_175t}
+5:12:31 PM|Info|Player.CreateInSetAside >> [Player] id=104, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=4, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=BT_175e}
+5:12:31 PM|Info|Player.CreateInPlay >> [Player] id=104, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=BT_175e}
+5:12:31 PM|Info|Player.PlayToGraveyard >> [Player] id=91, cardId=BT_175t, cardName=Second Slice, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=HAND, OriginalController=1, latestCardId=BT_175t}
+5:12:31 PM|Info|Player.CreateInSetAside >> [Player] id=105, cardId=SCH_231e, cardName=Ready for School, zonePos=0,Info={turn=4, mark=Created, created=true, hasOutstandingTagChanges=true, latestCardId=SCH_231e}
+5:12:31 PM|Info|Player.CreateInPlay >> [Player] id=105, cardId=SCH_231e, cardName=Ready for School, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=SCH_231e}
+5:12:35 PM|Info|Player.PlayToGraveyard >> [Player] id=104, cardId=BT_175e, cardName=Twin Slice, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1, latestCardId=BT_175e}
+5:12:35 PM|Info|Player.CreateInPlay >> [Player] id=106, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|Player.CreateInSetAside >> [Player] id=106, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|Player.CreateInPlay >> [Player] id=107, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|Player.CreateInSetAside >> [Player] id=107, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|Player.CreateInPlay >> [Player] id=108, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|Player.CreateInSetAside >> [Player] id=108, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:35 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+5:12:35 PM|Info|SecretsManager.Exclude >> Excluded Secret SCH_706
+5:12:35 PM|Info|Player.Draw >> [Opponent] id=53, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=2}
+5:12:37 PM|Info|Player.CreateInPlay >> [Player] id=109, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:37 PM|Info|Player.CreateInSetAside >> [Player] id=109, cardId=, cardName=, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+5:12:55 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:12:56 PM|Info|Player.Play >> [Opponent] id=55, cardId=EX1_066, cardName=Acidic Swamp Ooze, zonePos=1,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2, latestCardId=EX1_066}
+5:12:57 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:12:58 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_09bp turn:4 from:-1)
+5:13:03 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+5:13:03 PM|Info|TurnTimer.Stop >> Stopping turn timer
+5:13:03 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+5:13:03 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+5:13:03 PM|Info|GameStats.GameEnd >> Current Game ended after 4 turns
+5:13:03 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Aggro
+5:13:03 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:13:03 PM|Info|LogUploader.Upload >> Uploading 55735313...
+5:13:03 PM|Info|LogUploader.TryUpload >> Creating upload request...
+5:13:04 PM|Info|LogUploader.TryUpload >> Upload Id: WMgyuSDUo8st32Qt5tMvph
+5:13:05 PM|Info|LogUploader.TryUpload >> Upload complete
+5:13:05 PM|Info|LogUploader.Upload >> 55735313 complete. Success=True
+5:13:17 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+5:13:17 PM|Info|DeckImporter.FromConstructed >> Found 7 decks, 0 new
+5:13:17 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+5:13:17 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+5:13:17 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+5:13:27 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.GetRewardTrackDataInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+5:13:28 PM|... 1 duplicate messages
+5:13:28 PM|Warning|Core.Initialize >> HearthMirror Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at System.BitConverter.ToInt32(Byte[] value, Int32 startIndex)
+   at HearthMirror.ProcessView.GetExport(String name)
+   at HearthMirror.Mirror.get_Root()
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.GetRewardTrackDataInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+5:13:28 PM|Info|Core.UpdateOverlayAsync >> Exited game
+5:13:28 PM|Info|Core.UpdateOverlayAsync >> Reset region
+5:13:29 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:13:29 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.InternalGetGameType()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+5:13:30 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+5:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+5:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+5:58:12 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:58:13 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:18:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:18:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:18:12 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:18:13 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:38:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:38:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:58:11 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:58:12 PM|Info|Updater.SquirrelUpdate >> No new updated available
+12:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:38:11 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+1:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+2:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+2:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+2:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+3:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+3:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+3:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+3:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+3:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+3:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+4:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+4:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+4:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+5:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+5:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+5:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+6:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:18:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+6:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:38:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+6:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:58:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+7:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:18:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+7:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:38:12 AM|Info|Updater.SquirrelUpdate >> No new updated available
+7:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:58:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+8:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:18:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+8:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:38:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+8:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:58:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+9:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:18:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+9:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:38:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+9:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:58:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+10:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:18:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+10:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:38:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+10:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:58:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+11:18:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:18:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+11:38:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:38:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+11:58:12 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:58:13 AM|Info|Updater.SquirrelUpdate >> No new updated available
+12:18:12 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:18:13 PM|Info|Updater.SquirrelUpdate >> No new updated available

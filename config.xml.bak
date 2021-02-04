@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <AccentName>Emerald</AccentName>
+  <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>206f3ff3-a913-4b25-a32b-53135a87d6ef</ActiveDeckIdString>
+  <ActiveDeckIdString>de61c6b9-b4ce-4e10-84f9-4d6f1981cafb</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -10,7 +10,6 @@
   <AlternativeScreenCapture>false</AlternativeScreenCapture>
   <AllowDevUpdates xsi:nil="true" />
   <ArenaRewardDialog>true</ArenaRewardDialog>
-  <AlwaysShowGoldProgress>false</AlwaysShowGoldProgress>
   <ArenaSummaryChartsExpanded>true</ArenaSummaryChartsExpanded>
   <ArenaStatsTimeFrameFilter>AllTime</ArenaStatsTimeFrameFilter>
   <ArenaStatsTimeFrameCustomStart xsi:nil="true" />
@@ -22,10 +21,10 @@
   <ArenaStatsIncludeArchived>true</ArenaStatsIncludeArchived>
   <ArenaStatsCustomSeasonMin>1</ArenaStatsCustomSeasonMin>
   <ArenaStatsCustomSeasonMax xsi:nil="true" />
-  <AttackIconPlayerVerticalPosition>71.67</AttackIconPlayerVerticalPosition>
-  <AttackIconPlayerHorizontalPosition>67.5</AttackIconPlayerHorizontalPosition>
-  <AttackIconOpponentVerticalPosition>19.91</AttackIconOpponentVerticalPosition>
-  <AttackIconOpponentHorizontalPosition>67.5</AttackIconOpponentHorizontalPosition>
+  <AttackIconPlayerVerticalPosition>68.1883752417794</AttackIconPlayerVerticalPosition>
+  <AttackIconPlayerHorizontalPosition>66.847195357833655</AttackIconPlayerHorizontalPosition>
+  <AttackIconOpponentVerticalPosition>21.070541586073492</AttackIconOpponentVerticalPosition>
+  <AttackIconOpponentHorizontalPosition>66.049323017408057</AttackIconOpponentHorizontalPosition>
   <AutoArchiveArenaDecks>false</AutoArchiveArenaDecks>
   <AutoDeckDetection>true</AutoDeckDetection>
   <AutoGrayoutSecrets>true</AutoGrayoutSecrets>
@@ -39,6 +38,7 @@
   <RumbleRunDeckNameTemplate>Rumble Run {Date dd-MM HH:mm}</RumbleRunDeckNameTemplate>
   <DalaranHeistDeckNameTemplate>Dalaran Heist {Date dd-MM HH:mm}</DalaranHeistDeckNameTemplate>
   <TombsOfTerrorDeckNameTemplate>Tombs of Terror {Date dd-MM HH:mm}</TombsOfTerrorDeckNameTemplate>
+  <PVPDungeonRunDeckNameTemplate>Duels Run {Date dd-MM HH:mm}</PVPDungeonRunDeckNameTemplate>
   <TurnStartAction>Flash</TurnStartAction>
   <ChallengeAction>Flash</ChallengeAction>
   <CardSortingClassFirst>true</CardSortingClassFirst>
@@ -54,7 +54,7 @@
   <ConstructedStatsAsPercent>false</ConstructedStatsAsPercent>
   <ConstructedStatsApplyTagFilters>false</ConstructedStatsApplyTagFilters>
   <ConstructedSummaryChartsExpanded>true</ConstructedSummaryChartsExpanded>
-  <ConstructedStatsModeFilter>All</ConstructedStatsModeFilter>
+  <ConstructedStatsModeFilter>Ranked</ConstructedStatsModeFilter>
   <ConstructedStatsLeagueFilter>All</ConstructedStatsLeagueFilter>
   <ConstructedStatsTimeFrameFilter>CurrentSeason</ConstructedStatsTimeFrameFilter>
   <ConstructedStatsClassFilter>All</ConstructedStatsClassFilter>
@@ -79,7 +79,7 @@
   <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.11.9.3962</CreatedByVersion>
+  <CreatedByVersion>1.13.22.5325</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -97,34 +97,12 @@
   <DungeonAutoImport>true</DungeonAutoImport>
   <DungeonRunIncludePassiveCards>true</DungeonRunIncludePassiveCards>
   <EnterToSaveNote>true</EnterToSaveNote>
+  <ShowExperienceCounter>true</ShowExperienceCounter>
   <ExportIncludeVersion>false</ExportIncludeVersion>
   <ExtraFeatures>false</ExtraFeatures>
   <ExtraFeaturesFriendslist>true</ExtraFeaturesFriendslist>
   <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
   <ForceMouseHook>false</ForceMouseHook>
-  <GoldProgessX>0.075</GoldProgessX>
-  <GoldProgessY>0.075</GoldProgessY>
-  <GoldProgress>
-    <int>0</int>
-    <int>1</int>
-    <int>0</int>
-    <int>0</int>
-    <int>0</int>
-  </GoldProgress>
-  <GoldProgressLastReset>
-    <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2020-05-10T00:00:00</dateTime>
-    <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>0001-01-01T00:00:00</dateTime>
-  </GoldProgressLastReset>
-  <GoldProgressTotal>
-    <int>0</int>
-    <int>10</int>
-    <int>0</int>
-    <int>0</int>
-    <int>0</int>
-  </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
   <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
@@ -172,10 +150,11 @@
   <HsReplayUploadPractice>true</HsReplayUploadPractice>
   <HsReplayUploadSpectator>true</HsReplayUploadSpectator>
   <HsReplayUploadBattlegrounds>true</HsReplayUploadBattlegrounds>
+  <HsReplayUploadDuels>true</HsReplayUploadDuels>
   <HsReplayUploadPacks xsi:nil="true" />
   <Id>e61fc6ee-1a31-45b0-9e67-aa57312f3578</Id>
   <IgnoredConfigWarnings />
-  <IgnoreNewsId>17</IgnoreNewsId>
+  <IgnoreNewsId>18</IgnoreNewsId>
   <KeepDecksVisible>true</KeepDecksVisible>
   <KeepStatsWhenDeletingDeck>true</KeepStatsWhenDeletingDeck>
   <Localization>enUS</Localization>
@@ -259,6 +238,7 @@
   <RecordRanked>true</RecordRanked>
   <RecordReplays>true</RecordReplays>
   <RecordSpectator>false</RecordSpectator>
+  <RecordDuels>true</RecordDuels>
   <RemoveCardsFromDeck>false</RemoveCardsFromDeck>
   <RemoveSecretsFromList>false</RemoveSecretsFromList>
   <ReplayWindowHeight>660</ReplayWindowHeight>
@@ -294,7 +274,10 @@
   <RunBobsBuddy>true</RunBobsBuddy>
   <ShowBobsBuddyDuringCombat>true</ShowBobsBuddyDuringCombat>
   <ShowBobsBuddyDuringShopping>false</ShowBobsBuddyDuringShopping>
+  <AlwaysShowAverageDamage>false</AlwaysShowAverageDamage>
   <SeenBobsBuddyInfo>false</SeenBobsBuddyInfo>
+  <SeenBobsBuddyAverageDamage>false</SeenBobsBuddyAverageDamage>
+  <BobsBuddyAverageDamageInfoClosed>false</BobsBuddyAverageDamageInfoClosed>
   <ShowCapturableOverlay>false</ShowCapturableOverlay>
   <SelectedDateOnDecks>None</SelectedDateOnDecks>
   <ShowDeckTitle>false</ShowDeckTitle>
@@ -343,21 +326,21 @@
   <TimerWindowTopmost>false</TimerWindowTopmost>
   <TimerWindowTopmostIfHsForeground>false</TimerWindowTopmostIfHsForeground>
   <TimerWindowWidth>150</TimerWindowWidth>
-  <TimersHorizontalPosition>73.3370538709534</TimersHorizontalPosition>
+  <TimersHorizontalPosition>73.341552755618054</TimersHorizontalPosition>
   <TimersHorizontalSpacing>51</TimersHorizontalSpacing>
-  <TimersVerticalPosition>44.136326787966141</TimersVerticalPosition>
+  <TimersVerticalPosition>44.691882343521712</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>248</TrackerWindowLeft>
-  <TrackerWindowTop>222</TrackerWindowTop>
+  <TrackerWindowLeft>389</TrackerWindowLeft>
+  <TrackerWindowTop>298</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
   <UseSameScaling>true</UseSameScaling>
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>false</WindowCardToolTips>
-  <WindowHeight>684</WindowHeight>
-  <WindowWidth>1104</WindowWidth>
+  <WindowHeight>919</WindowHeight>
+  <WindowWidth>1492</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>
   <WindowsTopmostIfHsForeground>false</WindowsTopmostIfHsForeground>

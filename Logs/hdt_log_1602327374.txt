@@ -1,0 +1,49 @@
+8:31:36 AM|Info|Core.Initialize >> HDT: 1.13.7.5167, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+8:31:36 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+8:31:36 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+8:31:36 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+8:31:37 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:31:38 AM|Info|Updater.SquirrelUpdate >> No new updated available
+8:31:38 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+8:31:38 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+8:31:38 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+8:31:38 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+8:31:38 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+8:31:38 AM|Info|GameV2.Reset >> -------- Reset ---------
+8:31:40 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+8:31:43 AM|Info|MainWindow.SelectDeck >> Switched to deck: Quest Druid (v1.0)
+8:31:43 AM|Info|GameV2.Reset >> -------- Reset ---------
+8:31:44 AM|Info|BackupManager.Run >> Running BackupManager
+8:31:44 AM|Info|BackupManager.Run >> Deleting old backup: Backup_01102020.zip
+8:31:44 AM|Info|BackupManager.Run >> Creating backup for today
+8:31:44 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+8:31:44 AM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.7\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+8:31:44 AM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.7\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+8:31:44 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+8:31:44 AM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+8:31:44 AM|Info|HSReplayNetOAuth.UpdateToken >> Refreshing token data...
+8:31:45 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2218, ServerTS=10/9/2020 11:30:12 AM, Downloaded=10/9/2020 9:17:52 PM Age=11:13:52.1009545
+8:31:45 AM|Info|HsReplayDecks.Load >> Complete: Count=2218, ServerTS=10/9/2020 11:30:12 AM, Downloaded=10/9/2020 9:17:52 PM Age=11:13:52.1019535
+8:31:45 AM|Info|HSReplayNetOAuth.SaveTokenData >> Saved token data
+8:31:46 AM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+8:31:46 AM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+8:31:46 AM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+8:51:36 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:51:37 AM|Info|Updater.SquirrelUpdate >> No new updated available
+9:11:36 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:11:37 AM|Info|Updater.SquirrelUpdate >> No new updated available
+9:23:58|Info|MainWindow.Window_Closing >> Shutting down...
+9:23:58|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+9:23:58|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89

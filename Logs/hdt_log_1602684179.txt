@@ -1,0 +1,45 @@
+4:02:46 PM|Info|Core.Initialize >> HDT: 1.13.7.5167, Operating System: Windows 10 Enterprise 18362, .NET Framework: 528040
+4:02:46 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+4:02:46 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+4:02:46 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+4:02:46 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:02:47 PM|Info|Updater.SquirrelUpdate >> No new updated available
+4:02:47 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+4:02:48 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+4:02:48 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+4:02:48 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+4:02:48 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+4:02:48 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:02:49 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+4:02:51 PM|Info|MainWindow.SelectDeck >> Switched to deck: Highlander (v1.0)
+4:02:51 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:02:52 PM|Info|BackupManager.Run >> Running BackupManager
+4:02:52 PM|Info|BackupManager.Run >> Deleting old backup: Backup_04102020.zip
+4:02:52 PM|Info|BackupManager.Run >> Creating backup for today
+4:02:52 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+4:02:53 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.7\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+4:02:53 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.7\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+4:02:53 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+4:02:53 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+4:02:53 PM|Info|HSReplayNetOAuth.UpdateToken >> Refreshing token data...
+4:02:53 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2095, ServerTS=10/13/2020 2:11:51 PM, Downloaded=10/13/2020 9:20:21 PM Age=18:42:31.9282044
+4:02:53 PM|Info|HsReplayDecks.Load >> Complete: Count=2095, ServerTS=10/13/2020 2:11:51 PM, Downloaded=10/13/2020 9:20:21 PM Age=18:42:31.9282044
+4:02:54 PM|Info|HSReplayNetOAuth.SaveTokenData >> Saved token data
+16:02:54|Info|MainWindow.Window_Closing >> Shutting down...
+4:02:54 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+4:02:54 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+16:02:54|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+16:02:54|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89
+4:02:54 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
