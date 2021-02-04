@@ -1,59 +1,43 @@
-5:34:48 PM|Info|Core.Initialize >> HDT: 1.13.25.5346, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
-5:34:48 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
-5:34:48 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
-5:34:49 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
-5:34:49 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
-5:34:50 PM|Info|Updater.SquirrelUpdate >> No new updated available
-5:34:50 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
-5:34:50 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
-5:34:50 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
-5:34:50 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
-5:34:50 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
-5:34:50 PM|Info|GameV2.Reset >> -------- Reset ---------
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding Autosquelch.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding Spawn.HDT.DustUtility.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\ArenaHelper.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.CV.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.Util.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardhashes.json
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardtier.json
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\version.json
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\cvextern.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcp120.dll
-5:34:53 PM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcr120.dll
-5:34:54 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
-5:34:57 PM|Info|MainWindow.SelectDeck >> Switched to deck: Aggro (v1.0)
-5:34:57 PM|Info|GameV2.Reset >> -------- Reset ---------
-5:34:58 PM|Info|BackupManager.Run >> Running BackupManager
-5:34:58 PM|Info|BackupManager.Run >> Deleting old backup: Backup_11122020.zip
-5:34:58 PM|Info|BackupManager.Run >> Creating backup for today
-5:34:58 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
-5:34:58 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\Spawn.HDT.DustUtility.dll:
+5:40:19 PM|Info|Core.Initialize >> HDT: 1.13.25.5346, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
+5:40:19 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+5:40:19 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+5:40:19 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+5:40:20 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+5:40:20 PM|Info|Updater.SquirrelUpdate >> No new updated available
+5:40:20 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+5:40:21 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+5:40:21 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+5:40:21 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+5:40:21 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+5:40:21 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:40:22 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+5:40:24 PM|Info|MainWindow.SelectDeck >> Switched to deck: Aggro (v1.0)
+5:40:24 PM|Info|GameV2.Reset >> -------- Reset ---------
+5:40:25 PM|Info|BackupManager.Run >> Running BackupManager
+5:40:25 PM|Info|BackupManager.Run >> Backup for today already exists
+5:40:25 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+5:40:25 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\Spawn.HDT.DustUtility.dll:
 System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
    at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
    at System.Reflection.RuntimeModule.GetTypes()
    at System.Reflection.Assembly.GetTypes()
    at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
-5:34:58 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\ArenaHelper\ArenaHelper.dll:
+5:40:25 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\ArenaHelper\ArenaHelper.dll:
 System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
    at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
    at System.Reflection.RuntimeModule.GetTypes()
    at System.Reflection.Assembly.GetTypes()
    at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
-5:34:58 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
-5:34:58 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
-5:34:58 PM|Info|HSReplayNetOAuth.UpdateToken >> Refreshing token data...
-5:34:58 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2216, ServerTS=1/22/2021 8:02:20 AM, Downloaded=1/22/2021 7:56:02 PM Age=12.21:38:56.7117854
-5:34:58 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
-5:34:58 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
-5:34:59 PM|Info|HSReplayNetOAuth.SaveTokenData >> Saved token data
-5:34:59 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
-5:34:59 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
-5:34:59 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
-5:35:00 PM|Info|HsReplayDecks.Load >> Complete: Count=2449, ServerTS=2/4/2021 4:14:36 PM, Downloaded=2/4/2021 5:34:59 PM Age=00:00:00.0339653
-5:35:00 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
-17:35:52|Info|MainWindow.Window_Closing >> Shutting down...
-17:35:52|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
-17:35:52|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+5:40:25 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+5:40:25 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+5:40:25 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2449, ServerTS=2/4/2021 4:14:36 PM, Downloaded=2/4/2021 5:34:59 PM Age=00:05:26.0007509
+5:40:25 PM|Info|HsReplayDecks.Load >> Complete: Count=2449, ServerTS=2/4/2021 4:14:36 PM, Downloaded=2/4/2021 5:34:59 PM Age=00:05:26.0007509
+5:40:26 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+5:40:26 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+5:40:27 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+17:40:27|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck DqUe87qVw99Dso2poGdBif
+17:40:31|Info|MainWindow.Window_Closing >> Shutting down...
+17:40:31|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+17:40:31|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
    at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89
