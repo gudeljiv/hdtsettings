@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>df3ac84e-108e-4a51-8387-a8bee7b82ea9</ActiveDeckIdString>
+  <ActiveDeckIdString>4c0677b7-bbc9-41cf-9f66-a45507b9e6f8</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -229,8 +229,8 @@
   <PlayerWindowOnStart>false</PlayerWindowOnStart>
   <PlayerWindowTop>298</PlayerWindowTop>
   <PasteImportingChoice>Manual</PasteImportingChoice>
-  <RarityCardFrames>false</RarityCardFrames>
-  <RarityCardGems>false</RarityCardGems>
+  <RarityCardFrames>true</RarityCardFrames>
+  <RarityCardGems>true</RarityCardGems>
   <RecordArena>false</RecordArena>
   <RecordCasual>false</RecordCasual>
   <RecordFriendly>false</RecordFriendly>
@@ -257,7 +257,7 @@
   </SelectedDeckPickerClasses>
   <SelectedDeckSorting>Name</SelectedDeckSorting>
   <SelectedDeckSortingArena>Name</SelectedDeckSortingArena>
-  <SelectedDeckPickerDeckType>All</SelectedDeckPickerDeckType>
+  <SelectedDeckPickerDeckType>Standard</SelectedDeckPickerDeckType>
   <SelectedLanguage>enUS</SelectedLanguage>
   <CardImageSize>1</CardImageSize>
   <HighResolutionCardImages>false</HighResolutionCardImages>
@@ -329,10 +329,10 @@
   <TimerWindowTopmost>false</TimerWindowTopmost>
   <TimerWindowTopmostIfHsForeground>false</TimerWindowTopmostIfHsForeground>
   <TimerWindowWidth>150</TimerWindowWidth>
-  <TimersHorizontalPosition>73.341552755618054</TimersHorizontalPosition>
-  <TimersHorizontalSpacing>51</TimersHorizontalSpacing>
-  <TimersVerticalPosition>44.691882343521712</TimersVerticalPosition>
-  <TimersVerticalSpacing>48</TimersVerticalSpacing>
+  <TimersHorizontalPosition>72.143636088951467</TimersHorizontalPosition>
+  <TimersHorizontalSpacing>81</TimersHorizontalSpacing>
+  <TimersVerticalPosition>44.321511973151331</TimersVerticalPosition>
+  <TimersVerticalSpacing>60</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
   <TrackerWindowLeft>430</TrackerWindowLeft>
   <TrackerWindowTop>314</TrackerWindowTop>

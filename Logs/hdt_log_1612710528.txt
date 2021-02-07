@@ -1,0 +1,132 @@
+1:40:31 PM|Info|Core.Initialize >> HDT: 1.13.25.5346, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
+1:40:31 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+1:40:31 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+1:40:31 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+1:40:32 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:40:32 PM|Info|Updater.SquirrelUpdate >> No new updated available
+1:40:32 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+1:40:33 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+1:40:33 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+1:40:33 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+1:40:33 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+1:40:33 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:40:37 PM|... 1 duplicate messages
+1:40:37 PM|Info|BackupManager.Run >> Running BackupManager
+1:40:37 PM|Info|BackupManager.Run >> Backup for today already exists
+1:40:37 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+1:40:37 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+1:40:37 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+1:40:37 PM|Info|Helper.GetCurrentRegion >> Region: EU
+1:40:37 PM|Info|BackupManager.Run >> Running BackupManager
+1:40:37 PM|Info|BackupManager.Run >> Backup for today already exists
+1:40:37 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+1:40:37 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+1:40:37 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+1:40:37 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+1:40:37 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+1:40:37 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2468, ServerTS=2/7/2021 10:50:29 AM, Downloaded=2/7/2021 1:31:42 PM Age=00:08:55.2766424
+1:40:37 PM|Info|HsReplayDecks.Load >> Complete: Count=2468, ServerTS=2/7/2021 10:50:29 AM, Downloaded=2/7/2021 1:31:42 PM Age=00:08:55.2766424
+1:40:37 PM|Info|GameV2.CurrentMode >> LOGIN
+1:40:37 PM|Info|GameV2.CurrentMode >> HUB
+1:40:37 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:40:37 PM|Info|GameV2.CurrentMode >> HUB
+1:40:37 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:40:37 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+1:40:37 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+1:40:38 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+1:40:40 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:40:40 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 12 tries.
+1:40:42 PM|... 1 duplicate messages
+1:40:42 PM|Info|GameV2.CurrentMode >> HUB
+1:40:42 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+13:40:42|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:40:43 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.GetRewardTrackDataInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:40:43 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+1:40:43 PM|Info|DeckImporter.FromConstructed >> Found 12 decks, 12 new
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Aggro as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Highlander as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Bloodweaver as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Aggro as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Bomb Gala as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Enrage as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Gibbering as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Control as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Highlander Priest as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Treant Goru as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Flik as new deck.
+1:40:43 PM|Info|DeckManager.ImportDecksTo >> Saving Weapon as new deck.
+1:40:43 PM|Info|MainWindow.SelectDeck >> Switched to deck: Aggro (v1.0)
+1:40:43 PM|Info|DeckList.ActiveDeck >> Set active deck to: Aggro (DemonHunter)
+1:40:44 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck DqUe87qVw99Dso2poGdBif
+1:40:44 PM|... 1 duplicate messages
+1:40:44 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:40:45 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+1:40:45 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+1:40:45 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+1:40:45 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+1:40:45 PM|Info|GameV2.CurrentMode >> LOGIN
+1:40:45 PM|Info|GameV2.CurrentMode >> HUB
+1:40:45 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:40:45 PM|Info|GameV2.CurrentMode >> HUB
+1:40:45 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:40:45 PM|Info|GameV2.CurrentMode >> HUB
+1:40:45 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+13:40:48|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck lpGDR1VYvOXTy0MXWFhOnb
+13:40:56|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck KQyAlP005Le0AMYQ3HHGXd
+13:40:59|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck 1VqtpbPR6CQ1nRhPq8yXeg
+13:41:02|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck JONYQthLWq48HHjbGhOB8d
+13:41:04|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck UcxIvbnikrg8gQwrfwzDTg
+13:41:09|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck bBoyvKCmQCpqnBNt4tAOjh
+13:41:11|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck fd9VyRb1d0QoYzxxI0iszd
+13:41:13|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck NwCqPslRNzBTwaR7PYVCah
+13:41:17|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck xhN5O481q43RMjerBLgIQf
+1:41:24 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:41:30 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.InternalGetGameType()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:41:31 PM|... 7 duplicate messages
+1:41:31 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.GetRewardTrackDataInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:41:31 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.InternalGetGameType()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:41:32 PM|... 7 duplicate messages
+1:41:32 PM|Warning|Core.Initialize >> HearthMirror Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at System.BitConverter.ToInt32(Byte[] value, Int32 startIndex)
+   at HearthMirror.ProcessView.GetExport(String name)
+   at HearthMirror.Mirror.get_Root()
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.GetRewardTrackDataInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:41:32 PM|Info|Core.UpdateOverlayAsync >> Exited game
+1:41:32 PM|Info|Core.UpdateOverlayAsync >> Reset region
+1:41:32 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:41:32 PM|Warning|Core.Initialize >> HearthMirror Exception: Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetService(String name)
+   at HearthMirror.Reflection.InternalGetGameType()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:41:33 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+13:42:26|Info|MainWindow.Window_Closing >> Shutting down...

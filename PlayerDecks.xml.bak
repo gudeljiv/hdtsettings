@@ -1202,6 +1202,10 @@
         <Count>2</Count>
       </Card>
       <Card>
+        <Id>EX1_581</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
         <Id>SCH_708</Id>
         <Count>2</Count>
       </Card>
@@ -1223,7 +1227,7 @@
       </Card>
       <Card>
         <Id>SCH_522</Id>
-        <Count>2</Count>
+        <Count>1</Count>
       </Card>
       <Card>
         <Id>SCH_623</Id>
@@ -1239,23 +1243,118 @@
       </Card>
     </Cards>
     <Class>Rogue</Class>
-    <LastEdited>2021-02-07T13:40:43.4713801+01:00</LastEdited>
+    <LastEdited>2021-02-07T16:38:42.6218762+01:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>0</Minor>
+      <Minor>1</Minor>
       <Revision>0</Revision>
     </Version>
-    <DeckHistory />
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>CS2_072</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_074</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>YOP_015</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_305</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BT_701</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_010</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_124</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_708</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BT_710</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_622</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_519</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>NEW1_022</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_522</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_623</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_425</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SCH_351</Id>
+            <Count>1</Count>
+          </Card>
+        </Cards>
+        <Class>Rogue</Class>
+        <LastEdited>2021-02-07T13:40:43.4713801+01:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2029994708</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>94affe75-6148-4389-8e4d-21ced2f7b4d3</DeckId>
+        <Name>Weapon</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
     <Archived>false</Archived>
     <HsId>2029994708</HsId>
     <Note />
     <SelectedVersion>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>0</Minor>
+      <Minor>1</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
@@ -1287,24 +1386,34 @@
       <Name>Evolve Shaman</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>a0d46638-863b-4cd2-b11e-9b799fe5038c</Id>
-      <Name>Brawl 30-11 22:35</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Id>4f5383d4-42df-4d0d-8cef-87440569dbc2</Id>
       <Name>BIG Warrior</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>8b708126-ee24-40f6-9c0c-39a837b19c0f</Id>
-      <Name>Corrupt</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Id>23b2e823-7385-4f92-8f98-9563f89fe01e</Id>
       <Name>Highlander Hunter</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>DemonHunter</Class>
+      <Id>df3ac84e-108e-4a51-8387-a8bee7b82ea9</Id>
+      <Name>Aggro</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>f95299c3-e0a6-4af9-8e10-7e98a9263253</Id>
+      <Name>Weapon</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>c00851f5-2cc2-410b-aacb-9bbd26bc01f7</Id>
+      <Name>Highlander Priest</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Id>4c0677b7-bbc9-41cf-9f66-a45507b9e6f8</Id>
+      <Name>Gibbering</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
