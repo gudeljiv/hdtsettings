@@ -1,0 +1,298 @@
+1:31:34 PM|Info|Core.Initialize >> HDT: 1.13.25.5346, Operating System: Windows 10 Enterprise 18363, .NET Framework: 528040
+1:31:34 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+1:31:34 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+1:31:34 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+1:31:35 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:31:35 PM|Info|Updater.SquirrelUpdate >> No new updated available
+1:31:35 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+1:31:36 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+1:31:36 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+1:31:36 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+1:31:36 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+1:31:36 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:31:37 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+1:31:39 PM|Info|MainWindow.SelectDeck >> Switched to deck: Aggro (v1.0)
+1:31:39 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:31:40 PM|Info|BackupManager.Run >> Running BackupManager
+1:31:40 PM|Info|BackupManager.Run >> Deleting old backup: Backup_28122020.zip
+1:31:40 PM|Info|BackupManager.Run >> Deleting old backup: Backup_11012021.zip
+1:31:40 PM|Info|BackupManager.Run >> Creating backup for today
+1:31:41 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+1:31:41 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+1:31:41 PM|Error|PluginManager.GetModule >> Error loading C:\Users\Ivan Gudelj\AppData\Local\HearthstoneDeckTracker\app-1.13.25\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 196
+1:31:41 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+1:31:41 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+1:31:41 PM|Info|HSReplayNetOAuth.UpdateToken >> Refreshing token data...
+1:31:41 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2449, ServerTS=2/4/2021 4:14:36 PM, Downloaded=2/4/2021 5:34:59 PM Age=2.19:56:41.3848414
+1:31:41 PM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+1:31:41 PM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+1:31:42 PM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+1:31:42 PM|Info|HSReplayNetOAuth.SaveTokenData >> Saved token data
+1:31:42 PM|Info|HsReplayDecks.Load >> Complete: Count=2468, ServerTS=2/7/2021 10:50:29 AM, Downloaded=2/7/2021 1:31:42 PM Age=00:00:00.0309687
+13:31:42|Info|AssetDownloader.DownloadAsset >> Starting download for CS2_075.png.
+13:31:42|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup CS2_075.png.
+1:31:42 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Toiletduck#2574
+1:31:42 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+1:31:42 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 1 account(s): gudeljiv
+13:32:00|Info|HSReplayAccount.AccountSettingsCommand >> [Helper.TryOpenUrl] https://hsreplay.net/account/?utm_source=hdt&utm_medium=client&utm_campaign=options_account_settings
+1:37:06 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+1:37:08 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+1:37:12 PM|Info|GameV2.CurrentMode >> LOGIN
+1:37:12 PM|Info|Helper.GetCurrentRegion >> Region: EU
+1:37:12 PM|Info|BackupManager.Run >> Running BackupManager
+1:37:12 PM|Info|BackupManager.Run >> Backup for today already exists
+1:37:16 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:37:16 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 16 tries.
+1:37:18 PM|Info|GameV2.CurrentMode >> HUB
+1:37:18 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+1:37:21 PM|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+1:37:21 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:37:22 PM|Warning|Core.Initialize >> HearthMirror Exception: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at HearthMirror.Cache.Add(Int64 key, Byte[] value)
+   at HearthMirror.ProcessView.ReadBytes(Int32 size, Int64 addr, Int32 offset)
+   at HearthMirror.Mono.MonoClass.get_NumFields()
+   at HearthMirror.Mono.MonoClass.get_Fields()
+   at HearthMirror.Mono.MonoObject.get_Fields()
+   at HearthMirror.Mono.MonoObject.get_Item(String key)
+   at CallSite.Target(Closure , CallSite , Object , String )
+   at HearthMirror.Reflection.GetCollectionInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:37:22 PM|Warning|CollectionHelper.UpdateCollection >> No collection found, retrying...
+1:37:26 PM|Warning|Core.Initialize >> HearthMirror Exception: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at HearthMirror.Cache.Add(Int64 key, Byte[] value)
+   at HearthMirror.ProcessView.ReadBytes(Int32 size, Int64 addr, Int32 offset)
+   at HearthMirror.Mono.MonoImage.LoadAllTypes()
+   at HearthMirror.Mono.MonoImage..ctor(ProcessView view, UInt32 pImage)
+   at HearthMirror.Mirror.get_Root()
+   at HearthMirror.Reflection.GetCollectionInternal()
+   at HearthMirror.Reflection.TryGetInternal[T](Func`1 action, Boolean clearCache)
+1:37:26 PM|Warning|CollectionHelper.UpdateCollection >> No collection found
+13:39:30|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+13:39:35|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 13-01 20:26
+13:39:35|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 13-01 20:26
+13:39:36|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Aggro to default stats
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Aggro
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Aggro
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Aggro
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Aggro
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 09-12 20:28
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 09-12 20:28
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control Demon Hunter
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Control Demon Hunter
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Custom Demon Hunter
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Custom Demon Hunter
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Demons
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: Demons
+13:39:36|Info|MainWindow.DeleteDeck >> Moved deckstats for deck OTK Demon Hunter to default stats
+13:39:36|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: OTK Demon Hunter
+13:39:36|Info|MainWindow.DeleteDeck >> Deleted deck: OTK Demon Hunter
+13:39:37|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Soul to default stats
+13:39:37|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Soul
+13:39:37|Info|MainWindow.DeleteDeck >> Deleted deck: Soul
+13:39:37|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Soul Demon Hunter to default stats
+13:39:37|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Soul Demon Hunter
+13:39:37|Info|MainWindow.DeleteDeck >> Deleted deck: Soul Demon Hunter
+13:39:38|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Tempo Demon Hunter to default stats
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Tempo Demon Hunter
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Tempo Demon Hunter
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Arena 29-09 21:50
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Arena 29-09 21:50
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 09-09 20:13
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 09-09 20:13
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 09-09 20:16
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 09-09 20:16
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Corrupt
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Corrupt
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Custom Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Custom Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Custom Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Custom Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Guardian Druid to default stats
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Guardian Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: Guardian Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: HL Druid
+13:39:38|Info|MainWindow.DeleteDeck >> Deleted deck: HL Druid
+13:39:39|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Malygos to default stats
+13:39:39|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Malygos
+13:39:39|Info|MainWindow.DeleteDeck >> Deleted deck: Malygos
+13:39:39|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Malygos Druid to default stats
+13:39:39|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Malygos Druid
+13:39:39|Info|MainWindow.DeleteDeck >> Deleted deck: Malygos Druid
+13:39:40|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Quest Druid to default stats
+13:39:40|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Quest Druid
+13:39:40|Info|MainWindow.DeleteDeck >> Deleted deck: Quest Druid
+13:39:41|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Ysera Druid to default stats
+13:39:41|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Ysera Druid
+13:39:41|Info|MainWindow.DeleteDeck >> Deleted deck: Ysera Druid
+13:39:41|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Brawl 08-10 20:52 to default stats
+13:39:41|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 08-10 20:52
+13:39:41|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 08-10 20:52
+13:39:41|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 17-07 17:32
+13:39:41|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 17-07 17:32
+13:39:41|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 17-11 22:37
+13:39:41|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 17-11 22:37
+13:39:42|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Dragon to default stats
+13:39:42|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Dragon
+13:39:42|Info|MainWindow.DeleteDeck >> Deleted deck: Dragon
+13:39:42|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Face to default stats
+13:39:42|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Face
+13:39:42|Info|MainWindow.DeleteDeck >> Deleted deck: Face
+13:39:43|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Highlander Hunter to default stats
+13:39:43|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander Hunter
+13:39:43|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander Hunter
+13:39:43|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Highlander Hunter to default stats
+13:39:43|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander Hunter
+13:39:43|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander Hunter
+13:39:43|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander Hunter
+13:39:43|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander Hunter
+13:39:44|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Hunter to default stats
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Hunter
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Hunter
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 17-11 22:29
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 17-11 22:29
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Spells
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Spells
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Libram
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Libram
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Pure Paladin
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Pure Paladin
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Pure Paladin
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Pure Paladin
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Big Priest
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Big Priest
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 27-08 22:22
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 27-08 22:22
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Brawl 30-11 22:35
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Brawl 30-11 22:35
+13:39:44|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Control to default stats
+13:39:44|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control
+13:39:44|Info|MainWindow.DeleteDeck >> Deleted deck: Control
+13:39:45|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Control to default stats
+13:39:45|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control
+13:39:45|Info|MainWindow.DeleteDeck >> Deleted deck: Control
+13:39:45|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Control Priest to default stats
+13:39:45|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control Priest
+13:39:45|Info|MainWindow.DeleteDeck >> Deleted deck: Control Priest
+13:39:46|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Dragon Highlander to default stats
+13:39:46|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Dragon Highlander
+13:39:46|Info|MainWindow.DeleteDeck >> Deleted deck: Dragon Highlander
+13:39:46|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Highlander to default stats
+13:39:46|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander
+13:39:46|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander
+13:39:47|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Highlander Priest to default stats
+13:39:47|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Highlander Priest
+13:39:47|Info|MainWindow.DeleteDeck >> Deleted deck: Highlander Priest
+13:39:47|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Palm Priest
+13:39:47|Info|MainWindow.DeleteDeck >> Deleted deck: Palm Priest
+13:39:47|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Resurrect to default stats
+13:39:47|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Resurrect
+13:39:47|Info|MainWindow.DeleteDeck >> Deleted deck: Resurrect
+13:39:47|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Resurrect Priest
+13:39:47|Info|MainWindow.DeleteDeck >> Deleted deck: Resurrect Priest
+13:39:47|Info|DeckList.ActiveDeck >> Set active deck to: 
+13:39:48|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Aggro
+13:39:48|Info|MainWindow.DeleteDeck >> Deleted deck: Aggro
+13:39:48|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Duels Run 12-11 20:12 to default stats
+13:39:48|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Duels Run 12-11 20:12
+13:39:48|Info|MainWindow.DeleteDeck >> Deleted deck: Duels Run 12-11 20:12
+13:39:49|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Galakrond Rogue to default stats
+13:39:49|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Galakrond Rogue
+13:39:49|Info|MainWindow.DeleteDeck >> Deleted deck: Galakrond Rogue
+13:39:49|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Questing to default stats
+13:39:49|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Questing
+13:39:49|Info|MainWindow.DeleteDeck >> Deleted deck: Questing
+13:39:50|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Questing Stealth to default stats
+13:39:50|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Questing Stealth
+13:39:50|Info|MainWindow.DeleteDeck >> Deleted deck: Questing Stealth
+13:39:50|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Secret Rogue to default stats
+13:39:50|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Secret Rogue
+13:39:50|Info|MainWindow.DeleteDeck >> Deleted deck: Secret Rogue
+13:39:50|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Secret Rogue
+13:39:50|Info|MainWindow.DeleteDeck >> Deleted deck: Secret Rogue
+13:39:51|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Secrets to default stats
+13:39:51|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Secrets
+13:39:51|Info|MainWindow.DeleteDeck >> Deleted deck: Secrets
+13:39:51|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Stealth Rogue to default stats
+13:39:51|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Stealth Rogue
+13:39:51|Info|MainWindow.DeleteDeck >> Deleted deck: Stealth Rogue
+13:39:52|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Tempo to default stats
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Tempo
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Tempo
+13:39:52|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Weapon Rogue to default stats
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Weapon Rogue
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Weapon Rogue
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Whirlkick Questing
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Whirlkick Questing
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Evolve Shaman
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Evolve Shaman
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Totem Shaman
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Totem Shaman
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Quest
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Quest
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Zoo
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Zoo
+13:39:52|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Big
+13:39:52|Info|MainWindow.DeleteDeck >> Deleted deck: Big
+13:39:53|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Big Warrior to default stats
+13:39:53|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Big Warrior
+13:39:53|Info|MainWindow.DeleteDeck >> Deleted deck: Big Warrior
+13:39:53|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: BIG Warrior
+13:39:53|Info|MainWindow.DeleteDeck >> Deleted deck: BIG Warrior
+13:39:54|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Bomb to default stats
+13:39:54|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Bomb
+13:39:54|Info|MainWindow.DeleteDeck >> Deleted deck: Bomb
+13:39:54|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Bomb Control
+13:39:54|Info|MainWindow.DeleteDeck >> Deleted deck: Bomb Control
+13:39:54|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Bomb Enrage to default stats
+13:39:54|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Bomb Enrage
+13:39:54|Info|MainWindow.DeleteDeck >> Deleted deck: Bomb Enrage
+13:39:55|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Control to default stats
+13:39:55|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Control
+13:39:55|Info|MainWindow.DeleteDeck >> Deleted deck: Control
+13:39:56|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Duels Run 12-11 20:50 to default stats
+13:39:56|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Duels Run 12-11 20:50
+13:39:56|Info|MainWindow.DeleteDeck >> Deleted deck: Duels Run 12-11 20:50
+13:39:56|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Galakrond
+13:39:56|Info|MainWindow.DeleteDeck >> Deleted deck: Galakrond
+13:39:57|Info|MainWindow.DeleteDeck >> Moved deckstats for deck OTK WARRIOR to default stats
+13:39:57|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: OTK WARRIOR
+13:39:57|Info|MainWindow.DeleteDeck >> Deleted deck: OTK WARRIOR
+13:39:58|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Pirate to default stats
+13:39:58|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Pirate
+13:39:58|Info|MainWindow.DeleteDeck >> Deleted deck: Pirate
+13:39:59|Info|MainWindow.DeleteDeck >> Moved deckstats for deck Teron Eggs to default stats
+13:39:59|Info|MainWindow.DeleteDeck >> Removed deckstats from deck: Teron Eggs
+13:39:59|Info|MainWindow.DeleteDeck >> Deleted deck: Teron Eggs
+13:39:59|Info|GameV2.Reset >> -------- Reset ---------
+13:40:00|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Hearthstone\Logs'
+13:40:00|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+13:40:00|Info|LogWatcherManager.OnLogFileFound >> Achievements
+13:40:00|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+13:40:00|Info|GameV2.CurrentMode >> LOGIN
+13:40:00|Info|GameV2.CurrentMode >> HUB
+13:40:00|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+13:40:00|Info|GameV2.CurrentMode >> HUB
+1:40:07 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+13:40:10|... 1 duplicate messages
+13:40:10|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+1:40:17 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+13:40:26|... 3 duplicate messages
+13:40:26|Info|MainWindow.Window_Closing >> Shutting down...
+13:40:26|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+13:40:26|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 89

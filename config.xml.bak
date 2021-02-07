@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>de61c6b9-b4ce-4e10-84f9-4d6f1981cafb</ActiveDeckIdString>
+  <ActiveDeckIdString>df3ac84e-108e-4a51-8387-a8bee7b82ea9</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -334,8 +334,8 @@
   <TimersVerticalPosition>44.691882343521712</TimersVerticalPosition>
   <TimersVerticalSpacing>48</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>389</TrackerWindowLeft>
-  <TrackerWindowTop>298</TrackerWindowTop>
+  <TrackerWindowLeft>430</TrackerWindowLeft>
+  <TrackerWindowTop>314</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
