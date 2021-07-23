@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>4c0677b7-bbc9-41cf-9f66-a45507b9e6f8</ActiveDeckIdString>
+  <ActiveDeckIdString>f6328533-5f61-4f78-a404-077a27349491</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -29,7 +29,7 @@
   <AutoDeckDetection>true</AutoDeckDetection>
   <AutoGrayoutSecrets>true</AutoGrayoutSecrets>
   <AutoSaveOnImport>false</AutoSaveOnImport>
-  <AutoUseDeck>false</AutoUseDeck>
+  <AutoUseDeck>true</AutoUseDeck>
   <DeckPickerCaps>true</DeckPickerCaps>
   <ArenaDeckNameTemplate>Arena {Date dd-MM HH:mm}</ArenaDeckNameTemplate>
   <BrawlDeckNameTemplate>Brawl {Date dd-MM HH:mm}</BrawlDeckNameTemplate>
@@ -76,11 +76,11 @@
   <ConstructedStatsNoteFilter />
   <ConstructedStatsActiveDeckOnly>false</ConstructedStatsActiveDeckOnly>
   <ClearLogFileAfterGame>true</ClearLogFileAfterGame>
-  <CloseToTray>false</CloseToTray>
+  <CloseToTray>true</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.13.25.5346</CreatedByVersion>
-  <HearthdbVersion>19.4.1.0</HearthdbVersion>
+  <CreatedByVersion>1.14.27.5557</CreatedByVersion>
+  <HearthdbVersion>20.8.2.0</HearthdbVersion>
   <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
@@ -121,6 +121,7 @@
   <OpponentJadeCounter>Auto</OpponentJadeCounter>
   <OpponentPogoHopperCounter>Auto</OpponentPogoHopperCounter>
   <OpponentGalakrondCounter>Auto</OpponentGalakrondCounter>
+  <OpponentLibramCounter>Auto</OpponentLibramCounter>
   <HideOpponentCardAge>true</HideOpponentCardAge>
   <HideOpponentCardCount>true</HideOpponentCardCount>
   <HideOpponentCardMarks>true</HideOpponentCardMarks>
@@ -128,7 +129,7 @@
   <HideOpponentDrawChances>true</HideOpponentDrawChances>
   <HideOpponentFatigueCount>true</HideOpponentFatigueCount>
   <HideOverlay>false</HideOverlay>
-  <HideOverlayInSpectator>false</HideOverlayInSpectator>
+  <HideOverlayInSpectator>true</HideOverlayInSpectator>
   <HidePlayerAttackIcon>false</HidePlayerAttackIcon>
   <PlayerCthunCounter>Auto</PlayerCthunCounter>
   <PlayerSpellsCounter>Auto</PlayerSpellsCounter>
@@ -136,12 +137,14 @@
   <HidePlayerCardCount>true</HidePlayerCardCount>
   <PlayerPogoHopperCounter>Auto</PlayerPogoHopperCounter>
   <PlayerGalakrondCounter>Auto</PlayerGalakrondCounter>
+  <PlayerLibramCounter>Auto</PlayerLibramCounter>
   <HidePlayerCards>false</HidePlayerCards>
   <HidePlayerFatigueCount>true</HidePlayerFatigueCount>
   <HideSecrets>false</HideSecrets>
   <HideTimers>false</HideTimers>
   <HighlightCardsInHand>false</HighlightCardsInHand>
   <HighlightDiscarded>false</HighlightDiscarded>
+  <EnableLinkOpponentDeckInNonFriendly>false</EnableLinkOpponentDeckInNonFriendly>
   <HighlightLastDrawn>true</HighlightLastDrawn>
   <HsReplayAutoUpload>true</HsReplayAutoUpload>
   <HsReplayUploadRanked>true</HsReplayUploadRanked>
@@ -242,7 +245,7 @@
   <RecordSpectator>false</RecordSpectator>
   <RecordDuels>true</RecordDuels>
   <RemoveCardsFromDeck>false</RemoveCardsFromDeck>
-  <RemoveSecretsFromList>false</RemoveSecretsFromList>
+  <RemoveSecretsFromList>true</RemoveSecretsFromList>
   <ReplayWindowHeight>660</ReplayWindowHeight>
   <ReplayWindowLeft xsi:nil="true" />
   <ReplayWindowTop xsi:nil="true" />
@@ -260,7 +263,7 @@
   <SelectedDeckPickerDeckType>Standard</SelectedDeckPickerDeckType>
   <SelectedLanguage>enUS</SelectedLanguage>
   <CardImageSize>1</CardImageSize>
-  <HighResolutionCardImages>false</HighResolutionCardImages>
+  <HighResolutionCardImages>true</HighResolutionCardImages>
   <SelectedStatsFilterGameMode>All</SelectedStatsFilterGameMode>
   <SelectedStatsFilterTimeFrame>AllTime</SelectedStatsFilterTimeFrame>
   <SelectedTags>
@@ -280,7 +283,9 @@
   <AlwaysShowAverageDamage>false</AlwaysShowAverageDamage>
   <SeenBobsBuddyInfo>false</SeenBobsBuddyInfo>
   <SeenBobsBuddyAverageDamage>false</SeenBobsBuddyAverageDamage>
+  <SeenMulliganToast>true</SeenMulliganToast>
   <BobsBuddyAverageDamageInfoClosed>false</BobsBuddyAverageDamageInfoClosed>
+  <InteractedWithLinkOpponentDeck>false</InteractedWithLinkOpponentDeck>
   <ShowCapturableOverlay>false</ShowCapturableOverlay>
   <SelectedDateOnDecks>None</SelectedDateOnDecks>
   <ShowDeckTitle>false</ShowDeckTitle>
@@ -297,6 +302,7 @@
   <ShowWinRateAgainst>true</ShowWinRateAgainst>
   <ShowReplayShareToast>true</ShowReplayShareToast>
   <ShowBattlegroundsToast>true</ShowBattlegroundsToast>
+  <ShowMulliganToast>true</ShowMulliganToast>
   <ShowLeagueFilterHint>true</ShowLeagueFilterHint>
   <SortDecksByClass>true</SortDecksByClass>
   <SortDecksByClassArena>false</SortDecksByClassArena>
@@ -334,16 +340,16 @@
   <TimersVerticalPosition>44.321511973151331</TimersVerticalPosition>
   <TimersVerticalSpacing>60</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>430</TrackerWindowLeft>
-  <TrackerWindowTop>314</TrackerWindowTop>
+  <TrackerWindowLeft>453</TrackerWindowLeft>
+  <TrackerWindowTop>219</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
-  <UseAnimations>true</UseAnimations>
+  <UseAnimations>false</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
   <UseSameScaling>true</UseSameScaling>
   <VisibleOverlay>false</VisibleOverlay>
   <WindowCardToolTips>false</WindowCardToolTips>
-  <WindowHeight>919</WindowHeight>
-  <WindowWidth>1492</WindowWidth>
+  <WindowHeight>1032</WindowHeight>
+  <WindowWidth>1567</WindowWidth>
   <WindowsBackgroundHex>#696969</WindowsBackgroundHex>
   <WindowsTopmost>false</WindowsTopmost>
   <WindowsTopmostIfHsForeground>false</WindowsTopmostIfHsForeground>
