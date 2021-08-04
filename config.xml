@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>74cc8c45-58b4-44ba-8061-2f6546c782e7</ActiveDeckIdString>
+  <ActiveDeckIdString>a9d3b991-524a-4cd9-8298-7e9c682b76ab</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -79,8 +79,8 @@
   <CloseToTray>true</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.14.27.5557</CreatedByVersion>
-  <HearthdbVersion>20.8.2.0</HearthdbVersion>
+  <CreatedByVersion>1.15.1.5572</CreatedByVersion>
+  <HearthdbVersion>21.0.0.0</HearthdbVersion>
   <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
@@ -313,14 +313,14 @@
   <StatsClassOverviewIsExpanded>false</StatsClassOverviewIsExpanded>
   <StatsDeckOverviewIsExpanded>true</StatsDeckOverviewIsExpanded>
   <StatsFilterOpponentHeroClass>All</StatsFilterOpponentHeroClass>
-  <StatsInWindow>false</StatsInWindow>
+  <StatsInWindow>true</StatsInWindow>
   <StatsOverallApplyTagFilters>false</StatsOverallApplyTagFilters>
   <StatsOverallFilterDeckMode>WithDeck</StatsOverallFilterDeckMode>
   <StatsOverallFilterPlayerHeroClass>All</StatsOverallFilterPlayerHeroClass>
-  <StatsWindowHeight>672</StatsWindowHeight>
-  <StatsWindowLeft xsi:nil="true" />
-  <StatsWindowTop xsi:nil="true" />
-  <StatsWindowWidth>510</StatsWindowWidth>
+  <StatsWindowHeight>1003</StatsWindowHeight>
+  <StatsWindowLeft>470</StatsWindowLeft>
+  <StatsWindowTop>196</StatsWindowTop>
+  <StatsWindowWidth>1830</StatsWindowWidth>
   <StreamingOverlayBackground>#FF00FF</StreamingOverlayBackground>
   <SyncCollection>true</SyncCollection>
   <TagDecksOnImport>true</TagDecksOnImport>
