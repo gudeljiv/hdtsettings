@@ -6371,6 +6371,206 @@
     <Name>Handbuff Paladin</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>SCH_617</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_600</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_231</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_DS1_184</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_279</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_133</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_801</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_035</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_BRM_013</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_091</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_321</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_721</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BAR_032</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_088</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BAR_037</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_551</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DMF_087</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Hunter</Class>
+    <LastEdited>2021-08-05T14:39:16.2350808+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2089612524</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>7995a2e8-0b28-43de-a82a-bbf780c8393e</DeckId>
+    <Name>Aggro</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CORE_EX1_169</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_427</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_333</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_075</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_057</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_058</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_OG_047</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_CS2_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BT_130</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_429</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_095</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WC_006</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_164</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_539</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_732</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS3_034</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DMF_254</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2021-08-05T14:47:33.8960829+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2089616802</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</DeckId>
+    <Name>Anacondra</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Shaman</Class>
@@ -6381,11 +6581,6 @@
       <Class>Mage</Class>
       <Id>64b1bce1-0ca0-4fbb-a95d-d062a8bd3fc7</Id>
       <Name>Spells</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Druid</Class>
-      <Id>3a69209e-c36c-4228-9aca-13182cb2033b</Id>
-      <Name>Malygos</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Priest</Class>
@@ -6411,6 +6606,16 @@
       <Class>Warlock</Class>
       <Id>a9620908-3359-4be2-b97f-e530da419f86</Id>
       <Name>Zoo</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
+      <Name>Anacondra</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
+      <Name>Aggro</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
