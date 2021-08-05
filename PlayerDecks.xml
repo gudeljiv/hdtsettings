@@ -6571,6 +6571,104 @@
     <Name>Anacondra</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>SCH_514</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>YOP_032</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_302</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_091</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_090</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_ICC_055</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_701</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WC_021</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>YOP_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_113</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_003</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_072</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_307</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_918</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_056</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WC_023</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_095</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2021-08-05T16:07:35.1970492+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2089656215</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>a8800e65-ef42-4e6c-92f8-815c328adbc5</DeckId>
+    <Name>Quest</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Shaman</Class>
@@ -6604,18 +6702,18 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
-      <Id>a9620908-3359-4be2-b97f-e530da419f86</Id>
-      <Name>Zoo</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
-      <Name>Aggro</Name>
+      <Id>a8800e65-ef42-4e6c-92f8-815c328adbc5</Id>
+      <Name>Quest</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
       <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
       <Name>Anacondra</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
+      <Name>Aggro</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
