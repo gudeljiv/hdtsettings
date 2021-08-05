@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <string>SCH_616.png</string>
-  <string>SCH_605.png</string>
+  <string>YOP_033.png</string>
+  <string>DMF_113.png</string>
+  <string>BT_307.png</string>
+  <string>CORE_EX1_302.png</string>
+  <string>BT_302.png</string>
+  <string>SCH_307.png</string>
+  <string>WC_021.png</string>
+  <string>SW_091.png</string>
+  <string>CORE_EX1_144.png</string>
+  <string>SCH_701.png</string>
+  <string>CORE_ICC_055.png</string>
+  <string>YOP_006.png</string>
+  <string>WC_023.png</string>
+  <string>SW_088.png</string>
+  <string>BT_301.png</string>
+  <string>BAR_026.png</string>
+  <string>BAR_848.png</string>
   <string>SCH_244.png</string>
+  <string>SCH_605.png</string>
+  <string>SCH_616.png</string>
   <string>SCH_609.png</string>
   <string>DMF_163.png</string>
   <string>DMF_078.png</string>
@@ -18,7 +35,6 @@
   <string>BAR_065.png</string>
   <string>BAR_326.png</string>
   <string>WC_027.png</string>
-  <string>BAR_026.png</string>
   <string>DMF_187.png</string>
   <string>DMF_103.png</string>
   <string>BT_257.png</string>
@@ -47,7 +63,6 @@
   <string>BAR_045.png</string>
   <string>DMF_062.png</string>
   <string>DMF_732.png</string>
-  <string>BAR_848.png</string>
   <string>SCH_270.png</string>
   <string>BT_213.png</string>
   <string>BAR_034.png</string>
