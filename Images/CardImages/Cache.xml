@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>CORE_EX1_164.png</string>
+  <string>CORE_OG_047.png</string>
+  <string>SCH_427.png</string>
+  <string>SCH_333.png</string>
+  <string>CORE_CS2_013.png</string>
+  <string>SCH_614.png</string>
+  <string>DMF_254t7.png</string>
+  <string>CORE_EX1_095.png</string>
+  <string>WC_006.png</string>
   <string>SW_321.png</string>
   <string>BAR_721.png</string>
   <string>BAR_032.png</string>
@@ -38,7 +47,6 @@
   <string>DMF_078.png</string>
   <string>SCH_311.png</string>
   <string>BAR_042.png</string>
-  <string>CORE_CS2_013.png</string>
   <string>SCH_160.png</string>
   <string>BAR_325.png</string>
   <string>BAR_330.png</string>

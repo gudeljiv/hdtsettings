@@ -10251,7 +10251,105 @@
     </Deck>
     <Deck>
       <DeckId>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</DeckId>
-      <Games />
+      <Games>
+        <Game>
+          <GameId>b1bc0ab3-605d-4963-86de-6b5128269f65</GameId>
+          <PlayerHero>Druid</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2021-08-05T15:07:35.8980778+02:00</StartTime>
+          <EndTime>2021-08-05T15:16:13.0950812+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>nnd#1202</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Druid) vs nnd#1202(Warlock) 1516-050821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>178</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.177</Address>
+            <AuroraPassword>AjNMNa</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>118888</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>gDgfIN</SpectatorPassword>
+            <Version>2258716</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07i</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</DeckId>
+          <DeckName>Anacondra</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>LDGK5pejjhVeCcduWihgqh</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/LDGK5pejjhVeCcduWihgqh/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089616802</HsDeckId>
+          <PlayerCards>
+            <Card Id="CORE_EX1_169" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_058" Count="2" Unconfirmed="1" />
+            <Card Id="BT_130" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_164" Count="2" />
+            <Card Id="SCH_614" Count="1" />
+            <Card Id="DMF_075" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_057" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_095" Count="2" Unconfirmed="1" />
+            <Card Id="SCH_333" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_254" Count="1" />
+            <Card Id="BAR_539" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_OG_047" Count="2" Unconfirmed="1" />
+            <Card Id="SW_429" Count="1" />
+            <Card Id="SCH_427" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_013" Count="1" Unconfirmed="1" />
+            <Card Id="WC_006" Count="1" Unconfirmed="1" />
+            <Card Id="DMF_732" Count="2" Unconfirmed="2" />
+            <Card Id="CS3_034" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_514" Count="2" />
+            <Card Id="YOP_032" Count="2" />
+            <Card Id="CORE_EX1_302" Count="1" />
+            <Card Id="SW_091" Count="1" />
+            <Card Id="SW_090" Count="2" />
+            <Card Id="CORE_ICC_055" Count="2" />
+            <Card Id="SCH_701" Count="1" />
+            <Card Id="WC_021" Count="1" />
+            <Card Id="YOP_033" Count="2" />
+            <Card Id="DMF_113" Count="2" />
+            <Card Id="SW_003" Count="1" />
+            <Card Id="SW_072" Count="1" />
+            <Card Id="SCH_307" Count="1" />
+            <Card Id="BAR_918" Count="1" />
+            <Card Id="SW_056" Count="1" />
+            <Card Id="WC_023" Count="2" />
+            <Card Id="CORE_EX1_095" Count="1" />
+          </OpponentCards>
+        </Game>
+      </Games>
       <Name>Anacondra</Name>
     </Deck>
     <Deck>
