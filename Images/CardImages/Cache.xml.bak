@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <string>SCH_356.png</string>
+  <string>SCH_600.png</string>
   <string>DMF_254t5.png</string>
+  <string>SCH_356.png</string>
   <string>SW_110.png</string>
   <string>BT_002.png</string>
   <string>SCH_307.png</string>

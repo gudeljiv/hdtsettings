@@ -6608,14 +6608,14 @@
       <Name>Zoo</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
-      <Name>Anacondra</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
       <Name>Aggro</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
+      <Name>Anacondra</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

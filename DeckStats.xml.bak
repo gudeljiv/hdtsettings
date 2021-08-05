@@ -6233,6 +6233,99 @@
             <Card Id="SW_411" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>7e995757-5944-4ed9-85d6-8676ed139f52</GameId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2021-08-05T14:57:16.2140803+02:00</StartTime>
+          <EndTime>2021-08-05T15:07:07.4980811+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Bulls71#2584</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Hunter) vs Bulls71#2584(Warlock) 1507-050821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>195</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.200</Address>
+            <AuroraPassword>HnPHCB</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>123505</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>GJEjna</SpectatorPassword>
+            <Version>2258716</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>7995a2e8-0b28-43de-a82a-bbf780c8393e</DeckId>
+          <DeckName>Aggro</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>SLUnBdFXbhm8ukDDycKJCU</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/SLUnBdFXbhm8ukDDycKJCU/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089612524</HsDeckId>
+          <PlayerCards>
+            <Card Id="SCH_133" Count="2" />
+            <Card Id="BAR_801" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_551" Count="1" />
+            <Card Id="SCH_231" Count="2" />
+            <Card Id="DMF_091" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_035" Count="2" />
+            <Card Id="CORE_DS1_184" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_088" Count="1" />
+            <Card Id="DMF_087" Count="2" />
+            <Card Id="CORE_BRM_013" Count="2" />
+            <Card Id="BAR_032" Count="2" Unconfirmed="1" />
+            <Card Id="SW_321" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_037" Count="2" Unconfirmed="1" />
+            <Card Id="SCH_600" Count="2" />
+            <Card Id="SCH_617" Count="2" Unconfirmed="2" />
+            <Card Id="SCH_279" Count="1" Unconfirmed="1" />
+            <Card Id="BAR_721" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_514" Count="2" />
+            <Card Id="YOP_032" Count="1" />
+            <Card Id="SW_091" Count="1" />
+            <Card Id="SW_090" Count="1" />
+            <Card Id="CORE_ICC_055" Count="1" />
+            <Card Id="SCH_701" Count="1" />
+            <Card Id="WC_021" Count="1" />
+            <Card Id="YOP_033" Count="1" />
+            <Card Id="BAR_916" Count="1" />
+            <Card Id="SW_003" Count="1" />
+            <Card Id="SCH_307" Count="1" />
+            <Card Id="BAR_918" Count="1" />
+            <Card Id="SW_056" Count="1" />
+            <Card Id="WC_023" Count="2" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Aggro</Name>
     </Deck>
