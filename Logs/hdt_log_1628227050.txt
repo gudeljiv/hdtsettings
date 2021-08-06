@@ -1,0 +1,16 @@
+4:05:17 PM|Info|Core.Initialize >> HDT: 1.15.1.5572, Operating System: Windows 10 Enterprise 22000, .NET Framework: 528449
+4:05:18 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+4:05:18 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+4:05:18 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+4:05:19 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:05:19 PM|Info|Updater.SquirrelUpdate >> No new updated available
+4:05:19 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+4:05:20 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+4:05:20 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+4:05:20 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+4:05:20 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+4:05:20 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:05:21 PM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
