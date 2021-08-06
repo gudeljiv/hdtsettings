@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>BAR_541.png</string>
+  <string>BT_002.png</string>
+  <string>SW_110.png</string>
+  <string>DMF_113.png</string>
+  <string>YOP_033.png</string>
+  <string>WC_021.png</string>
+  <string>SCH_701.png</string>
+  <string>CORE_ICC_055.png</string>
+  <string>CS3_005.png</string>
+  <string>BAR_319.png</string>
+  <string>CORE_EX1_134.png</string>
+  <string>SW_413.png</string>
+  <string>BAR_552.png</string>
+  <string>CORE_EX1_186.png</string>
+  <string>SW_417.png</string>
+  <string>SW_063.png</string>
+  <string>BT_307.png</string>
+  <string>SW_084.png</string>
+  <string>BAR_745.png</string>
+  <string>DMF_111.png</string>
+  <string>DMF_066.png</string>
+  <string>SCH_140.png</string>
+  <string>BAR_917.png</string>
+  <string>BAR_911.png</string>
+  <string>WC_005.png</string>
+  <string>DMF_702.png</string>
+  <string>DMF_704.png</string>
+  <string>SCH_353.png</string>
+  <string>YOP_019.png</string>
+  <string>DMF_062.png</string>
+  <string>BAR_045.png</string>
   <string>BT_135.png</string>
   <string>SCH_600.png</string>
   <string>SCH_279.png</string>
@@ -16,15 +47,11 @@
   <string>YOP_032.png</string>
   <string>CORE_EX1_302.png</string>
   <string>SW_090.png</string>
-  <string>CORE_ICC_055.png</string>
-  <string>SCH_701.png</string>
-  <string>DMF_113.png</string>
   <string>WC_023.png</string>
   <string>SCH_427.png</string>
   <string>GAME_005.png</string>
   <string>SW_072.png</string>
   <string>SCH_514.png</string>
-  <string>WC_021.png</string>
   <string>CORE_EX1_164.png</string>
   <string>CORE_OG_047.png</string>
   <string>SCH_333.png</string>
@@ -39,14 +66,10 @@
   <string>DMF_087.png</string>
   <string>DMF_254t5.png</string>
   <string>SCH_356.png</string>
-  <string>SW_110.png</string>
-  <string>BT_002.png</string>
   <string>SW_088.png</string>
   <string>BT_302.png</string>
   <string>BT_300.png</string>
-  <string>YOP_033.png</string>
   <string>BT_301.png</string>
-  <string>BT_307.png</string>
   <string>CORE_EX1_144.png</string>
   <string>YOP_006.png</string>
   <string>BAR_026.png</string>
@@ -87,9 +110,6 @@
   <string>YOP_026.png</string>
   <string>BAR_854.png</string>
   <string>WC_042.png</string>
-  <string>DMF_704.png</string>
-  <string>BAR_045.png</string>
-  <string>DMF_062.png</string>
   <string>DMF_732.png</string>
   <string>SCH_270.png</string>
   <string>BT_213.png</string>
