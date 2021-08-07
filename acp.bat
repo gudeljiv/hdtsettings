@@ -1,9 +1,9 @@
 @echo off
 setlocal enableDelayedExpansion
 
-echo "$([char]0x1B)[38;2;40;177;249m color: 40;177;249 $([char]0x1B)[0m"
-echo "$([char]0x1B)[38;2;255;255;100m color: 255;255;100"
-echo "$([char]0x1B)[48;2;200;0;200m color: 200;0;200 $([char]0x1B)[0m"
+echo $([char]0x1B)[38;2;40;177;249m color: 40;177;249 $([char]0x1B)[0m
+echo $([char]0x1B)[38;2;255;255;100m color: 255;255;100
+echo $([char]0x1B)[48;2;200;0;200m color: 200;0;200 $([char]0x1B)[0m
 
 
 echo|set /p= Adding files to git: 
