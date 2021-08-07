@@ -1,14 +1,7 @@
 @echo off
 setlocal enableDelayedExpansion
 
-@echo off
-cls
-echo [101;93m STYLES [0m
-echo ^<ESC^>[0m [0mReset[0m
-echo ^<ESC^>[1m [1mBold[0m
-echo ^<ESC^>[4m [4mUnderline[0m
-echo ^<ESC^>[7m [7mInverse[0m
-echo.
+cecho {0C}Hello world!{#}{\n}
 
 
 echo|set /p= Adding files to git: 
