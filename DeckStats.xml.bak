@@ -2185,6 +2185,96 @@
             <Card Id="BAR_876" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>b2fd283a-58bd-4d7d-a798-3dffe09ac58a</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2021-08-07T13:30:37.9511747+02:00</StartTime>
+          <EndTime>2021-08-07T13:41:26.1771698+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>blackpardus8#2784</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Rogue) vs blackpardus8#2784(Paladin) 1341-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <Stars>1</Stars>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>219</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.74</Address>
+            <AuroraPassword>FiMikB</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>69691</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>mlGELM</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_04d</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
+          <DeckName>Quest</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>4FLx65U94gSEMGnH6bDz8G</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/4FLx65U94gSEMGnH6bDz8G/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2090017277</HsDeckId>
+          <PlayerCards>
+            <Card Id="SW_411" Count="2" />
+            <Card Id="SCH_305" Count="2" />
+            <Card Id="BT_710" Count="2" />
+            <Card Id="SW_417" Count="2" />
+            <Card Id="BAR_319" Count="2" />
+            <Card Id="DMF_515" Count="2" />
+            <Card Id="SW_412" Count="2" Unconfirmed="1" />
+            <Card Id="SW_063" Count="2" />
+            <Card Id="DMF_511" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_144" Count="2" />
+            <Card Id="SCH_426" Count="1" />
+            <Card Id="CORE_EX1_134" Count="2" Unconfirmed="1" />
+            <Card Id="SW_052" Count="1" />
+            <Card Id="SW_413" Count="2" Unconfirmed="1" />
+            <Card Id="SW_418" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_071" Count="1" Unconfirmed="1" />
+            <Card Id="BAR_552" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BAR_873" Count="1" />
+            <Card Id="SW_048" Count="1" />
+            <Card Id="CORE_ICC_038" Count="1" />
+            <Card Id="CORE_GVG_085" Count="1" />
+            <Card Id="BT_019" Count="1" />
+            <Card Id="SW_315" Count="1" />
+            <Card Id="SW_317" Count="1" />
+            <Card Id="BAR_078" Count="1" />
+            <Card Id="BAR_902" Count="1" />
+            <Card Id="SW_305" Count="1" />
+            <Card Id="BAR_881" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Quest</Name>
     </Deck>
