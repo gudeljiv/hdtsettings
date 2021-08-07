@@ -2,7 +2,7 @@
 setlocal enableDelayedExpansion
 
 
-echo /p Adding files to git: 
+echo|set /p= Adding files to git: 
 @git add .  >nul 2>&1 && (echo done) || (echo error)
 
 echo /p Commiting files: 
