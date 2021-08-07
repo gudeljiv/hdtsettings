@@ -1918,6 +1918,98 @@
             <Card Id="CORE_CS2_042" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>9d72e92d-a474-4137-92d8-ee9c3b6b6222</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2021-08-06T23:29:23.819082+02:00</StartTime>
+          <EndTime>2021-08-06T23:35:34.0640765+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Myra#21116</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Rogue) vs Myra#21116(Warlock) 2335-060821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>1</Stars>
+          <StarsAfter>2</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>16</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.163</Address>
+            <AuroraPassword>ElCKmo</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>47229</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>DBoPdp</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07g</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
+          <DeckName>Quest</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>xeBeFJS2mdNUxstBKr3WfA</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/xeBeFJS2mdNUxstBKr3WfA/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2090017277</HsDeckId>
+          <PlayerCards>
+            <Card Id="SCH_713" Count="2" Unconfirmed="1" />
+            <Card Id="SW_413" Count="2" Unconfirmed="1" />
+            <Card Id="SCH_305" Count="2" />
+            <Card Id="CORE_EX1_144" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_134" Count="2" Unconfirmed="1" />
+            <Card Id="SW_417" Count="2" />
+            <Card Id="SW_063" Count="2" Unconfirmed="1" />
+            <Card Id="SW_052" Count="1" />
+            <Card Id="BAR_552" Count="1" />
+            <Card Id="DMF_511" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_071" Count="1" />
+            <Card Id="SW_418" Count="2" Unconfirmed="1" />
+            <Card Id="SW_412" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_319" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_515" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_186" Count="1" Unconfirmed="1" />
+            <Card Id="SW_411" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_EX1_302" Count="2" />
+            <Card Id="SW_091" Count="1" />
+            <Card Id="SW_090" Count="1" />
+            <Card Id="WC_021" Count="1" />
+            <Card Id="DMF_113" Count="1" />
+            <Card Id="SW_003" Count="2" />
+            <Card Id="SCH_307" Count="1" />
+            <Card Id="SW_088" Count="1" />
+            <Card Id="CORE_CS2_062" Count="1" />
+            <Card Id="BT_301" Count="1" />
+            <Card Id="BT_300" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Quest</Name>
     </Deck>
@@ -20288,6 +20380,11 @@
       <DeckId>00b1a893-2510-4150-b828-f23a886c68e6</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>ce823588-9045-4be3-ad90-244a93b7acc6</DeckId>
+      <Games />
+      <Name>Quest</Name>
     </Deck>
     <Deck>
       <DeckId>f3e333e1-b03e-470a-a645-25ccde0def56</DeckId>

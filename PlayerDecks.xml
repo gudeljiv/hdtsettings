@@ -6861,108 +6861,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CORE_EX1_144</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_052</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SCH_305</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_412</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_713</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DMF_511</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_418</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DMF_515</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DMF_071</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS3_005</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>BAR_319</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CORE_EX1_134</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_413</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BAR_552</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CORE_EX1_186</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SW_411</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_063</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SW_417</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Rogue</Class>
-    <LastEdited>2021-08-06T10:39:27.4631937+02:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <HsId>2090017277</HsId>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <IsArenaDeck>false</IsArenaDeck>
-    <IsDungeonDeck>false</IsDungeonDeck>
-    <IsDuelsDeck>false</IsDuelsDeck>
-    <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
-    <Name>Quest</Name>
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>BAR_305</Id>
         <Count>1</Count>
       </Card>
@@ -7153,6 +7051,207 @@
     <Name>Quest Mage</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CORE_EX1_144</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_052</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_305</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_412</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_713</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_511</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_418</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_515</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_071</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BAR_319</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_134</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_413</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_552</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_186</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_411</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_063</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_417</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2021-08-06T23:29:07.4282589+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>CORE_EX1_144</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_052</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SCH_305</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_412</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_713</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_511</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_418</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_515</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_071</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS3_005</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BAR_319</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_EX1_134</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_413</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_552</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CORE_EX1_186</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_411</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_063</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_417</Id>
+            <Count>2</Count>
+          </Card>
+        </Cards>
+        <Class>Rogue</Class>
+        <LastEdited>2021-08-06T10:39:27.4631937+02:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2090017277</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>ce823588-9045-4be3-ad90-244a93b7acc6</DeckId>
+        <Name>Quest</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <HsId>2090017277</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
+    <Name>Quest</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Priest</Class>
@@ -7175,11 +7274,6 @@
       <Name>Anacondra</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>55bc2c7a-8489-4b5d-bee4-47c582e93add</Id>
-      <Name>Quest</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Id>24761a95-e93e-437c-9114-08f0498a035a</Id>
       <Name>Elemental</Name>
@@ -7193,6 +7287,11 @@
       <Class>Mage</Class>
       <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
       <Name>Quest Mage</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>55bc2c7a-8489-4b5d-bee4-47c582e93add</Id>
+      <Name>Quest</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
