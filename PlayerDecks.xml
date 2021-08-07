@@ -7470,11 +7470,6 @@
       <Name>Zoo</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>24761a95-e93e-437c-9114-08f0498a035a</Id>
-      <Name>Elemental</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
       <Name>Aggro</Name>
@@ -7490,9 +7485,9 @@
       <Name>Quest Mage</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>55bc2c7a-8489-4b5d-bee4-47c582e93add</Id>
-      <Name>Quest</Name>
+      <Class>Shaman</Class>
+      <Id>24761a95-e93e-437c-9114-08f0498a035a</Id>
+      <Name>Elemental</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

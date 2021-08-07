@@ -2275,6 +2275,174 @@
             <Card Id="BAR_881" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>d29f4d1e-7c63-4094-82f6-f2ef090d8c80</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>3</Turns>
+          <StartTime>2021-08-07T15:55:41.4522451+02:00</StartTime>
+          <EndTime>2021-08-07T15:56:52.5872457+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>kvNNN#2536</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Rogue) vs kvNNN#2536(Mage) 1556-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>2</Stars>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>201</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.40</Address>
+            <AuroraPassword>aIlOLa</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>76671</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>GhOIPe</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08e</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
+          <DeckName>Quest</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>Jt9VGNzuqfBHWcpbZQaCtb</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/Jt9VGNzuqfBHWcpbZQaCtb/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2090017277</HsDeckId>
+          <PlayerCards>
+            <Card Id="DMF_071" Count="1" />
+            <Card Id="CORE_EX1_144" Count="2" Unconfirmed="1" />
+            <Card Id="SW_052" Count="1" />
+            <Card Id="DMF_511" Count="2" Unconfirmed="1" />
+            <Card Id="BT_710" Count="2" Unconfirmed="1" />
+            <Card Id="SW_063" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_319" Count="2" />
+            <Card Id="SCH_305" Count="2" Unconfirmed="2" />
+            <Card Id="SW_412" Count="2" Unconfirmed="2" />
+            <Card Id="SW_418" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_515" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_EX1_134" Count="2" Unconfirmed="2" />
+            <Card Id="SW_413" Count="2" Unconfirmed="2" />
+            <Card Id="SCH_426" Count="1" Unconfirmed="1" />
+            <Card Id="BAR_552" Count="1" Unconfirmed="1" />
+            <Card Id="SW_411" Count="2" Unconfirmed="2" />
+            <Card Id="SW_417" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SW_450" Count="1" />
+            <Card Id="BT_002" Count="1" />
+            <Card Id="CORE_CS2_023" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>463cacea-c51f-492f-b053-94551c25688f</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2021-08-07T15:57:11.2152469+02:00</StartTime>
+          <EndTime>2021-08-07T16:01:33.4942451+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>JonnyMaracas#2488</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Rogue) vs JonnyMaracas#2488(Paladin) 1601-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>1</Stars>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>236</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.141</Address>
+            <AuroraPassword>aaJNgo</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>74268</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>IcNjDm</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_04b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>55bc2c7a-8489-4b5d-bee4-47c582e93add</DeckId>
+          <DeckName>Quest</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>2</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>namCeNzwo4M2aQGBKhXJfC</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/namCeNzwo4M2aQGBKhXJfC/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2090017277</HsDeckId>
+          <PlayerCards>
+            <Card Id="CORE_EX1_134" Count="2" Unconfirmed="1" />
+            <Card Id="SW_052" Count="1" />
+            <Card Id="SCH_305" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_071" Count="1" />
+            <Card Id="BAR_319" Count="2" />
+            <Card Id="SW_411" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_144" Count="2" Unconfirmed="1" />
+            <Card Id="SW_418" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_515" Count="2" />
+            <Card Id="BT_710" Count="2" />
+            <Card Id="DMF_511" Count="2" Unconfirmed="1" />
+            <Card Id="SCH_426" Count="1" />
+            <Card Id="BAR_552" Count="1" />
+            <Card Id="SW_063" Count="2" />
+            <Card Id="SW_412" Count="2" Unconfirmed="1" />
+            <Card Id="SW_413" Count="2" Unconfirmed="2" />
+            <Card Id="SW_417" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_EX1_008" Count="2" />
+            <Card Id="SW_315" Count="2" />
+            <Card Id="SW_305" Count="1" />
+            <Card Id="SW_080" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Quest</Name>
     </Deck>
@@ -8813,6 +8981,1334 @@
             <Card Id="CORE_EX1_275" Count="1" />
             <Card Id="SW_107" Count="1" />
             <Card Id="BAR_542" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>f63df450-2a99-4d9f-bbb1-65fd2e88dd3d</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2021-08-07T16:01:58.2592467+02:00</StartTime>
+          <EndTime>2021-08-07T16:05:38.3332475+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Blackthrax#2145</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Blackthrax#2145(Paladin) 1605-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>239</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.177</Address>
+            <AuroraPassword>hPIglO</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>77874</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>aOFgLM</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_04k</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>HZBLcMSepLPFi3tJEa7yM8</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/HZBLcMSepLPFi3tJEa7yM8/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="WC_042" Count="2" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="2" />
+            <Card Id="BT_115" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BAR_873" Count="1" />
+            <Card Id="SW_048" Count="1" />
+            <Card Id="CORE_ICC_038" Count="1" />
+            <Card Id="SW_315" Count="2" />
+            <Card Id="SCH_532" Count="1" />
+            <Card Id="SW_305" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>f8d0de43-73e5-40bd-82f1-83cdb9075e2a</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2021-08-07T16:06:02.5622461+02:00</StartTime>
+          <EndTime>2021-08-07T16:12:11.0502466+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Pezh#2158</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Pezh#2158(Warlock) 1612-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>1</Stars>
+          <StarsAfter>2</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.99</Address>
+            <AuroraPassword>fmOlfI</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>72521</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>BLGILO</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07c</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>4zxAaeABwZFLSiE35Vux8X</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/4zxAaeABwZFLSiE35Vux8X/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" />
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="WC_005" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_158" Count="1" />
+            <Card Id="CORE_EX1_302" Count="2" />
+            <Card Id="SCH_700" Count="2" />
+            <Card Id="SW_091" Count="1" />
+            <Card Id="CORE_ICC_055" Count="1" />
+            <Card Id="SCH_701" Count="1" />
+            <Card Id="WC_021" Count="1" />
+            <Card Id="YOP_033" Count="1" />
+            <Card Id="BAR_026" Count="1" />
+            <Card Id="DMF_113" Count="1" />
+            <Card Id="YOP_003" Count="1" />
+            <Card Id="SCH_307" Count="1" />
+            <Card Id="SW_056" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>4389a7da-ac3e-4ec3-96e2-90b671c6e260</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>DemonHunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>7</Turns>
+          <StartTime>2021-08-07T16:12:30.3612458+02:00</StartTime>
+          <EndTime>2021-08-07T16:17:10.411256+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Kaillens#2842</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Kaillens#2842(DemonHunter) 1617-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>2</Stars>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.40</Address>
+            <AuroraPassword>gMoCml</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>77468</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>JEjGok</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_10</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>RVap8tMrEMoJHGRBR9WmTS</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/RVap8tMrEMoJHGRBR9WmTS/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="BT_110" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" />
+            <Card Id="WC_042" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_BT_480" Count="1" />
+            <Card Id="SCH_422" Count="2" />
+            <Card Id="SCH_702" Count="1" />
+            <Card Id="DMF_221" Count="1" />
+            <Card Id="SW_039" Count="1" />
+            <Card Id="YOP_001" Count="1" />
+            <Card Id="SW_041" Count="1" />
+            <Card Id="CORE_BT_035" Count="2" />
+            <Card Id="BT_514" Count="2" />
+            <Card Id="CORE_BT_491" Count="1" />
+            <Card Id="BAR_064" Count="1" />
+            <Card Id="CORE_BT_801" Count="2" />
+            <Card Id="DMF_230" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>29df9c78-ea3a-4a4b-8c66-47ff9d094d2a</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2021-08-07T16:17:26.2012492+02:00</StartTime>
+          <EndTime>2021-08-07T16:24:35.8332513+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Nneka#21356</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Nneka#21356(Druid) 1624-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>1</Stars>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>221</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.188</Address>
+            <AuroraPassword>jAmAHe</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>74702</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>gaFjNO</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06a</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>SunrEQUgPyCEP8GmUVAX9N</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/SunrEQUgPyCEP8GmUVAX9N/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="WC_005" Count="2" />
+            <Card Id="BT_115" Count="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_TRL_243" Count="2" />
+            <Card Id="SW_428" Count="1" />
+            <Card Id="SCH_333" Count="1" />
+            <Card Id="DMF_075" Count="1" />
+            <Card Id="DMF_057" Count="1" />
+            <Card Id="BAR_549" Count="1" />
+            <Card Id="DMF_058" Count="1" />
+            <Card Id="CORE_OG_047" Count="1" />
+            <Card Id="BT_128" Count="1" />
+            <Card Id="BT_130" Count="1" />
+            <Card Id="SW_431" Count="1" />
+            <Card Id="BT_135" Count="1" />
+            <Card Id="SW_429" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>4e6fac90-6b63-4109-a9b0-d10dd54f962e</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Warlock</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2021-08-07T16:24:54.7842479+02:00</StartTime>
+          <EndTime>2021-08-07T16:29:35.195245+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Songokus#2846</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Songokus#2846(Warlock) 1629-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.89</Address>
+            <AuroraPassword>igBfnE</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>76217</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>dLCbhd</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_07d</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>D5tSe2JXqht3eMki3JhsPg</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/D5tSe2JXqht3eMki3JhsPg/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="WC_005" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="2" />
+            <Card Id="WC_042" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_514" Count="1" />
+            <Card Id="SCH_311" Count="1" />
+            <Card Id="SCH_700" Count="1" />
+            <Card Id="SW_091" Count="1" />
+            <Card Id="SCH_312" Count="1" />
+            <Card Id="SW_084" Count="1" />
+            <Card Id="BT_307" Count="1" />
+            <Card Id="CORE_ICC_055" Count="1" />
+            <Card Id="BAR_745" Count="1" />
+            <Card Id="WC_021" Count="1" />
+            <Card Id="YOP_033" Count="1" />
+            <Card Id="DMF_111" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>3821392b-672e-4b99-b822-a7f9bce59cc1</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2021-08-07T16:30:01.4332474+02:00</StartTime>
+          <EndTime>2021-08-07T16:34:21.8652469+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Saemon#2435</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Saemon#2435(Rogue) 1634-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <Stars>1</Stars>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>10</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.56</Address>
+            <AuroraPassword>bDCdNI</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>77287</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>AKhnBI</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03j</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>ApBHSyaJNmjn2kQGseqN3g</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/ApBHSyaJNmjn2kQGseqN3g/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="BAR_854" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SW_052" Count="1" />
+            <Card Id="SW_412" Count="1" />
+            <Card Id="SW_418" Count="1" />
+            <Card Id="DMF_515" Count="1" />
+            <Card Id="CS3_005" Count="1" />
+            <Card Id="SW_413" Count="1" />
+            <Card Id="BAR_552" Count="1" />
+            <Card Id="SW_411" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>186145cc-3020-4129-bbbf-17aa2dae2e73</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2021-08-07T16:34:52.5692461+02:00</StartTime>
+          <EndTime>2021-08-07T16:42:07.841246+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Ebashy#21923</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Ebashy#21923(Mage) 1642-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>2</Stars>
+          <StarsAfter>3</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>211</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.246</Address>
+            <AuroraPassword>AoLGbG</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>76022</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>IPFMFh</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08g</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>KAdwXjKmArKWqYoh7WANu9</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/KAdwXjKmArKWqYoh7WANu9/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="WC_005" Count="2" />
+            <Card Id="WC_042" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="CORE_EX1_238" Count="2" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="DMF_062" Count="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_270" Count="1" />
+            <Card Id="CORE_GIL_801" Count="2" />
+            <Card Id="SW_450" Count="1" />
+            <Card Id="SCH_353" Count="1" />
+            <Card Id="SW_110" Count="1" />
+            <Card Id="BT_002" Count="1" />
+            <Card Id="BAR_541" Count="1" />
+            <Card Id="CORE_CS2_023" Count="1" />
+            <Card Id="CORE_EX1_287" Count="1" />
+            <Card Id="CORE_EX1_289" Count="1" />
+            <Card Id="SW_107" Count="1" />
+            <Card Id="DMF_105" Count="1" />
+            <Card Id="BAR_542" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>ab2bcc7a-a3ee-42b0-afe5-ef3431f4b126</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2021-08-07T16:42:39.8422458+02:00</StartTime>
+          <EndTime>2021-08-07T16:49:41.3707633+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Skywalker#23760</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Skywalker#23760(Rogue) 1649-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>47</StarLevelAfter>
+          <Stars>3</Stars>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>235</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.32</Address>
+            <AuroraPassword>bLanFF</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>74395</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>lkHlmA</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>uQbCqJw7H994ULJLZ2TuKg</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/uQbCqJw7H994ULJLZ2TuKg/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="DMF_701" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_EX1_145" Count="2" />
+            <Card Id="CORE_CS2_074" Count="2" />
+            <Card Id="DMF_519" Count="1" />
+            <Card Id="SCH_305" Count="2" />
+            <Card Id="SW_412" Count="1" />
+            <Card Id="CORE_CS2_075" Count="2" />
+            <Card Id="SW_311" Count="2" />
+            <Card Id="BAR_318" Count="2" />
+            <Card Id="DMF_515" Count="1" />
+            <Card Id="SCH_160" Count="1" />
+            <Card Id="BAR_319" Count="1" />
+            <Card Id="DMF_512" Count="1" />
+            <Card Id="BAR_322" Count="1" />
+            <Card Id="SCH_623" Count="2" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>1290c480-cb7c-45f0-b5bd-7f8974f8d5bc</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>4</Turns>
+          <StartTime>2021-08-07T16:50:04.2247625+02:00</StartTime>
+          <EndTime>2021-08-07T16:52:18.2507619+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>NetWolf#2892</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs NetWolf#2892(Mage) 1652-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>47</StarLevel>
+          <StarLevelAfter>47</StarLevelAfter>
+          <Stars>1</Stars>
+          <OpponentStarLevel>47</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>145</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.99</Address>
+            <AuroraPassword>dLJDGk</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>74488</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>cjcjcL</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>QzxgpytiBpPpC5xD7NNwsW</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/QzxgpytiBpPpC5xD7NNwsW/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="WC_042" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SW_108" Count="1" />
+            <Card Id="SCH_270" Count="1" />
+            <Card Id="SW_450" Count="1" />
+            <Card Id="BAR_541" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>fec9cb81-8b67-4872-ad03-4ce92d9b4054</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>8</Turns>
+          <StartTime>2021-08-07T16:52:40.1827628+02:00</StartTime>
+          <EndTime>2021-08-07T16:56:47.9837676+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Monkstranger#2184</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Monkstranger#2184(Hunter) 1656-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>47</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <StarsAfter>2</StarsAfter>
+          <OpponentStarLevel>47</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>5</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.223</Address>
+            <AuroraPassword>cpJoDA</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>73697</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>oGGMpB</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_05c</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>mAyuL8yq23BSaxrAyDMVr7</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/mAyuL8yq23BSaxrAyDMVr7/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_617" Count="1" />
+            <Card Id="SCH_133" Count="1" />
+            <Card Id="BAR_801" Count="1" />
+            <Card Id="BT_211" Count="1" />
+            <Card Id="CORE_BRM_013" Count="2" />
+            <Card Id="SW_321" Count="2" />
+            <Card Id="BAR_037" Count="1" />
+            <Card Id="BAR_551" Count="1" />
+            <Card Id="DMF_087" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>16a43167-966e-4bc8-bb0a-f061ed82f130</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Rogue</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>5</Turns>
+          <StartTime>2021-08-07T16:57:08.5027626+02:00</StartTime>
+          <EndTime>2021-08-07T17:00:01.7547609+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>vpizio#2199</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs vpizio#2199(Rogue) 1700-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>2</Stars>
+          <StarsAfter>3</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>143</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.106</Address>
+            <AuroraPassword>pJckPA</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>79494</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>GAFpjg</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_03g</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>otUPDqpKFP3V5M7vW2acUF</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/otUPDqpKFP3V5M7vW2acUF/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="WC_042" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="2" />
+            <Card Id="BT_115" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CORE_CS2_072" Count="2" />
+            <Card Id="SCH_509" Count="2" />
+            <Card Id="DMF_515" Count="1" />
+            <Card Id="SW_434" Count="1" />
+            <Card Id="SW_405" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>46a31b3d-4fdc-4db9-8fdb-1359fb952660</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2021-08-07T17:00:27.1747628+02:00</StartTime>
+          <EndTime>2021-08-07T17:04:50.888763+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Jeraziah#2766</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Jeraziah#2766(Shaman) 1704-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>47</StarLevelAfter>
+          <Stars>3</Stars>
+          <StarsAfter>1</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>93</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <OpponentPlayerId>2</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.177</Address>
+            <AuroraPassword>bpaBPE</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>80600</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>eDmnKa</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>UbA2YdyvkcvA6mA75MCZjL</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/UbA2YdyvkcvA6mA75MCZjL/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="DMF_062" Count="2" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="BT_115" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BAR_854" Count="1" />
+            <Card Id="CORE_EX1_238" Count="1" />
+            <Card Id="WC_042" Count="1" />
+            <Card Id="DMF_704" Count="1" />
+            <Card Id="CORE_CS2_045" Count="1" />
+            <Card Id="BAR_045" Count="2" />
+            <Card Id="WC_005" Count="1" />
+            <Card Id="BT_100" Count="2" />
+            <Card Id="DMF_702" Count="1" />
+            <Card Id="BT_110" Count="1" />
+            <Card Id="CORE_EX1_567" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>86184427-2ad8-4d86-b69d-ddcfd40283e5</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2021-08-07T17:05:15.8007632+02:00</StartTime>
+          <EndTime>2021-08-07T17:13:52.2787647+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>Barmen4ik999#2580</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs Barmen4ik999#2580(Mage) 1713-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>47</StarLevel>
+          <StarLevelAfter>47</StarLevelAfter>
+          <Stars>1</Stars>
+          <OpponentStarLevel>47</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>1</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.197</Address>
+            <AuroraPassword>lmOFID</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>75913</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>FFbLDm</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>ASRUcdfypNTUKjprUVahoF</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/ASRUcdfypNTUKjprUVahoF/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="WC_042" Count="2" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_704" Count="2" />
+            <Card Id="BT_115" Count="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="2" />
+            <Card Id="WC_005" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="BAR_305" Count="2" />
+            <Card Id="SCH_509" Count="2" />
+            <Card Id="SW_108" Count="1" />
+            <Card Id="SCH_270" Count="2" />
+            <Card Id="SW_450" Count="1" />
+            <Card Id="SCH_353" Count="1" />
+            <Card Id="SW_110" Count="1" />
+            <Card Id="BT_002" Count="1" />
+            <Card Id="BAR_541" Count="2" />
+            <Card Id="CORE_CS2_023" Count="1" />
+            <Card Id="CORE_EX1_275" Count="1" />
+            <Card Id="CORE_CS2_029" Count="1" />
+            <Card Id="BAR_542" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>fc70c2bc-a244-4cc7-968c-22b3bec97e08</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>4</Turns>
+          <StartTime>2021-08-07T17:14:31.8397629+02:00</StartTime>
+          <EndTime>2021-08-07T17:17:42.9407658+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>rabumalal#2710</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs rabumalal#2710(Mage) 1717-070821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>47</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <StarsAfter>2</StarsAfter>
+          <OpponentStarLevel>47</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>231</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.163</Address>
+            <AuroraPassword>gLMeml</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>79677</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>AHFJfl</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08e</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>q9FqHn5NSCSpp6KTGXcF5d</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/q9FqHn5NSCSpp6KTGXcF5d/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="DMF_702" Count="2" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="WC_005" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_EX1_567" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" Unconfirmed="2" />
+            <Card Id="WC_042" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="2" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="2" />
+            <Card Id="DMF_062" Count="2" Unconfirmed="2" />
+            <Card Id="BT_110" Count="2" Unconfirmed="2" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_509" Count="2" />
+            <Card Id="SW_108" Count="2" />
+            <Card Id="SCH_270" Count="1" />
+            <Card Id="SW_450" Count="1" />
+            <Card Id="BT_002" Count="2" />
+            <Card Id="CORE_CS2_023" Count="1" />
+            <Card Id="BAR_542" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>d4a5a13d-30a6-458c-ba7b-aa0c326c4217</GameId>
+          <PlayerHero>Shaman</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2021-08-07T17:18:07.3057628+02:00</StartTime>
+          <EndTime>2021-08-07T17:26:05.2897628+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>deathwing2#3270</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(Shaman) vs deathwing2#3270(Shaman) 1726-070821.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>2</Stars>
+          <StarsAfter>3</StarsAfter>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>235</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.111</Address>
+            <AuroraPassword>bePebN</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>81131</GameHandle>
+            <Mission>2</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>pcEIol</SpectatorPassword>
+            <Version>2268617</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02f</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>24761a95-e93e-437c-9114-08f0498a035a</DeckId>
+          <DeckName>Elemental</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>0</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>FiGpR8vAFV3MFTngTHDRQa</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/FiGpR8vAFV3MFTngTHDRQa/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2089959343</HsDeckId>
+          <PlayerCards>
+            <Card Id="WC_005" Count="2" />
+            <Card Id="DMF_702" Count="2" Unconfirmed="1" />
+            <Card Id="BT_100" Count="2" />
+            <Card Id="CORE_EX1_567" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_854" Count="2" />
+            <Card Id="CORE_EX1_238" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_045" Count="2" Unconfirmed="1" />
+            <Card Id="WC_042" Count="2" />
+            <Card Id="DMF_062" Count="2" />
+            <Card Id="DMF_704" Count="2" Unconfirmed="1" />
+            <Card Id="BT_110" Count="2" />
+            <Card Id="BT_115" Count="2" Unconfirmed="1" />
+            <Card Id="DMF_701" Count="2" Unconfirmed="1" />
+            <Card Id="BAR_045" Count="2" Unconfirmed="1" />
+            <Card Id="CORE_CS2_042" Count="2" Unconfirmed="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_427" Count="2" />
+            <Card Id="SW_031" Count="1" />
+            <Card Id="CORE_EX1_238" Count="1" />
+            <Card Id="SCH_236" Count="1" />
+            <Card Id="YOP_023" Count="1" />
+            <Card Id="SW_065" Count="1" />
+            <Card Id="CORE_EX1_248" Count="1" />
+            <Card Id="SCH_507" Count="1" />
+            <Card Id="BT_100" Count="1" />
+            <Card Id="SW_033" Count="2" />
+            <Card Id="BAR_075" Count="1" />
           </OpponentCards>
         </Game>
       </Games>
@@ -21055,14 +22551,14 @@
       <Name>SHARK TEMPO</Name>
     </Deck>
     <Deck>
-      <DeckId>a558fe50-06a4-43fb-83f4-ed03de58ef57</DeckId>
-      <Games />
-      <Name>HIGHLANDER HUNTER</Name>
-    </Deck>
-    <Deck>
       <DeckId>93db0b7b-8f85-4aff-bc18-0fe3923594ae</DeckId>
       <Games />
       <Name>DEATHRATTLE ROGUE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>a558fe50-06a4-43fb-83f4-ed03de58ef57</DeckId>
+      <Games />
+      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>d09b81fa-16cd-45cb-a247-009cfd4fec78</DeckId>
@@ -21115,14 +22611,14 @@
       <Name>QUEST DRUID</Name>
     </Deck>
     <Deck>
-      <DeckId>73570be9-fa92-4747-938c-ee81945e216d</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>4a044d1b-0105-4739-942e-0a153fd8c096</DeckId>
       <Games />
       <Name>QUEST DRUID</Name>
+    </Deck>
+    <Deck>
+      <DeckId>73570be9-fa92-4747-938c-ee81945e216d</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>5f3a02e7-c3c1-411a-ab46-a3c5eabe085d</DeckId>
@@ -21135,14 +22631,14 @@
       <Name>Zoo</Name>
     </Deck>
     <Deck>
-      <DeckId>797a5273-8ddc-4ccc-bbdf-d96683c7a779</DeckId>
-      <Games />
-      <Name>N'Zoth</Name>
-    </Deck>
-    <Deck>
       <DeckId>eb75a96c-f446-4690-8a5f-e35a4d676f6d</DeckId>
       <Games />
       <Name>Face Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>797a5273-8ddc-4ccc-bbdf-d96683c7a779</DeckId>
+      <Games />
+      <Name>N'Zoth</Name>
     </Deck>
     <Deck>
       <DeckId>14ed3d24-8e64-4b50-914d-03f53e807d77</DeckId>
@@ -21170,12 +22666,12 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>585e5c97-acba-41ec-8554-a025fa9eb469</DeckId>
+      <DeckId>f3c4086b-5873-4a23-845b-7829779fa6e6</DeckId>
       <Games />
       <Name>Use no deck</Name>
     </Deck>
     <Deck>
-      <DeckId>f3c4086b-5873-4a23-845b-7829779fa6e6</DeckId>
+      <DeckId>585e5c97-acba-41ec-8554-a025fa9eb469</DeckId>
       <Games />
       <Name>Use no deck</Name>
     </Deck>
@@ -21185,12 +22681,12 @@
       <Name>Soul</Name>
     </Deck>
     <Deck>
-      <DeckId>9ef37e5d-7489-4d4b-956e-6a964d8fcd2d</DeckId>
+      <DeckId>d980f9f7-2429-4edf-993e-417fe2743f84</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>d980f9f7-2429-4edf-993e-417fe2743f84</DeckId>
+      <DeckId>9ef37e5d-7489-4d4b-956e-6a964d8fcd2d</DeckId>
       <Games />
       <Name />
     </Deck>
@@ -21478,24 +22974,24 @@
       <Name>Stealth Rogue</Name>
     </Deck>
     <Deck>
-      <DeckId>150c8044-cb7b-4af0-8eb1-a7b875a38623</DeckId>
-      <Games />
-      <Name>Custom Rogue</Name>
-    </Deck>
-    <Deck>
       <DeckId>3567e8f2-3f64-4d81-b862-fae8043cd933</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>d9fa757c-b16a-4cdf-9baa-7128d333de68</DeckId>
+      <DeckId>150c8044-cb7b-4af0-8eb1-a7b875a38623</DeckId>
       <Games />
-      <Name>Spell Priest</Name>
+      <Name>Custom Rogue</Name>
     </Deck>
     <Deck>
       <DeckId>68d86e0c-5d80-47cb-af99-6a53582c851d</DeckId>
       <Games />
       <Name>HL Druid</Name>
+    </Deck>
+    <Deck>
+      <DeckId>d9fa757c-b16a-4cdf-9baa-7128d333de68</DeckId>
+      <Games />
+      <Name>Spell Priest</Name>
     </Deck>
     <Deck>
       <DeckId>d7a6ed7e-d819-40c2-9fdb-a7f26457e74e</DeckId>
@@ -21513,14 +23009,14 @@
       <Name>CONTROL WARLOCK</Name>
     </Deck>
     <Deck>
-      <DeckId>c1918db1-e5e0-4f6a-9889-58c78e6f6a24</DeckId>
-      <Games />
-      <Name>Spell Priest</Name>
-    </Deck>
-    <Deck>
       <DeckId>520159b3-8e82-41e7-bb24-559af7305717</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>c1918db1-e5e0-4f6a-9889-58c78e6f6a24</DeckId>
+      <Games />
+      <Name>Spell Priest</Name>
     </Deck>
     <Deck>
       <DeckId>3cb4679d-baed-4c47-a439-c70182b259ed</DeckId>
@@ -21528,9 +23024,9 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>419d57d4-f980-40b8-aa48-ce8cbd3cc866</DeckId>
+      <DeckId>77fd17aa-82d7-478b-a034-fdede12570ce</DeckId>
       <Games />
-      <Name />
+      <Name>Dragon Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>24c48dd0-e026-46f3-a860-4a89ccbc1e6f</DeckId>
@@ -21538,9 +23034,9 @@
       <Name>Bloodweaver</Name>
     </Deck>
     <Deck>
-      <DeckId>77fd17aa-82d7-478b-a034-fdede12570ce</DeckId>
+      <DeckId>419d57d4-f980-40b8-aa48-ce8cbd3cc866</DeckId>
       <Games />
-      <Name>Dragon Hunter</Name>
+      <Name />
     </Deck>
     <Deck>
       <DeckId>aa72502c-d90b-41d6-848e-49c64e272d4c</DeckId>
@@ -21608,14 +23104,9 @@
       <Name>Galakrond Tog</Name>
     </Deck>
     <Deck>
-      <DeckId>c8bb2dd1-324f-484f-90a9-c43cba10492a</DeckId>
+      <DeckId>46748b5b-539e-4eef-8716-ac255f2c5c5a</DeckId>
       <Games />
-      <Name />
-    </Deck>
-    <Deck>
-      <DeckId>9850e66b-5d86-4c06-8450-d1e126b43bd0</DeckId>
-      <Games />
-      <Name>Control</Name>
+      <Name>ZOO</Name>
     </Deck>
     <Deck>
       <DeckId>4e96cdfc-8315-4d47-b587-9a732585540a</DeckId>
@@ -21623,9 +23114,14 @@
       <Name>OTK</Name>
     </Deck>
     <Deck>
-      <DeckId>46748b5b-539e-4eef-8716-ac255f2c5c5a</DeckId>
+      <DeckId>9850e66b-5d86-4c06-8450-d1e126b43bd0</DeckId>
       <Games />
-      <Name>ZOO</Name>
+      <Name>Control</Name>
+    </Deck>
+    <Deck>
+      <DeckId>c8bb2dd1-324f-484f-90a9-c43cba10492a</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>a9d3b991-524a-4cd9-8298-7e9c682b76ab</DeckId>
@@ -21823,12 +23319,12 @@
       <Name>BEAST</Name>
     </Deck>
     <Deck>
-      <DeckId>b88a3fa1-6ccd-4b39-b6df-e24a7e2554d9</DeckId>
+      <DeckId>4fb66c04-ee00-454f-896f-16bc3093d512</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>4fb66c04-ee00-454f-896f-16bc3093d512</DeckId>
+      <DeckId>b88a3fa1-6ccd-4b39-b6df-e24a7e2554d9</DeckId>
       <Games />
       <Name />
     </Deck>
@@ -21873,14 +23369,14 @@
       <Name>TEMPO ROGUE</Name>
     </Deck>
     <Deck>
-      <DeckId>a5959c83-4be4-4f94-83bb-dd0aace774f7</DeckId>
-      <Games />
-      <Name>HIGHLANDER HUNTER</Name>
-    </Deck>
-    <Deck>
       <DeckId>e08dcf4f-58bf-41cc-98b9-92d8eefbb2f4</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>a5959c83-4be4-4f94-83bb-dd0aace774f7</DeckId>
+      <Games />
+      <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
       <DeckId>517a8329-6d82-44ad-b2c2-e62cea3f9809</DeckId>
@@ -21943,12 +23439,12 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>6c70f545-e4fd-4dca-bf9a-1e540999b1fd</DeckId>
+      <DeckId>2fefc12c-030e-4e0b-9a9d-625510e6f176</DeckId>
       <Games />
       <Name />
     </Deck>
     <Deck>
-      <DeckId>2fefc12c-030e-4e0b-9a9d-625510e6f176</DeckId>
+      <DeckId>6c70f545-e4fd-4dca-bf9a-1e540999b1fd</DeckId>
       <Games />
       <Name />
     </Deck>
@@ -22087,14 +23583,14 @@
       <Name>Morphosis</Name>
     </Deck>
     <Deck>
-      <DeckId>df026e74-85c6-4504-a21f-ed6e7ec66058</DeckId>
-      <Games />
-      <Name>Use no deck</Name>
-    </Deck>
-    <Deck>
       <DeckId>b5e0696c-b7d3-4212-bb73-a18b7559f0ab</DeckId>
       <Games />
       <Name>Demon Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>df026e74-85c6-4504-a21f-ed6e7ec66058</DeckId>
+      <Games />
+      <Name>Use no deck</Name>
     </Deck>
     <Deck>
       <DeckId>902bb755-2ed3-47bb-ae01-03c5dba041ca</DeckId>
@@ -22107,9 +23603,9 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>8c0505a9-f790-4a6a-b16c-24f179e181f9</DeckId>
+      <DeckId>a4948cf0-caa0-49d7-a233-4c39300a6db4</DeckId>
       <Games />
-      <Name>Soul Il'gynoth</Name>
+      <Name />
     </Deck>
     <Deck>
       <DeckId>1992dcf6-bed8-4cfe-9a82-5031f5a20f1e</DeckId>
@@ -22117,14 +23613,19 @@
       <Name>Quest</Name>
     </Deck>
     <Deck>
-      <DeckId>72bcb099-6f5b-4c94-a986-9d8256158570</DeckId>
+      <DeckId>8c0505a9-f790-4a6a-b16c-24f179e181f9</DeckId>
       <Games />
-      <Name>CYCLONE MAGE</Name>
+      <Name>Soul Il'gynoth</Name>
     </Deck>
     <Deck>
       <DeckId>98d9cff4-1625-4a75-be02-f9415ed2e490</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>72bcb099-6f5b-4c94-a986-9d8256158570</DeckId>
+      <Games />
+      <Name>CYCLONE MAGE</Name>
     </Deck>
     <Deck>
       <DeckId>bb31b681-26ae-4b45-9a43-7721028a039d</DeckId>
@@ -22162,14 +23663,14 @@
       <Name>HIGHLANDER HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>2d53e56c-8e3c-4d61-b34b-b8f70925fe18</DeckId>
-      <Games />
-      <Name>Brawl 17-11 22:37</Name>
-    </Deck>
-    <Deck>
       <DeckId>470d6a75-35b1-45c0-b103-c0bc7997bcdd</DeckId>
       <Games />
       <Name>Spell Priest</Name>
+    </Deck>
+    <Deck>
+      <DeckId>2d53e56c-8e3c-4d61-b34b-b8f70925fe18</DeckId>
+      <Games />
+      <Name>Brawl 17-11 22:37</Name>
     </Deck>
     <Deck>
       <DeckId>22f56b51-abf8-43ca-bb0b-945b7c5f973c</DeckId>
@@ -22202,14 +23703,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>72d671b3-1f18-4251-be4d-c3fc33d79fee</DeckId>
-      <Games />
-      <Name>QUEST SHAMAN</Name>
-    </Deck>
-    <Deck>
       <DeckId>c10b1cb2-b768-4552-bb12-cc7da00f7705</DeckId>
       <Games />
       <Name>Face Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>72d671b3-1f18-4251-be4d-c3fc33d79fee</DeckId>
+      <Games />
+      <Name>QUEST SHAMAN</Name>
     </Deck>
     <Deck>
       <DeckId>d16941e3-e54e-42be-9c5f-cc32fce61f5b</DeckId>
@@ -22232,24 +23733,24 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>d4eb9eb2-fccc-4af0-8b71-bdfcd1b6cd5b</DeckId>
-      <Games />
-      <Name>Spells</Name>
-    </Deck>
-    <Deck>
       <DeckId>6226d38e-2341-409f-8632-dfcf475c90fc</DeckId>
       <Games />
       <Name>SHARK TOGWAGGLE ROGUE</Name>
     </Deck>
     <Deck>
-      <DeckId>7e1a06f4-8b3a-490d-8c41-089890cbd3c7</DeckId>
+      <DeckId>d4eb9eb2-fccc-4af0-8b71-bdfcd1b6cd5b</DeckId>
       <Games />
-      <Name />
+      <Name>Spells</Name>
     </Deck>
     <Deck>
       <DeckId>05540089-f94b-4423-adf5-ed26693e536b</DeckId>
       <Games />
       <Name>CYCLONE MAGE</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7e1a06f4-8b3a-490d-8c41-089890cbd3c7</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>4bf474c4-8d41-4066-8959-38e6b3c0a0e8</DeckId>
@@ -22292,14 +23793,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>7cf800d4-b2fb-4cb6-9022-a9562e5947e3</DeckId>
-      <Games />
-      <Name>Pirate</Name>
-    </Deck>
-    <Deck>
       <DeckId>4dee5696-7a25-46cf-9d89-9e1ec2fe40a0</DeckId>
       <Games />
       <Name>HANDLOCK</Name>
+    </Deck>
+    <Deck>
+      <DeckId>7cf800d4-b2fb-4cb6-9022-a9562e5947e3</DeckId>
+      <Games />
+      <Name>Pirate</Name>
     </Deck>
     <Deck>
       <DeckId>eceb8bd1-3a1b-47ad-8dd7-98173d8e4a59</DeckId>
@@ -22347,14 +23848,14 @@
       <Name>MALYGOS</Name>
     </Deck>
     <Deck>
-      <DeckId>f650e331-372e-4b83-b55a-ddbfc48cd717</DeckId>
-      <Games />
-      <Name />
-    </Deck>
-    <Deck>
       <DeckId>dc5ea102-b58d-465b-b1e4-ddd4e24a6d56</DeckId>
       <Games />
       <Name>OTK Demon Hunter</Name>
+    </Deck>
+    <Deck>
+      <DeckId>f650e331-372e-4b83-b55a-ddbfc48cd717</DeckId>
+      <Games />
+      <Name />
     </Deck>
     <Deck>
       <DeckId>90457ed7-258e-4e88-bd0d-8f5d61a59ec9</DeckId>
@@ -22372,9 +23873,9 @@
       <Name>MALYGOS</Name>
     </Deck>
     <Deck>
-      <DeckId>75e7f435-68be-4698-8624-13c890848ade</DeckId>
+      <DeckId>9b010668-b36d-449b-bb8a-e41bb33d0374</DeckId>
       <Games />
-      <Name>Quest</Name>
+      <Name>N'Zoth</Name>
     </Deck>
     <Deck>
       <DeckId>cceac34c-a120-467d-a398-44fb3c458d52</DeckId>
@@ -22382,9 +23883,9 @@
       <Name>OTK Demon Hunter</Name>
     </Deck>
     <Deck>
-      <DeckId>9b010668-b36d-449b-bb8a-e41bb33d0374</DeckId>
+      <DeckId>75e7f435-68be-4698-8624-13c890848ade</DeckId>
       <Games />
-      <Name>N'Zoth</Name>
+      <Name>Quest</Name>
     </Deck>
     <Deck>
       <DeckId>2309a46f-1840-42f3-8d5f-89a7e480c3a2</DeckId>
@@ -22397,14 +23898,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>6bac5f8b-5198-4d5d-8b6e-dab92426ab3a</DeckId>
-      <Games />
-      <Name>OTK Demon Hunter</Name>
-    </Deck>
-    <Deck>
       <DeckId>b89201d7-4e9e-429f-8509-6d23cbd11c2d</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>6bac5f8b-5198-4d5d-8b6e-dab92426ab3a</DeckId>
+      <Games />
+      <Name>OTK Demon Hunter</Name>
     </Deck>
     <Deck>
       <DeckId>2a8f38c8-2a9b-45b9-a057-d55344fdbd03</DeckId>
@@ -22432,12 +23933,12 @@
       <Name>Zan</Name>
     </Deck>
     <Deck>
-      <DeckId>d8ea8734-7175-4bb8-8c0b-1875d64b8e1d</DeckId>
+      <DeckId>f61f7096-9db3-4b88-972f-fcd8f37c2ea4</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
     </Deck>
     <Deck>
-      <DeckId>f61f7096-9db3-4b88-972f-fcd8f37c2ea4</DeckId>
+      <DeckId>d8ea8734-7175-4bb8-8c0b-1875d64b8e1d</DeckId>
       <Games />
       <Name>MIDRANGE HUNTER</Name>
     </Deck>
@@ -22562,14 +24063,14 @@
       <Name />
     </Deck>
     <Deck>
-      <DeckId>e4c41efd-aff7-4562-beee-f9eaef6d4a53</DeckId>
-      <Games />
-      <Name>CONJURE SEA GIANT MAGE</Name>
-    </Deck>
-    <Deck>
       <DeckId>449a20f5-c586-4208-b9ae-b40e1c782b03</DeckId>
       <Games />
       <Name />
+    </Deck>
+    <Deck>
+      <DeckId>e4c41efd-aff7-4562-beee-f9eaef6d4a53</DeckId>
+      <Games />
+      <Name>CONJURE SEA GIANT MAGE</Name>
     </Deck>
     <Deck>
       <DeckId>6b1f7afc-76e5-4c98-808d-23d84b8a02d1</DeckId>
@@ -22580,11 +24081,6 @@
       <DeckId>56f7fe10-3ce7-4974-b0f8-69730d2f10ac</DeckId>
       <Games />
       <Name>Tempo</Name>
-    </Deck>
-    <Deck>
-      <DeckId>ce0db85a-0939-4e69-b1ce-2792513f68c8</DeckId>
-      <Games />
-      <Name>Spell Priest</Name>
     </Deck>
     <Deck>
       <DeckId>4aefbc3c-61c9-44ac-9c29-2d5945c564ae</DeckId>
@@ -23890,7 +25386,7 @@
       <Name>Zoo</Name>
     </Deck>
     <Deck>
-      <DeckId>03c4012c-81a0-431a-8d50-e60cc3221d0c</DeckId>
+      <DeckId>ce0db85a-0939-4e69-b1ce-2792513f68c8</DeckId>
       <Games />
       <Name>Spell Priest</Name>
     </Deck>
@@ -23898,6 +25394,11 @@
       <DeckId>74b2101d-d3e2-4950-9aa3-8d86c9eff3f5</DeckId>
       <Games />
       <Name>No match - Keep using active deck</Name>
+    </Deck>
+    <Deck>
+      <DeckId>03c4012c-81a0-431a-8d50-e60cc3221d0c</DeckId>
+      <Games />
+      <Name>Spell Priest</Name>
     </Deck>
     <Deck>
       <DeckId>7ba54dc8-485f-4f50-9214-170a8e7f6f3a</DeckId>
@@ -23910,14 +25411,14 @@
       <Name>N'Zoth</Name>
     </Deck>
     <Deck>
-      <DeckId>ce0f3e4e-96cb-4c08-a889-57d084e90249</DeckId>
-      <Games />
-      <Name>Galakrond Warrior</Name>
-    </Deck>
-    <Deck>
       <DeckId>11203933-a330-4cc1-9d6a-a168ef8c1d34</DeckId>
       <Games />
       <Name>Miracle</Name>
+    </Deck>
+    <Deck>
+      <DeckId>ce0f3e4e-96cb-4c08-a889-57d084e90249</DeckId>
+      <Games />
+      <Name>Galakrond Warrior</Name>
     </Deck>
   </DeckStats>
 </DeckStatsList>
