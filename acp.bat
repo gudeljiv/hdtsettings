@@ -1,6 +1,6 @@
-@Echo off&SetLocal EnableExtensions EnableDelayedExpansion
+@Echo off
 
-@git add . 2>&1
-@git commit -m "." 2>&1
-@git pull 2>&1
-@git push 2>&1
+@git add .  >nul 2>&1
+@git commit -m "."  >nul 2>&1
+@git pull  >nul 2>&1
+@git push  >nul 2>&1
