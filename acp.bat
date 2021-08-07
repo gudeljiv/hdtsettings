@@ -1,7 +1,9 @@
 @echo off
 setlocal enableDelayedExpansion
 
-cecho {0C}Hello world!{#}{\n}
+echo ESC[38;2;40;177;249m color: 40;177;249 ESC[0m
+echo ESC[38;2;255;255;100m color: 255;255;100
+echo ESC[48;2;200;0;200m color: 200;0;200 ESC[0m
 
 
 echo|set /p= Adding files to git: 
