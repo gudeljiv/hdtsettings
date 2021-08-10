@@ -7353,104 +7353,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>SCH_514</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CORE_CS2_189</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_137</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BT_258</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_312</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_446</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_713</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_283</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS3_028</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SW_444</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BT_256</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BAR_721</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SW_072</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS3_013</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>DMF_066</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_442</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_448</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Priest</Class>
-    <LastEdited>2021-08-08T18:25:41.7041478+02:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <HsId>2091094450</HsId>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <IsArenaDeck>false</IsArenaDeck>
-    <IsDungeonDeck>false</IsDungeonDeck>
-    <IsDuelsDeck>false</IsDuelsDeck>
-    <DeckId>46ded986-94ee-4275-9924-bbbb65963abb</DeckId>
-    <Name>Shadow</Name>
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CORE_BT_480</Id>
         <Count>1</Count>
       </Card>
@@ -7645,6 +7547,203 @@
     <Name>OTK</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>SCH_514</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_137</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_258</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_312</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_446</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_713</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_195</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_283</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS3_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_444</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_091</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_721</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_159</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS3_013</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_307</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_442</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_448</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2021-08-10T13:05:54.6393641+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>SCH_514</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_CS2_189</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_137</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BT_258</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_312</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_446</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_713</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_283</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS3_028</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_444</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BT_256</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_721</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_072</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS3_013</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_066</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_442</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_448</Id>
+            <Count>1</Count>
+          </Card>
+        </Cards>
+        <Class>Priest</Class>
+        <LastEdited>2021-08-08T18:25:41.7041478+02:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2091094450</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>331f571a-4501-4947-992b-5c9b990921c9</DeckId>
+        <Name>Shadow</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <HsId>2091094450</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>46ded986-94ee-4275-9924-bbbb65963abb</DeckId>
+    <Name>Shadow</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -7680,11 +7779,6 @@
       <Class>Priest</Class>
       <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
       <Name>Shadow</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>DemonHunter</Class>
-      <Id>a9d3b991-524a-4cd9-8298-7e9c682b76ab</Id>
-      <Name>OTK</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
