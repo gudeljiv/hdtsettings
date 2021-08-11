@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <string>SW_444.png</string>
   <string>CORE_EX1_195.png</string>
   <string>SCH_713.png</string>
   <string>SW_442.png</string>
   <string>SW_307.png</string>
   <string>CORE_EX1_010.png</string>
+=======
+  <string>CS3_024.png</string>
+  <string>CORE_EX1_144.png</string>
+  <string>CS3_005.png</string>
+  <string>SCH_305.png</string>
+  <string>BAR_552.png</string>
+  <string>CORE_EX1_186.png</string>
+  <string>SW_063.png</string>
+  <string>BT_301.png</string>
+  <string>WC_023.png</string>
+  <string>SW_090.png</string>
+  <string>SW_431.png</string>
+  <string>DMF_060.png</string>
+  <string>SW_448.png</string>
+  <string>SW_442.png</string>
+  <string>SW_091.png</string>
+  <string>TRL_541t.png</string>
+  <string>CFM_336.png</string>
+  <string>BAR_073.png</string>
+  <string>CFM_321.png</string>
+  <string>DRG_253.png</string>
+  <string>SW_459.png</string>
+  <string>CORE_GIL_828.png</string>
+  <string>SW_307.png</string>
+  <string>CS3_013.png</string>
+  <string>SCH_159.png</string>
+  <string>BAR_721.png</string>
+  <string>DMF_091.png</string>
+  <string>SW_444.png</string>
+  <string>CS3_028.png</string>
+  <string>SCH_283.png</string>
+  <string>CORE_EX1_195.png</string>
+  <string>SCH_713.png</string>
+  <string>SW_446.png</string>
+  <string>SCH_312.png</string>
+  <string>BT_258.png</string>
+  <string>SCH_137.png</string>
+  <string>SCH_514.png</string>
+  <string>BAR_911.png</string>
+  <string>YOP_033.png</string>
+  <string>WC_021.png</string>
+  <string>CORE_BT_921.png</string>
+>>>>>>> b559ba918fa81680ef19e50927cb78b6f7cde4f7
   <string>CORE_BT_035.png</string>
   <string>BT_514.png</string>
   <string>SW_039.png</string>
@@ -37,9 +81,7 @@
   <string>DMF_704.png</string>
   <string>CORE_CS2_045.png</string>
   <string>BAR_045.png</string>
-  <string>SW_063.png</string>
   <string>SW_417.png</string>
-  <string>CORE_EX1_144.png</string>
   <string>CS3_016.png</string>
   <string>WC_033.png</string>
   <string>CORE_EX1_095.png</string>
@@ -48,12 +90,8 @@
   <string>BAR_848.png</string>
   <string>SW_033.png</string>
   <string>BT_300.png</string>
-  <string>WC_023.png</string>
   <string>SCH_701.png</string>
-  <string>SW_090.png</string>
-  <string>SW_091.png</string>
   <string>CORE_ICC_055.png</string>
-  <string>WC_021.png</string>
   <string>DMF_113.png</string>
   <string>SW_003.png</string>
   <string>BT_136t.png</string>
@@ -61,17 +99,12 @@
   <string>SW_411.png</string>
   <string>SW_418.png</string>
   <string>SW_412.png</string>
-  <string>SCH_305.png</string>
   <string>SW_052.png</string>
   <string>DMF_511.png</string>
   <string>DMF_515.png</string>
   <string>BT_002.png</string>
-  <string>YOP_033.png</string>
-  <string>CS3_005.png</string>
   <string>BAR_319.png</string>
   <string>SW_413.png</string>
-  <string>BAR_552.png</string>
-  <string>CORE_EX1_186.png</string>
   <string>BT_307.png</string>
   <string>SW_084.png</string>
   <string>BAR_745.png</string>
@@ -79,7 +112,6 @@
   <string>DMF_066.png</string>
   <string>SCH_140.png</string>
   <string>BAR_917.png</string>
-  <string>BAR_911.png</string>
   <string>SCH_353.png</string>
   <string>YOP_019.png</string>
   <string>BT_135.png</string>
@@ -98,7 +130,6 @@
   <string>SCH_427.png</string>
   <string>GAME_005.png</string>
   <string>SW_072.png</string>
-  <string>SCH_514.png</string>
   <string>CORE_EX1_164.png</string>
   <string>CORE_OG_047.png</string>
   <string>SCH_333.png</string>
@@ -106,7 +137,6 @@
   <string>DMF_254t7.png</string>
   <string>WC_006.png</string>
   <string>SW_321.png</string>
-  <string>BAR_721.png</string>
   <string>BAR_032.png</string>
   <string>DMF_088.png</string>
   <string>BAR_037.png</string>
@@ -114,7 +144,6 @@
   <string>SCH_356.png</string>
   <string>SW_088.png</string>
   <string>BT_302.png</string>
-  <string>BT_301.png</string>
   <string>YOP_006.png</string>
   <string>BAR_026.png</string>
   <string>SCH_244.png</string>
@@ -139,7 +168,6 @@
   <string>BT_257.png</string>
   <string>BT_254.png</string>
   <string>BT_252.png</string>
-  <string>SCH_159.png</string>
   <string>BAR_801.png</string>
   <string>BT_211.png</string>
   <string>SCH_235.png</string>
