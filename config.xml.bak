@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>1720fbce-a3f9-4ec3-b594-0a2dcbab949d</ActiveDeckIdString>
+  <ActiveDeckIdString>55bc2c7a-8489-4b5d-bee4-47c582e93add</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
