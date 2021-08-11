@@ -16,17 +16,21 @@ rem @git push >nul 2>&1 && (echo done) || (echo error)
 
 
 echo Adding files to git: 
+echo ---------------------------------
 git add .
 echo.
 
 echo Commiting files: 
+echo ---------------------------------
 git commit -m "."
 echo.
 
 echo Pulling from git: 
+echo ---------------------------------
 git pull
 echo.
 
 echo Pushing changes to git: 
+echo ---------------------------------
 git push
 echo.
