@@ -15,7 +15,18 @@ rem echo|set /p= Pushing changes to git:
 rem @git push >nul 2>&1 && (echo done) || (echo error)
 
 
+echo Adding files to git: 
 git add .
+echo " "
+
+echo Commiting files: 
 git commit -m "."
+echo " "
+
+echo Pulling from git: 
 git pull
+echo " "
+
+echo Pushing changes to git: 
 git push
+echo " "
