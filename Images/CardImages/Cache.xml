@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>SW_444.png</string>
+  <string>CORE_EX1_195.png</string>
+  <string>SCH_713.png</string>
+  <string>SW_442.png</string>
+  <string>SW_307.png</string>
+  <string>CORE_EX1_010.png</string>
   <string>CORE_BT_035.png</string>
   <string>BT_514.png</string>
   <string>SW_039.png</string>
@@ -51,7 +57,6 @@
   <string>DMF_113.png</string>
   <string>SW_003.png</string>
   <string>BT_136t.png</string>
-  <string>SCH_713.png</string>
   <string>CORE_EX1_134.png</string>
   <string>SW_411.png</string>
   <string>SW_418.png</string>

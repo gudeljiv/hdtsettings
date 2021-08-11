@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <string>BT_733.png</string>
-  <string>BT_514.png</string>
+  <string>SW_307.png</string>
+  <string>SW_442.png</string>
+  <string>CORE_EX1_010.png</string>
   <string>CORE_BT_035.png</string>
+  <string>BT_514.png</string>
+  <string>SW_039.png</string>
+  <string>YOP_001.png</string>
+  <string>SW_041.png</string>
+  <string>BAR_064.png</string>
+  <string>BT_733.png</string>
   <string>CORE_BT_801.png</string>
   <string>SW_450t4.png</string>
   <string>CORE_EX1_012.png</string>
