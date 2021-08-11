@@ -2,11 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-<<<<<<< HEAD
   <ActiveDeckIdString>46ded986-94ee-4275-9924-bbbb65963abb</ActiveDeckIdString>
-=======
-  <ActiveDeckIdString>55bc2c7a-8489-4b5d-bee4-47c582e93add</ActiveDeckIdString>
->>>>>>> b559ba918fa81680ef19e50927cb78b6f7cde4f7
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -110,7 +106,7 @@
   <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
   <ForceMouseHook>false</ForceMouseHook>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
