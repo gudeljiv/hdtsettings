@@ -8443,100 +8443,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>SCH_514</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CORE_EX1_302</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_091</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>SW_090</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_312</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CORE_ICC_055</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>WC_021</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>YOP_033</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BAR_916</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BAR_918</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>BAR_911</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_056</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_063</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BAR_917</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SCH_140</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>SW_062</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Warlock</Class>
-    <LastEdited>2021-08-14T11:28:06.7503241+02:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <HsId>2093064693</HsId>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <IsArenaDeck>false</IsArenaDeck>
-    <IsDungeonDeck>false</IsDungeonDeck>
-    <IsDuelsDeck>false</IsDuelsDeck>
-    <DeckId>eedac41b-165b-4267-b81f-48a5fdea5c77</DeckId>
-    <Name>Hand</Name>
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>BAR_880</Id>
         <Count>2</Count>
       </Card>
@@ -8821,16 +8727,204 @@
     <Name>Zoo</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>SCH_514</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_302</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_091</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_090</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_312</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_713</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CORE_ICC_055</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WC_021</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>YOP_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_916</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_003</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_918</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BAR_911</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_063</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_917</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_140</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2021-08-14T15:37:15.4840682+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>SCH_514</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_EX1_302</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_091</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_090</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_312</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_ICC_055</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>WC_021</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>YOP_033</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_916</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_918</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BAR_911</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_056</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_063</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_917</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_140</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_062</Id>
+            <Count>2</Count>
+          </Card>
+        </Cards>
+        <Class>Warlock</Class>
+        <LastEdited>2021-08-14T11:28:06.7503241+02:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2093064693</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>cfd981be-9767-4c83-89e4-ea86ba8c57fa</DeckId>
+        <Name>Hand</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <HsId>2093064693</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>1</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>eedac41b-165b-4267-b81f-48a5fdea5c77</DeckId>
+    <Name>Battlemaster</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
       <Id>6a7df5c7-d85b-4a6f-970a-f186eeb8df9e</Id>
       <Name>Control Warrior</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
-      <Name>Aggro</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Mage</Class>
@@ -8848,24 +8942,24 @@
       <Name>Quest</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
-      <Name>Hand</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Priest</Class>
-      <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
-      <Name>Shadow</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
       <Name>Quest</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Paladin</Class>
-      <Id>5a2794f6-d11f-4da9-bb41-0820ff36909d</Id>
-      <Name>OTsunaWTf</Name>
+      <Class>Warlock</Class>
+      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
+      <Name>Battlemaster</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>518f31e5-81d8-409e-99d9-946ddc4971a8</Id>
+      <Name>Shadow Control</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>7995a2e8-0b28-43de-a82a-bbf780c8393e</Id>
+      <Name>Aggro</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
