@@ -1,12 +1,12 @@
-10:29:52 AM|Info|Core.Initialize >> HDT: 1.15.1.5572, Operating System: Windows 10 Enterprise 22000, .NET Framework: 528449
-10:29:53 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
-10:29:53 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
-10:29:53 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
-10:29:54 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
-10:29:54 AM|Info|Updater.SquirrelUpdate >> No new updated available
-10:29:55 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
-10:29:55 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
-10:29:55 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
-10:29:55 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
-10:29:55 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
-10:29:55 AM|Info|GameV2.Reset >> -------- Reset ---------
+4:35:28 PM|Info|Core.Initialize >> HDT: 1.15.1.5572, Operating System: Windows 10 Enterprise 22000, .NET Framework: 528449
+4:35:29 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+4:35:29 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+4:35:29 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+4:35:30 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+4:35:30 PM|Info|Updater.SquirrelUpdate >> No new updated available
+4:35:30 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+4:35:31 PM|Info|GameV2.Reset >> -------- Reset ---------
