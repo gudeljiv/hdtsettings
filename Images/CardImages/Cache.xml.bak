@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <string>CS3_028.png</string>
-  <string>SW_012.png</string>
+  <string>CORE_EX1_144.png</string>
+  <string>SCH_509.png</string>
+  <string>CORE_DS1_184.png</string>
+  <string>SCH_617.png</string>
   <string>BAR_721.png</string>
+  <string>SW_012.png</string>
+  <string>CS3_028.png</string>
   <string>BT_197t.png</string>
   <string>BT_198.png</string>
   <string>BT_109t.png</string>
