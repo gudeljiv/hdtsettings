@@ -9364,14 +9364,14 @@
       <Name>Quest</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
-      <Name>Battlemaster</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Priest</Class>
       <Id>e945f475-90f5-4731-9ba7-bc136bd947d6</Id>
       <Name>Guidance</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
+      <Name>Battlemaster</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>

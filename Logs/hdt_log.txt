@@ -10,3 +10,4 @@
 4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
 4:35:31 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
 4:35:31 PM|Info|GameV2.Reset >> -------- Reset ---------
+4:35:33 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
