@@ -9349,11 +9349,6 @@
       <Name>Control Warrior</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
-      <Name>Quest Mage</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Druid</Class>
       <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
       <Name>Anacondra</Name>
@@ -9374,9 +9369,9 @@
       <Name>Battlemaster</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
-      <Name>Miracle</Name>
+      <Class>Mage</Class>
+      <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
+      <Name>Quest Mage</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</ActiveDeckIdString>
+  <ActiveDeckIdString>4e3f1d74-4062-46f2-94a9-b37ca11159ed</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -79,8 +79,8 @@
   <CloseToTray>true</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.15.1.5572</CreatedByVersion>
-  <HearthdbVersion>21.0.0.0</HearthdbVersion>
+  <CreatedByVersion>1.15.2.5586</CreatedByVersion>
+  <HearthdbVersion>21.0.3.0</HearthdbVersion>
   <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
