@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>OG_200.png</string>
+  <string>OG_318.png</string>
+  <string>CFM_670.png</string>
+  <string>TRL_550.png</string>
+  <string>TRL_503.png</string>
+</ArrayOfString>

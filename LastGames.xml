@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="e20e8538-fe4b-484d-b4d5-2ad08f67d47b" gameId="98d6a316-41f6-45f3-9c31-e5f5e1de3469" />
+  <GameInfo deckId="e20e8538-fe4b-484d-b4d5-2ad08f67d47b" gameId="78c2af7b-90d6-4e9e-ab98-a67131120201" />
+  <GameInfo deckId="e20e8538-fe4b-484d-b4d5-2ad08f67d47b" gameId="f1ce01e6-873e-4383-9378-f3a888852bdb" />
+  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="09511b2a-e556-404a-8ff1-c6c8be2bc578" />
+  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="d3dce988-7738-4c4d-a441-3a47479dbe52" />
+  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="02c317ea-1cad-4d47-b730-7a7115f8d7c6" />
   <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="2fd8d9ae-e34d-4184-a71c-046f08431540" />
   <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="5cb61f3d-5833-4d20-a841-f58ffdfab35c" />
   <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="4063b710-5f59-47c9-b2d0-d23e9383c20a" />
   <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="2b6e2bbf-ba9f-4c9c-95d7-f8c7dbb2b645" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="da49d6e0-bf9d-4c9f-bd54-bb0836118d30" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="ebc86ad9-bc23-4383-92a1-c0a641e973f0" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="522d5c7a-5c3b-4833-addf-054aa4991339" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="894ed005-b0fa-47ec-9eb1-ae4b16ffbf07" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="ffe86242-5a72-4efb-97a7-42a4f57c8544" />
-  <GameInfo deckId="2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f" gameId="c0be2fec-cb38-40a0-a7c6-4358074f8189" />
 </ArrayOfGameInfo>
