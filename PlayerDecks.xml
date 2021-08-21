@@ -9398,10 +9398,6 @@
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>DMF_075</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
         <Id>DMF_057</Id>
         <Count>2</Count>
       </Card>
@@ -9411,6 +9407,10 @@
       </Card>
       <Card>
         <Id>CORE_OG_047</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_128</Id>
         <Count>2</Count>
       </Card>
       <Card>
@@ -9455,13 +9455,13 @@
       </Card>
     </Cards>
     <Class>Druid</Class>
-    <LastEdited>2021-08-19T20:44:11.4934431+02:00</LastEdited>
+    <LastEdited>2021-08-21T12:44:33.4007656+02:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>2</Minor>
+      <Minor>3</Minor>
       <Revision>0</Revision>
     </Version>
     <DeckHistory>
@@ -9563,7 +9563,7 @@
         <IsArenaDeck>false</IsArenaDeck>
         <IsDungeonDeck>false</IsDungeonDeck>
         <IsDuelsDeck>false</IsDuelsDeck>
-        <DeckId>282daf46-8b2f-45cf-b8d8-ce7dd104185d</DeckId>
+        <DeckId>2e5be8f4-e912-4ca1-86b6-56056efb0b6c</DeckId>
         <Name>Anacondra</Name>
         <Tags />
       </Deck>
@@ -9661,7 +9661,105 @@
         <IsArenaDeck>false</IsArenaDeck>
         <IsDungeonDeck>false</IsDungeonDeck>
         <IsDuelsDeck>false</IsDuelsDeck>
-        <DeckId>812cbece-82ac-4072-bc9a-a5c38d936745</DeckId>
+        <DeckId>5c232dbd-c711-4a36-a95d-8c44fe040ce0</DeckId>
+        <Name>Anacondra</Name>
+        <Tags />
+      </Deck>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>CORE_EX1_169</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_427</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_333</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_075</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_057</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_058</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_OG_047</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_CS2_013</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BT_130</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_429</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_EX1_095</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>WC_006</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CORE_EX1_164</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_539</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_732</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS3_034</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>DMF_254</Id>
+            <Count>1</Count>
+          </Card>
+        </Cards>
+        <Class>Druid</Class>
+        <LastEdited>2021-08-19T20:44:11.4934431+02:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>2</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2089616802</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>2</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>d4ad2a94-f410-4a0e-99ac-97974049e090</DeckId>
         <Name>Anacondra</Name>
         <Tags />
       </Deck>
@@ -9672,14 +9770,14 @@
     <SelectedVersion>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>2</Minor>
+      <Minor>3</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
     <IsDungeonDeck>false</IsDungeonDeck>
     <IsDuelsDeck>false</IsDuelsDeck>
     <DeckId>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</DeckId>
-    <Name>Anacondra</Name>
+    <Name>Alignment</Name>
     <Tags />
   </Deck>
   <LastDeckClass>
@@ -9719,9 +9817,9 @@
       <Name>Quest Mage</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
-      <Name>Miracle</Name>
+      <Class>Druid</Class>
+      <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
+      <Name>Alignment</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
