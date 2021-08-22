@@ -9816,10 +9816,5 @@
       <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
       <Name>Quest Mage</Name>
     </DeckInfo>
-    <DeckInfo>
-      <Class>Druid</Class>
-      <Id>e20e8538-fe4b-484d-b4d5-2ad08f67d47b</Id>
-      <Name>Alignment</Name>
-    </DeckInfo>
   </LastDeckClass>
 </Decks>
