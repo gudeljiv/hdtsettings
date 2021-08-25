@@ -6230,7 +6230,7 @@
       </Deck>
     </DeckHistory>
     <Archived>false</Archived>
-    <HsId>2088887091</HsId>
+    <HsId>0</HsId>
     <Note />
     <SelectedVersion>
       <Build>0</Build>
@@ -9780,6 +9780,108 @@
     <Name>Alignment</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CORE_BT_480</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_422</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_702</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_039</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BAR_891</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>YOP_001</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_041</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_700</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_330</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_BT_035</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CORE_BT_491</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_249</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_454</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_072</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SCH_356</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_042</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_037</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>DemonHunter</Class>
+    <LastEdited>2021-08-24T17:05:04.6170035+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2088887091</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>35993f54-b44d-45fc-9ebd-4ccf454b1559</DeckId>
+    <Name>Brute</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -9790,11 +9892,6 @@
       <Class>Shaman</Class>
       <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
       <Name>Quest</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Priest</Class>
-      <Id>e945f475-90f5-4731-9ba7-bc136bd947d6</Id>
-      <Name>Guidance</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
@@ -9817,9 +9914,14 @@
       <Name>Quest Mage</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
-      <Name>Miracle</Name>
+      <Class>DemonHunter</Class>
+      <Id>35993f54-b44d-45fc-9ebd-4ccf454b1559</Id>
+      <Name>Brute</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
+      <Name>Shadow</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
