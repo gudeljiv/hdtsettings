@@ -10012,11 +10012,6 @@
       <Name>Quest Mage</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>DemonHunter</Class>
-      <Id>35993f54-b44d-45fc-9ebd-4ccf454b1559</Id>
-      <Name>Brute</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Priest</Class>
       <Id>518f31e5-81d8-409e-99d9-946ddc4971a8</Id>
       <Name>Shadow Control</Name>
@@ -10030,6 +10025,11 @@
       <Class>Shaman</Class>
       <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
       <Name>Quest</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>DemonHunter</Class>
+      <Id>35993f54-b44d-45fc-9ebd-4ccf454b1559</Id>
+      <Name>Brute</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

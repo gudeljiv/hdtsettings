@@ -8365,6 +8365,100 @@
             <Card Id="BAR_542" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>397ff20b-8aa8-4734-892f-1923d1f2f752</GameId>
+          <PlayerHero>DemonHunter</PlayerHero>
+          <OpponentHero>Shaman</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Loss</Result>
+          <Turns>10</Turns>
+          <StartTime>2021-08-28T17:24:02.2897951+02:00</StartTime>
+          <EndTime>2021-08-28T17:37:03.8637977+02:00</EndTime>
+          <PlayerName>Mxyzptlk#21477</PlayerName>
+          <OpponentName>dredg#2526</OpponentName>
+          <ReplayFile>Mxyzptlk#21477(DemonHunter) vs dredg#2526(Shaman) 1737-280821.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <StarLevel>46</StarLevel>
+          <StarLevelAfter>46</StarLevelAfter>
+          <Stars>1</Stars>
+          <OpponentStarLevel>46</OpponentStarLevel>
+          <LeagueId>5</LeagueId>
+          <StarMultiplier>1</StarMultiplier>
+          <HearthstoneBuild>23462</HearthstoneBuild>
+          <PlayerCardbackId>5</PlayerCardbackId>
+          <OpponentCardbackId>157</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <OpponentPlayerId>1</OpponentPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.191</Address>
+            <AuroraPassword>calkdj</AuroraPassword>
+            <ClientHandle>2295208</ClientHandle>
+            <GameHandle>18428</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>HjieKH</SpectatorPassword>
+            <Version>2330810</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>94</RankedSeasonId>
+          <OpponentHeroCardId>HERO_02e</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>35993f54-b44d-45fc-9ebd-4ccf454b1559</DeckId>
+          <DeckName>Brute</DeckName>
+          <PlayerDeckVersion>
+            <Build>0</Build>
+            <Major>1</Major>
+            <Minor>1</Minor>
+            <Revision>0</Revision>
+          </PlayerDeckVersion>
+          <HsReplay>
+            <UploadId>ZYcP8bmqno779Hrn9k9gFf</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/ZYcP8bmqno779Hrn9k9gFf/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>2088887091</HsDeckId>
+          <PlayerCards>
+            <Card Id="CORE_BT_491" Count="2" />
+            <Card Id="DMF_249" Count="2" />
+            <Card Id="SW_072" Count="1" />
+            <Card Id="SCH_700" Count="2" />
+            <Card Id="SCH_356" Count="2" />
+            <Card Id="SW_037" Count="2" />
+            <Card Id="SW_042" Count="1" />
+            <Card Id="YOP_001" Count="2" />
+            <Card Id="SCH_422" Count="2" Unconfirmed="1" />
+            <Card Id="SCH_702" Count="2" />
+            <Card Id="CORE_BT_035" Count="1" />
+            <Card Id="CORE_BT_480" Count="2" />
+            <Card Id="BAR_891" Count="2" />
+            <Card Id="BT_187" Count="1" />
+            <Card Id="SW_041" Count="2" />
+            <Card Id="BAR_330" Count="2" />
+            <Card Id="SW_454" Count="1" />
+            <Card Id="SW_039" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="SCH_427" Count="1" />
+            <Card Id="SW_031" Count="1" />
+            <Card Id="YOP_024" Count="2" />
+            <Card Id="SW_095" Count="2" />
+            <Card Id="CS3_007" Count="2" />
+            <Card Id="WC_020" Count="1" />
+            <Card Id="SCH_236" Count="1" />
+            <Card Id="SCH_160" Count="1" />
+            <Card Id="SW_035" Count="1" />
+            <Card Id="SW_400" Count="1" />
+            <Card Id="CORE_EX1_248" Count="1" />
+            <Card Id="BT_100" Count="2" />
+            <Card Id="SW_031t7" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Brute</Name>
     </Deck>
