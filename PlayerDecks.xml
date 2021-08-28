@@ -9788,7 +9788,7 @@
       </Card>
       <Card>
         <Id>SCH_422</Id>
-        <Count>2</Count>
+        <Count>1</Count>
       </Card>
       <Card>
         <Id>SCH_702</Id>
@@ -9848,7 +9848,7 @@
       </Card>
       <Card>
         <Id>SW_042</Id>
-        <Count>1</Count>
+        <Count>2</Count>
       </Card>
       <Card>
         <Id>SW_037</Id>
@@ -9856,23 +9856,126 @@
       </Card>
     </Cards>
     <Class>DemonHunter</Class>
-    <LastEdited>2021-08-24T17:05:04.6170035+02:00</LastEdited>
+    <LastEdited>2021-08-28T11:46:45.6181235+02:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>0</Minor>
+      <Minor>1</Minor>
       <Revision>0</Revision>
     </Version>
-    <DeckHistory />
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>CORE_BT_480</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_422</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_702</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_039</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>BAR_891</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>YOP_001</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_041</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SCH_700</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BAR_330</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CORE_BT_035</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CORE_BT_491</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>DMF_249</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>SW_454</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_072</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SCH_356</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BT_187</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_042</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>SW_037</Id>
+            <Count>2</Count>
+          </Card>
+        </Cards>
+        <Class>DemonHunter</Class>
+        <LastEdited>2021-08-24T17:05:04.6170035+02:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <HsId>2088887091</HsId>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <IsArenaDeck>false</IsArenaDeck>
+        <IsDungeonDeck>false</IsDungeonDeck>
+        <IsDuelsDeck>false</IsDuelsDeck>
+        <DeckId>7cb2e499-1b0a-490d-806b-0191548ba022</DeckId>
+        <Name>Brute</Name>
+        <Tags />
+      </Deck>
+    </DeckHistory>
     <Archived>false</Archived>
     <HsId>2088887091</HsId>
     <Note />
     <SelectedVersion>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>0</Minor>
+      <Minor>1</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
@@ -9919,9 +10022,9 @@
       <Name>Brute</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
-      <Name>Shadow</Name>
+      <Class>Rogue</Class>
+      <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
+      <Name>Miracle</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
