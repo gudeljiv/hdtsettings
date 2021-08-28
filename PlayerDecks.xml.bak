@@ -9992,11 +9992,6 @@
       <Name>Control Warrior</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
-      <Name>Quest</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warlock</Class>
       <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
       <Name>Battlemaster</Name>
@@ -10022,9 +10017,19 @@
       <Name>Brute</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Priest</Class>
+      <Id>518f31e5-81d8-409e-99d9-946ddc4971a8</Id>
+      <Name>Shadow Control</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Rogue</Class>
       <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
       <Name>Miracle</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
+      <Name>Quest</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

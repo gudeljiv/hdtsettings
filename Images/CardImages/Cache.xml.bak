@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>DMF_187.png</string>
+  <string>SW_448.png</string>
+  <string>DMF_511.png</string>
+  <string>BAR_319.png</string>
   <string>BAR_079.png</string>
   <string>SCH_351.png</string>
   <string>BAR_812.png</string>
@@ -8,7 +12,6 @@
   <string>SW_042.png</string>
   <string>SW_072.png</string>
   <string>SW_061.png</string>
-  <string>SW_448.png</string>
   <string>DMF_091.png</string>
   <string>SCH_713.png</string>
   <string>SCH_137.png</string>
