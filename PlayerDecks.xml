@@ -9975,7 +9975,7 @@
     <SelectedVersion>
       <Build>0</Build>
       <Major>1</Major>
-      <Minor>1</Minor>
+      <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
@@ -9983,6 +9983,104 @@
     <IsDuelsDeck>false</IsDuelsDeck>
     <DeckId>35993f54-b44d-45fc-9ebd-4ccf454b1559</DeckId>
     <Name>Brute</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>SCH_145</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_LOEA10_3</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_514</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_137</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_722</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_258</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_312</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_446</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_713</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_195</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SW_444</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DMF_091</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_159</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_307</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_142</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_126</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_448</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2021-09-04T13:22:53.7986904+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2099680325</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>5b064709-0f50-41b9-8155-24ec66406af7</DeckId>
+    <Name>Aggro Gandling</Name>
     <Tags />
   </Deck>
   <LastDeckClass>
@@ -10012,11 +10110,6 @@
       <Name>Quest Mage</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>518f31e5-81d8-409e-99d9-946ddc4971a8</Id>
-      <Name>Shadow Control</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Rogue</Class>
       <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
       <Name>Miracle</Name>
@@ -10030,6 +10123,11 @@
       <Class>DemonHunter</Class>
       <Id>35993f54-b44d-45fc-9ebd-4ccf454b1559</Id>
       <Name>Brute</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>5b064709-0f50-41b9-8155-24ec66406af7</Id>
+      <Name>Aggro Gandling</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
