@@ -7721,8 +7721,8 @@
     <Note />
     <SelectedVersion>
       <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
+      <Major>3</Major>
+      <Minor>1</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
     <IsArenaDeck>false</IsArenaDeck>
@@ -10090,11 +10090,6 @@
       <Name>Control Warrior</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
-      <Name>Battlemaster</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Id>a73a1b60-a045-4c2a-8fb1-c44b8c8b39fc</Id>
       <Name>Brawl 19-08 20:05</Name>
@@ -10105,19 +10100,9 @@
       <Name>OTsunaWTf</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
-      <Name>Quest Mage</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Rogue</Class>
       <Id>2c11afac-d3ce-4a40-9d9f-2d0fcf18a18f</Id>
       <Name>Miracle</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
-      <Name>Quest</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>DemonHunter</Class>
@@ -10125,9 +10110,24 @@
       <Name>Brute</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>dd40c7a0-ffa9-4b49-b6df-752117f19f2b</Id>
+      <Name>Quest</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>4e3f1d74-4062-46f2-94a9-b37ca11159ed</Id>
+      <Name>Quest Mage</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>eedac41b-165b-4267-b81f-48a5fdea5c77</Id>
+      <Name>Battlemaster</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Priest</Class>
-      <Id>5b064709-0f50-41b9-8155-24ec66406af7</Id>
-      <Name>Aggro Gandling</Name>
+      <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
+      <Name>Shadow</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
