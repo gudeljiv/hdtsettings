@@ -10083,6 +10083,104 @@
     <Name>Aggro Gandling</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CORE_EX1_145</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CORE_EX1_144</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_509</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BT_724</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BT_722</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_248</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DMF_519</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_305</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_350</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>SCH_713</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_320</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_511</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>SW_311</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DMF_515</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_317</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>WC_016</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BAR_079</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2021-09-12T13:27:13.3738075+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>2100327782</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <IsDuelsDeck>false</IsDuelsDeck>
+    <DeckId>8e701d74-c8ab-45d0-98cd-86a2abed447c</DeckId>
+    <Name>Garrote</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -10126,8 +10224,8 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Priest</Class>
-      <Id>46ded986-94ee-4275-9924-bbbb65963abb</Id>
-      <Name>Shadow</Name>
+      <Id>5b064709-0f50-41b9-8155-24ec66406af7</Id>
+      <Name>Aggro Gandling</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
