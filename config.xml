@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>5b064709-0f50-41b9-8155-24ec66406af7</ActiveDeckIdString>
+  <ActiveDeckIdString>00000000-0000-0000-0000-000000000000</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -79,8 +79,8 @@
   <CloseToTray>true</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.15.7.5605</CreatedByVersion>
-  <HearthdbVersion>21.2.0.0</HearthdbVersion>
+  <CreatedByVersion>1.17.12.5770</CreatedByVersion>
+  <HearthdbVersion>23.0.0.0</HearthdbVersion>
   <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
@@ -139,6 +139,8 @@
   <PlayerGalakrondCounter>Auto</PlayerGalakrondCounter>
   <PlayerLibramCounter>Auto</PlayerLibramCounter>
   <HidePlayerCards>false</HidePlayerCards>
+  <HidePlayerCardsTop>false</HidePlayerCardsTop>
+  <HidePlayerCardsBottom>false</HidePlayerCardsBottom>
   <HidePlayerFatigueCount>true</HidePlayerFatigueCount>
   <HideSecrets>false</HideSecrets>
   <HideTimers>false</HideTimers>
@@ -156,6 +158,7 @@
   <HsReplayUploadSpectator>true</HsReplayUploadSpectator>
   <HsReplayUploadBattlegrounds>true</HsReplayUploadBattlegrounds>
   <HsReplayUploadDuels>true</HsReplayUploadDuels>
+  <HsReplayUploadMercenaries>true</HsReplayUploadMercenaries>
   <HsReplayUploadPacks xsi:nil="true" />
   <Id>e61fc6ee-1a31-45b0-9e67-aa57312f3578</Id>
   <IgnoredConfigWarnings />
@@ -203,26 +206,13 @@
   <DeckPanelOrderPlayer>
     <DeckPanel>DeckTitle</DeckPanel>
     <DeckPanel>Wins</DeckPanel>
+    <DeckPanel>CardsTop</DeckPanel>
     <DeckPanel>Cards</DeckPanel>
+    <DeckPanel>CardsBottom</DeckPanel>
     <DeckPanel>CardCounter</DeckPanel>
     <DeckPanel>DrawChances</DeckPanel>
     <DeckPanel>Fatigue</DeckPanel>
   </DeckPanelOrderPlayer>
-  <PanelOrderOpponent>
-    <string>Win Rate</string>
-    <string>Cards</string>
-    <string>Card Counter</string>
-    <string>Draw Chances</string>
-    <string>Fatigue Counter</string>
-  </PanelOrderOpponent>
-  <PanelOrderPlayer>
-    <string>Deck Title</string>
-    <string>Wins</string>
-    <string>Cards</string>
-    <string>Card Counter</string>
-    <string>Draw Chances</string>
-    <string>Fatigue Counter</string>
-  </PanelOrderPlayer>
   <PlayerDeckHeight>88</PlayerDeckHeight>
   <PlayerDeckLeft>99.5</PlayerDeckLeft>
   <PlayerDeckTop>2</PlayerDeckTop>
@@ -304,6 +294,11 @@
   <ShowBattlegroundsToast>true</ShowBattlegroundsToast>
   <ShowMulliganToast>true</ShowMulliganToast>
   <ShowLeagueFilterHint>true</ShowLeagueFilterHint>
+  <ShowMercsOpponentHover>true</ShowMercsOpponentHover>
+  <ShowMercsPlayerHover>true</ShowMercsPlayerHover>
+  <ShowMercsOpponentAbilityIcons>true</ShowMercsOpponentAbilityIcons>
+  <ShowMercsPlayerAbilityIcons>true</ShowMercsPlayerAbilityIcons>
+  <ShowMercsTasks>true</ShowMercsTasks>
   <SortDecksByClass>true</SortDecksByClass>
   <SortDecksByClassArena>false</SortDecksByClassArena>
   <SortDecksFavoritesFirst>false</SortDecksFavoritesFirst>
@@ -340,8 +335,8 @@
   <TimersVerticalPosition>44.321511973151331</TimersVerticalPosition>
   <TimersVerticalSpacing>60</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>74</TrackerWindowLeft>
-  <TrackerWindowTop>29</TrackerWindowTop>
+  <TrackerWindowLeft>61</TrackerWindowLeft>
+  <TrackerWindowTop>42</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>false</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
