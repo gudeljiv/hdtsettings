@@ -1,0 +1,547 @@
+11:49:37 AM|Info|Core.Initialize >> HDT: 1.23.11.6486, Operating System: Windows 10 Enterprise 19045, .NET Framework: 533325
+11:49:37 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+11:49:37 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+11:50:19 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+11:50:20 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:50:21 AM|Info|Updater.SquirrelUpdate >> No new updated available
+11:50:21 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+11:50:22 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+11:50:22 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+11:50:22 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+11:50:22 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+11:50:22 AM|Info|GameV2.Reset >> -------- Reset ---------
+11:50:22 AM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Key not valid for use in specified state.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load() in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\JsonSerializer.cs:line 67
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+11:50:24 AM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+11:50:24 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding Autosquelch.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding Spawn.HDT.DustUtility.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\ArenaHelper.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.CV.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.Util.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardhashes.json
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardtier.json
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\version.json
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\cvextern.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcp120.dll
+11:50:25 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcr120.dll
+11:50:26 AM|Info|GameV2.Reset >> -------- Reset ---------
+11:50:27 AM|Info|BackupManager.Run >> Running BackupManager
+11:50:27 AM|Info|BackupManager.Run >> Deleting old backup: Backup_06092021.zip
+11:50:27 AM|Info|BackupManager.Run >> Creating backup for today
+11:50:27 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+11:50:27 AM|Error|PluginManager.GetModule >> Error loading C:\Users\ivang\AppData\Local\HearthstoneDeckTracker\app-1.23.11\Plugins\Spawn.HDT.DustUtility.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 205
+11:50:28 AM|Error|PluginManager.GetModule >> Error loading C:\Users\ivang\AppData\Local\HearthstoneDeckTracker\app-1.23.11\Plugins\ArenaHelper\ArenaHelper.dll:
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Hearthstone_Deck_Tracker.Plugins.PluginManager.GetModule(String pFileName, Type pTypeInterface) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Plugins\PluginManager.cs:line 205
+11:50:28 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'D:\_Ivan\Hearthstone\Logs'
+11:50:28 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+11:50:28 AM|Info|Helper.EnsureClientLogConfig >> client.config is up-to-date
+11:50:28 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=1917, ServerTS=4/21/2022 5:15:38 AM, Downloaded=4/21/2022 11:35:17 AM Age=617.00:15:11.0844423
+11:50:28 AM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+11:50:28 AM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+11:51:31 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+11:51:32 AM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+11:51:32 AM|Info|HsReplayDecks.Load >> Complete: Count=1590, ServerTS=12/29/2023 6:39:21 AM, Downloaded=12/29/2023 11:51:32 AM Age=00:00:00.0089900
+12:08:26 PM|Info|Helper.EnsureClientLogConfig >> client.config is up-to-date
+12:08:30 PM|Info|Core.Initialize >> HearthMirror RPC [client]: Error while invoking GetAccountId: TargetInvocationException
+12:08:30 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+12:08:31 PM|Info|GameV2.CurrentMode >> LOGIN
+12:08:32 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+12:08:32 PM|Info|Helper.GetCurrentRegion >> Region: EU
+12:08:32 PM|Info|BackupManager.Run >> Running BackupManager
+12:08:32 PM|Info|BackupManager.Run >> Backup for today already exists
+12:08:33 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:08:33 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:08:44 PM|Info|GameV2.CurrentMode >> HUB
+12:08:44 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+12:08:56 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:08:58 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:08:58 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:09:04 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:09:04 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 15 new
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Undead Priest as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Treant Druid as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Dragon Druid as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Tess Rogue as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Plague Death Knight as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Draka Rogue as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Aggro Demon Hunter as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Control Warrior as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Excavate Rogue as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Control Priest as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Taunt Warrior as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Unholy Death Knight as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Automaton Priest as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Mech Rogue as new deck.
+12:09:04 PM|Info|DeckManager.ImportDecksTo >> Saving Custom Rogue as new deck.
+12:09:04 PM|Info|MainWindow.SelectDeck >> Switched to deck: Undead Priest (v1.0)
+12:09:04 PM|Info|DeckList.ActiveDeck >> Set active deck to: Undead Priest (Priest)
+12:09:05 PM|Info|MainWindow.SelectDeck >> Switched to deck: Undead Priest (v1.0)
+12:09:05 PM|Warning|Core.Reset >> Reset already in progress.
+12:09:05 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck boaD6kp5MLBIufNDd19DSb
+12:09:05 PM|... 2 duplicate messages
+12:09:05 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:09:06 PM|Info|QueueEvents.Handle >> Now in queue
+12:09:06 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2486726559
+12:09:06 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:09:06 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:09:06 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Treant Druid
+12:09:06 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:09:06 PM|Info|MainWindow.SelectDeck >> Switched to deck: Treant Druid (v1.0)
+12:09:06 PM|Info|DeckList.ActiveDeck >> Set active deck to: Treant Druid (Druid)
+12:09:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck BREUWu4be6PT4bBVQm8vIh
+12:09:06 PM|Warning|Core.Reset >> Reset already in progress.
+12:09:06 PM|Info|MainWindow.SelectDeck >> Switched to deck: Treant Druid (v1.0)
+12:09:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck BREUWu4be6PT4bBVQm8vIh
+12:09:06 PM|Warning|Core.Reset >> Reset already in progress.
+12:09:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck BREUWu4be6PT4bBVQm8vIh
+12:09:06 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'D:\_Ivan\Hearthstone\Logs'
+12:09:06 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+12:09:06 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+12:09:07 PM|Info|GameV2.CurrentMode >> LOGIN
+12:09:07 PM|Info|GameV2.CurrentMode >> HUB
+12:09:07 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:09:07 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:09:13 PM|Info|QueueEvents.Handle >> No longer in queue
+12:09:14 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:09:14 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:09:14 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+12:09:14 PM|Info|TurnTimer.Start >> Starting turn timer
+12:09:14 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:09:14 PM|Info|LogWatcherManager.OnLogFileFound >> Power
+12:09:15 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:09:15 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs Aerthis#21325 [PlayerId=2]
+12:09:15 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=71
+12:09:15 PM|Info|GameEventHandler.SetPlayerHero >> Player=Druid
+12:09:15 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=73
+12:09:15 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Mage
+12:09:38 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:09:38 PM|Info|Updater.SquirrelUpdate >> No new updated available
+12:09:45 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:09:45 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:10:02 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:10:03 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:10:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:10:14 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:10:24 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:10:35 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_08bp turn:3 from:-1)
+12:10:38 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:10:47 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:10:59 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+12:10:59 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:10:59 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:10:59 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:10:59 PM|Info|GameStats.GameEnd >> Current Game ended after 4 turns
+12:10:59 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Treant Druid
+12:10:59 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:10:59 PM|Info|LogUploader.Upload >> Uploading -1857615502...
+12:11:00 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:11:00 PM|Info|LogUploader.TryUpload >> Upload Id: abb23ohGUQ532HFXhJBw73
+12:11:01 PM|Info|LogUploader.TryUpload >> Upload complete
+12:11:01 PM|Info|LogUploader.Upload >> -1857615502 complete. Success=True
+12:11:08 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:11:08 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:11:08 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:11:08 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:11:08 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:11:08 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:11:10 PM|Info|QueueEvents.Handle >> Now in queue
+12:11:10 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2486726559
+12:11:10 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:11:10 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:11:10 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Treant Druid
+12:11:10 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:11:10 PM|Info|DeckManager.AutoSelectDeckById >> Already using the correct deck
+12:11:21 PM|Info|QueueEvents.Handle >> No longer in queue
+12:11:21 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:11:21 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:11:21 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+12:11:21 PM|Info|TurnTimer.Start >> Starting turn timer
+12:11:21 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:11:22 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:11:22 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=2] vs MrGrair#2500 [PlayerId=1]
+12:11:22 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=71
+12:11:22 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Priest
+12:11:22 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=73
+12:11:22 PM|Info|GameEventHandler.SetPlayerHero >> Player=Druid
+12:11:53 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:11:58 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:12:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:12:14 PM|Info|AssetDownloader.DownloadAsset >> Starting download for NX2_011.png.
+12:12:14 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup NX2_011.png.
+12:12:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:12:27 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=101): 6 -> 4
+12:12:28 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:12:43 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=104): 6 -> 4
+12:12:43 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=105): 6 -> 4
+12:12:53 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:13:10 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+12:13:24 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_06ebp turn:4 from:-1)
+12:13:27 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:13:49 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+12:13:57 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_06ebp turn:5 from:-1)
+12:14:03 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+12:14:26 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+12:14:26 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:14:26 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:14:26 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:14:26 PM|Info|GameStats.GameEnd >> Current Game ended after 5 turns
+12:14:26 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Treant Druid
+12:14:27 PM|Info|LogUploader.Upload >> Uploading 296746511...
+12:14:27 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:14:28 PM|Info|LogUploader.TryUpload >> Upload Id: cWRyuBqiYs3UsJqcshdvtt
+12:14:28 PM|Info|LogUploader.TryUpload >> Upload complete
+12:14:28 PM|Info|LogUploader.Upload >> 296746511 complete. Success=True
+12:14:35 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:14:35 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:14:35 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:14:35 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:14:35 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:14:35 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:14:37 PM|Info|QueueEvents.Handle >> Now in queue
+12:14:37 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2486726559
+12:14:37 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:14:37 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:14:37 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Treant Druid
+12:14:37 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:14:37 PM|Info|DeckManager.AutoSelectDeckById >> Already using the correct deck
+12:14:39 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:14:48 PM|Info|QueueEvents.Handle >> No longer in queue
+12:14:48 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:14:48 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:14:48 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+12:14:48 PM|Info|TurnTimer.Start >> Starting turn timer
+12:14:48 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:14:49 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:14:49 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs Lesbians#3896 [PlayerId=2]
+12:14:50 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=68
+12:14:50 PM|Info|GameEventHandler.SetPlayerHero >> Player=Druid
+12:14:50 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=70
+12:14:50 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Rogue
+12:15:08 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:15:08 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:15:14 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:15:20 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:15:23 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:15:23 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:15:27 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=83): 6 -> 4
+12:15:27 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=84): 6 -> 4
+12:15:29 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:15:31 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:15:40 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:15:48 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:15:48 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:16:02 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:16:25 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=96): 6 -> 4
+12:16:25 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=98): 6 -> 4
+12:16:31 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=101): 6 -> 4
+12:16:31 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=102): 6 -> 4
+12:16:57 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:17:05 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:17:42 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+12:17:46 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=24, cardId=WW_818, cardName=Cactus Construct, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=WW_818, deckIndex=-3}
+12:17:46 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=13, cardId=ETC_376, cardName=Summer Flowerchild, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=ETC_376, deckIndex=-2}
+12:17:46 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=6, cardId=YOG_403, cardName=Aerosoilizer, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=YOG_403, deckIndex=-1}
+12:17:51 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=129): 6 -> 4
+12:17:51 PM|Info|PowerHandler.Handle >> Dredge Top: id=6, cardId=YOG_403, cardName=Aerosoilizer, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Revealed, latestCardId=YOG_403, deckIndex=4}
+12:18:00 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:18:25 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+12:18:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+12:19:22 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=158): 6 -> 4
+12:19:22 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=160): 6 -> 4
+12:19:34 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+12:19:56 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_06bp turn:6 from:-1)
+12:20:01 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+12:21:29 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=197): 6 -> 4
+12:21:32 PM|Info|SecretsManager.NewSecret >> id=190, cardId=, cardName=, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+12:21:34 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+12:22:15 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=24, cardId=WW_818, cardName=Cactus Construct, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=WW_818, deckIndex=-7}
+12:22:15 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=13, cardId=ETC_376, cardName=Summer Flowerchild, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=ETC_376, deckIndex=-6}
+12:22:15 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=15, cardId=REV_336, cardName=Plot of Sin, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=REV_336, deckIndex=-5}
+12:22:21 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=207): 6 -> 4
+12:22:21 PM|Info|PowerHandler.Handle >> Dredge Top: id=24, cardId=WW_818, cardName=Cactus Construct, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Revealed, latestCardId=WW_818, deckIndex=8}
+12:22:29 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+12:23:05 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=225): 6 -> 4
+12:23:05 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=226): 6 -> 4
+12:23:50 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+12:23:56 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+12:23:56 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:23:56 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:23:56 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:23:56 PM|Info|GameStats.GameEnd >> Current Game ended after 8 turns
+12:23:56 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Treant Druid
+12:23:56 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:23:56 PM|Info|LogUploader.Upload >> Uploading -1431611721...
+12:23:56 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:23:56 PM|Info|LogUploader.TryUpload >> Upload Id: TEHtaTjPVcypryACAPyAHz
+12:23:57 PM|Info|LogUploader.TryUpload >> Upload complete
+12:23:58 PM|Info|LogUploader.Upload >> -1431611721 complete. Success=True
+12:24:06 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:24:06 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:24:06 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:24:06 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:24:06 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:24:06 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:24:09 PM|Info|QueueEvents.Handle >> Now in queue
+12:24:09 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2486726559
+12:24:09 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:24:09 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:24:09 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Treant Druid
+12:24:09 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:24:09 PM|Info|DeckManager.AutoSelectDeckById >> Already using the correct deck
+12:24:10 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:24:16 PM|Info|QueueEvents.Handle >> No longer in queue
+12:24:16 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:24:16 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:24:16 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs ShmoneySimon#2793 [PlayerId=2]
+12:24:16 PM|Info|TurnTimer.Start >> Starting turn timer
+12:24:16 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:24:17 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=87
+12:24:17 PM|Info|GameEventHandler.SetPlayerHero >> Player=Druid
+12:24:17 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=89
+12:24:17 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Priest
+12:24:17 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:24:18 PM|Info|PowerHandler.Handle >> Updating UNKNOWN HUMAN PLAYER
+12:24:52 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:24:52 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:24:55 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:25:05 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:25:05 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:25:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:25:10 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:25:11 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:25:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:25:20 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:25:20 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:25:22 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_06ebp turn:2 from:-1)
+12:25:25 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:25:25 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:25:34 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:25:34 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:25:34 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:25:45 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:25:48 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:25:48 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:25:54 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:26:18 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+12:26:28 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:26:28 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:26:46 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=123): 6 -> 4
+12:26:51 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:26:51 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:26:56 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+12:27:08 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=126): 6 -> 4
+12:27:08 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=127): 6 -> 4
+12:27:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+12:27:41 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+12:27:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+12:28:24 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+12:28:32 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_06ebp turn:7 from:-1)
+12:28:39 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+12:29:11 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_09bp turn:7 from:-1)
+12:29:12 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+12:29:16 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=27, cardId=TTN_950, cardName=Forest Seedlings, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=TTN_950, deckIndex=-3}
+12:29:16 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=4, cardId=REV_336, cardName=Plot of Sin, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=REV_336, deckIndex=-2}
+12:29:16 PM|Info|TagChangeActions.OnDredge >> Dredge Bottom: id=11, cardId=TTN_954, cardName=Cultivation, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Guessed, latestCardId=TTN_954, deckIndex=-1}
+12:29:19 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=180): 6 -> 4
+12:29:19 PM|Info|PowerHandler.Handle >> Dredge Top: id=4, cardId=REV_336, cardName=Plot of Sin, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1, guessedCardState=Revealed, latestCardId=REV_336, deckIndex=4}
+12:29:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+12:29:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+12:29:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+12:29:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+12:29:54 PM|Info|GameEventHandler.HandleLoss >> --- Game was lost! ---
+12:29:54 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:29:54 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:29:54 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:29:54 PM|Info|GameStats.GameEnd >> Current Game ended after 9 turns
+12:29:54 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Treant Druid
+12:29:54 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:29:54 PM|Info|LogUploader.Upload >> Uploading 1972385574...
+12:29:54 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:29:55 PM|Info|LogUploader.TryUpload >> Upload Id: heKsbAzgocoMkjDUixg97G
+12:29:56 PM|Info|LogUploader.TryUpload >> Upload complete
+12:29:56 PM|Info|LogUploader.Upload >> 1972385574 complete. Success=True
+12:30:02 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:30:02 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:30:02 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:30:02 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:30:02 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:30:02 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:30:05 PM|Info|QueueEvents.Handle >> Now in queue
+12:30:05 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2501635821
+12:30:06 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:30:06 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:30:06 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Mech Rogue
+12:30:06 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:30:06 PM|Info|MainWindow.SelectDeck >> Switched to deck: Mech Rogue (v1.0)
+12:30:06 PM|Info|DeckList.ActiveDeck >> Set active deck to: Mech Rogue (Rogue)
+12:30:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck YdxLaHzEkAdJbWgyH1QYTd
+12:30:06 PM|Info|MainWindow.SelectDeck >> Switched to deck: Mech Rogue (v1.0)
+12:30:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck YdxLaHzEkAdJbWgyH1QYTd
+12:30:06 PM|Warning|Core.Reset >> Reset already in progress.
+12:30:06 PM|Info|ApiWrapper.GetDeckWinrates >> Fetching winrates for deck YdxLaHzEkAdJbWgyH1QYTd
+12:30:06 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:30:07 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'D:\_Ivan\Hearthstone\Logs'
+12:30:07 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+12:30:07 PM|Info|LogWatcherManager.OnLogFileFound >> Power
+12:30:07 PM|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+12:30:07 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:30:07 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:30:16 PM|Info|QueueEvents.Handle >> No longer in queue
+12:30:16 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:30:16 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:30:16 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs  [PlayerId=2]
+12:30:16 PM|Info|TurnTimer.Start >> Starting turn timer
+12:30:16 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:30:16 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=70
+12:30:16 PM|Info|GameEventHandler.SetPlayerHero >> Player=Rogue
+12:30:16 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=72
+12:30:16 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Deathknight
+12:30:17 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:30:17 PM|Info|PowerHandler.Handle >> Updating UNKNOWN HUMAN PLAYER
+12:30:35 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:30:35 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:30:38 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:30:44 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:30:47 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:30:47 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:30:54 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:31:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:31:11 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:31:24 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_11bp turn:2 from:-1)
+12:31:33 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:31:42 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:31:54 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TSC_928.png.
+12:31:55 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TSC_928.png.
+12:32:00 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+12:32:19 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:32:25 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_11bp turn:4 from:-1)
+12:32:28 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+12:32:28 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:32:28 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:32:28 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:32:28 PM|Info|GameStats.GameEnd >> Current Game ended after 4 turns
+12:32:28 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Mech Rogue
+12:32:29 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:32:29 PM|Info|LogUploader.Upload >> Uploading 654398463...
+12:32:29 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:32:29 PM|Info|LogUploader.TryUpload >> Upload Id: hRy74H6PDjpNotAzeRQWQt
+12:32:30 PM|Info|LogUploader.TryUpload >> Upload complete
+12:32:30 PM|Info|LogUploader.Upload >> 654398463 complete. Success=True
+12:32:36 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:32:37 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:32:37 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:32:37 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:32:37 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:32:37 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:32:37 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:32:39 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:32:39 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:32:40 PM|Info|QueueEvents.Handle >> Now in queue
+12:32:40 PM|Info|DeckManager.AutoSelectDeckById >> Trying to select deck for id=2501635821
+12:32:40 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:32:40 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:32:40 PM|Info|DeckManager.AutoSelectDeckById >> Found selected deck: Mech Rogue
+12:32:40 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:32:40 PM|Info|DeckManager.AutoSelectDeckById >> Already using the correct deck
+12:32:40 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:32:50 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+12:32:50 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:32:50 PM|Info|GameV2.CacheMatchInfo >> Waiting for matchInfo... (matchInfo=, localPlayer=, opposingPlayer=)
+12:32:50 PM|Info|TurnTimer.Start >> Starting turn timer
+12:32:50 PM|Warning|TurnTimer.Start >> Waiting for player entity
+12:32:51 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+12:32:51 PM|Info|GameV2.UpdatePlayers >> Mxyzptlk#21477 [PlayerId=1] vs Arcosos#2277 [PlayerId=2]
+12:32:51 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=70
+12:32:51 PM|Info|GameEventHandler.SetPlayerHero >> Player=Rogue
+12:32:51 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=72
+12:32:51 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Deathknight
+12:33:06 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:33:06 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:33:12 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:33:15 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:33:15 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:33:19 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+12:33:32 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+12:33:38 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TSC_649.png.
+12:33:38 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TSC_649.png.
+12:33:39 PM|Info|AssetDownloader.DownloadAsset >> Starting download for RLK_217.png.
+12:33:39 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup RLK_217.png.
+12:33:39 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TTN_923.png.
+12:33:39 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TTN_923.png.
+12:33:39 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TTN_920.png.
+12:33:39 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TTN_920.png.
+12:33:39 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TTN_921.png.
+12:33:39 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TTN_921.png.
+12:33:40 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+12:33:41 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:33:50 PM|Info|OverlayWindow.RunHoverUpdates >> Starting overlay hover updates...
+12:33:50 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:33:55 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+12:34:26 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+12:34:42 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+12:35:32 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+12:35:51 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=110): 6 -> 4
+12:35:51 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=111): 6 -> 4
+12:35:59 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+12:36:42 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+12:37:05 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+12:37:35 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+12:37:55 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=156): 6 -> 4
+12:37:55 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=157): 6 -> 4
+12:38:01 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=162): 6 -> 4
+12:38:01 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=163): 6 -> 4
+12:38:13 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+12:38:50 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+12:39:18 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:HERO_11bp turn:7 from:-1)
+12:39:32 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+12:40:07 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:HERO_03bp turn:7 from:-1)
+12:40:17 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+12:40:17 PM|Info|TurnTimer.Stop >> Stopping turn timer
+12:40:17 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+12:40:17 PM|Info|GameEventHandler.HandleGameEnd >> Format: Standard
+12:40:17 PM|Info|GameStats.GameEnd >> Current Game ended after 7 turns
+12:40:17 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Mech Rogue
+12:40:17 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:40:17 PM|Info|LogUploader.Upload >> Uploading 160533353...
+12:40:17 PM|Info|LogUploader.TryUpload >> Creating upload request...
+12:40:18 PM|Info|LogUploader.TryUpload >> Upload Id: GvxxYb4UogRf3ePKygUgZP
+12:40:19 PM|Info|LogUploader.TryUpload >> Upload complete
+12:40:19 PM|Info|LogUploader.Upload >> 160533353 complete. Success=True
+12:40:27 PM|Info|AssetDownloader.DownloadAsset >> Starting download for TSC_632.png.
+12:40:27 PM|Info|AssetDownloader.DownloadFileAsync >> Waiting to cleanup TSC_632.png.
+12:40:27 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+12:40:27 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 1 new
+12:40:27 PM|Info|DeckManager.ImportDecksTo >> Assigning id to existing deck: Control Priest.
+12:40:27 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+12:40:27 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+12:40:27 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+12:40:28 PM|Info|Core.Initialize >> HearthMirror RPC [client]: Error while invoking GetFindGameState: TargetInvocationException
+12:40:29 PM|... 2 duplicate messages
+12:40:29 PM|Info|Core.UpdateOverlayAsync >> Exited game
+12:40:29 PM|Info|Core.UpdateOverlayAsync >> Reset region
+12:40:29 PM|Info|OverlayWindow.RunHoverUpdates >> Stopping overlay hover updates
+12:40:29 PM|Info|GameV2.Reset >> -------- Reset ---------
+12:40:30 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'D:\_Ivan\Hearthstone\Logs'
+12:40:30 PM|Info|LogWatcherManager.OnLogFileFound >> Achievements
+12:43:46|Info|MainWindow.Window_Closing >> Shutting down...
+12:43:46|Info|HotKeyManager.RemovePredefinedHotkey >> Removing [mod=Alt, Control, key=D].
+12:43:46|Error|HotKeyManager.RemovePredefinedHotkey >> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Hearthstone_Deck_Tracker.Utility.HotKeys.HotKeyManager.RemovePredefinedHotkey(HotKey hotKey) in D:\a\Hearthstone-Deck-Tracker\Hearthstone-Deck-Tracker\Hearthstone Deck Tracker\Utility\HotKeys\HotKeyManager.cs:line 92
