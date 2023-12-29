@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Windows Accent</AccentName>
   <AppTheme>BaseLight</AppTheme>
-  <ActiveDeckIdString>00000000-0000-0000-0000-000000000000</ActiveDeckIdString>
+  <ActiveDeckIdString>e99124c7-5e8b-45ad-a8bc-4cd633dc3b1f</ActiveDeckIdString>
   <AdditionalOverlayTooltips>true</AdditionalOverlayTooltips>
   <OverlaySetToolTips>false</OverlaySetToolTips>
   <AdvancedOptions>true</AdvancedOptions>
@@ -79,9 +79,9 @@
   <CloseToTray>true</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.17.12.5770</CreatedByVersion>
-  <HearthdbVersion>23.0.0.0</HearthdbVersion>
-  <RemoteHearthstoneVersion>0</RemoteHearthstoneVersion>
+  <CreatedByVersion>1.23.11.6486</CreatedByVersion>
+  <HearthdbVersion>28.2.3.0</HearthdbVersion>
+  <RemoteHearthstoneVersion>183876</RemoteHearthstoneVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -106,7 +106,7 @@
   <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
   <ForceMouseHook>false</ForceMouseHook>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>D:\_Ivan\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -114,6 +114,7 @@
   <HideDecksInOverlay>false</HideDecksInOverlay>
   <HideDrawChances>true</HideDrawChances>
   <HideInBackground>true</HideInBackground>
+  <HideMenuOverlayInBackground>true</HideMenuOverlayInBackground>
   <HideInMenu>true</HideInMenu>
   <HideOpponentAttackIcon>false</HideOpponentAttackIcon>
   <OpponentCthunCounter>Auto</OpponentCthunCounter>
@@ -122,6 +123,9 @@
   <OpponentPogoHopperCounter>Auto</OpponentPogoHopperCounter>
   <OpponentGalakrondCounter>Auto</OpponentGalakrondCounter>
   <OpponentLibramCounter>Auto</OpponentLibramCounter>
+  <OpponentSpellSchoolsCounter>Never</OpponentSpellSchoolsCounter>
+  <OpponentAbyssalCurseCounter>Auto</OpponentAbyssalCurseCounter>
+  <OpponentExcavateCounter>Auto</OpponentExcavateCounter>
   <HideOpponentCardAge>true</HideOpponentCardAge>
   <HideOpponentCardCount>true</HideOpponentCardCount>
   <HideOpponentCardMarks>true</HideOpponentCardMarks>
@@ -138,15 +142,20 @@
   <PlayerPogoHopperCounter>Auto</PlayerPogoHopperCounter>
   <PlayerGalakrondCounter>Auto</PlayerGalakrondCounter>
   <PlayerLibramCounter>Auto</PlayerLibramCounter>
+  <PlayerSpellSchoolsCounter>Auto</PlayerSpellSchoolsCounter>
+  <PlayerAbyssalCurseCounter>Auto</PlayerAbyssalCurseCounter>
+  <PlayerExcavateTierCounter>Auto</PlayerExcavateTierCounter>
   <HidePlayerCards>false</HidePlayerCards>
   <HidePlayerCardsTop>false</HidePlayerCardsTop>
   <HidePlayerCardsBottom>false</HidePlayerCardsBottom>
+  <HidePlayerSideboards>false</HidePlayerSideboards>
   <HidePlayerFatigueCount>true</HidePlayerFatigueCount>
   <HideSecrets>false</HideSecrets>
   <HideTimers>false</HideTimers>
   <HighlightCardsInHand>false</HighlightCardsInHand>
   <HighlightDiscarded>false</HighlightDiscarded>
   <EnableLinkOpponentDeckInNonFriendly>false</EnableLinkOpponentDeckInNonFriendly>
+  <EnableBattlegroundsTier7Overlay>true</EnableBattlegroundsTier7Overlay>
   <HighlightLastDrawn>true</HighlightLastDrawn>
   <HsReplayAutoUpload>true</HsReplayAutoUpload>
   <HsReplayUploadRanked>true</HsReplayUploadRanked>
@@ -162,9 +171,10 @@
   <HsReplayUploadPacks xsi:nil="true" />
   <Id>e61fc6ee-1a31-45b0-9e67-aa57312f3578</Id>
   <IgnoredConfigWarnings />
-  <IgnoreNewsId>18</IgnoreNewsId>
+  <IgnoreNewsId>19</IgnoreNewsId>
   <KeepDecksVisible>true</KeepDecksVisible>
   <KeepStatsWhenDeletingDeck>true</KeepStatsWhenDeletingDeck>
+  <LastBattlegroundsGameDate />
   <Localization>enUS</Localization>
   <LogConfigConsolePrinting>false</LogConfigConsolePrinting>
   <LogLevel>0</LogLevel>
@@ -176,6 +186,7 @@
   <NotificationFadeOutDelay>4</NotificationFadeOutDelay>
   <OffsetX>0</OffsetX>
   <OffsetY>0</OffsetY>
+  <OnboardingSeen>false</OnboardingSeen>
   <OpponentDeckHeight>72</OpponentDeckHeight>
   <OpponentDeckLeft>0.5</OpponentDeckLeft>
   <OpponentDeckTop>12.5</OpponentDeckTop>
@@ -203,16 +214,17 @@
     <DeckPanel>DrawChances</DeckPanel>
     <DeckPanel>Fatigue</DeckPanel>
   </DeckPanelOrderOpponent>
-  <DeckPanelOrderPlayer>
+  <DeckPanelOrderLocalPlayer>
     <DeckPanel>DeckTitle</DeckPanel>
     <DeckPanel>Wins</DeckPanel>
     <DeckPanel>CardsTop</DeckPanel>
     <DeckPanel>Cards</DeckPanel>
     <DeckPanel>CardsBottom</DeckPanel>
+    <DeckPanel>Sideboards</DeckPanel>
     <DeckPanel>CardCounter</DeckPanel>
     <DeckPanel>DrawChances</DeckPanel>
     <DeckPanel>Fatigue</DeckPanel>
-  </DeckPanelOrderPlayer>
+  </DeckPanelOrderLocalPlayer>
   <PlayerDeckHeight>88</PlayerDeckHeight>
   <PlayerDeckLeft>99.5</PlayerDeckLeft>
   <PlayerDeckTop>2</PlayerDeckTop>
@@ -250,7 +262,7 @@
   </SelectedDeckPickerClasses>
   <SelectedDeckSorting>Name</SelectedDeckSorting>
   <SelectedDeckSortingArena>Name</SelectedDeckSortingArena>
-  <SelectedDeckPickerDeckType>Standard</SelectedDeckPickerDeckType>
+  <SelectedDeckPickerDeckType>All</SelectedDeckPickerDeckType>
   <SelectedLanguage>enUS</SelectedLanguage>
   <CardImageSize>1</CardImageSize>
   <HighResolutionCardImages>true</HighResolutionCardImages>
@@ -265,6 +277,10 @@
   <ShowArenaImportMessage>true</ShowArenaImportMessage>
   <ShowBatteryLife>false</ShowBatteryLife>
   <ShowBatteryLifePercent>true</ShowBatteryLifePercent>
+  <ShowBattlegroundsTier7PreLobby>true</ShowBattlegroundsTier7PreLobby>
+  <ShowBattlegroundsHeroPicking>true</ShowBattlegroundsHeroPicking>
+  <ShowBattlegroundsQuestPicking>true</ShowBattlegroundsQuestPicking>
+  <ShowBattlegroundsQuestPickingComps>true</ShowBattlegroundsQuestPickingComps>
   <ShowBattlegroundsTiers>true</ShowBattlegroundsTiers>
   <ShowBattlegroundsTurnCounter>true</ShowBattlegroundsTurnCounter>
   <RunBobsBuddy>true</RunBobsBuddy>
@@ -273,6 +289,16 @@
   <AlwaysShowAverageDamage>false</AlwaysShowAverageDamage>
   <SeenBobsBuddyInfo>false</SeenBobsBuddyInfo>
   <SeenBobsBuddyAverageDamage>false</SeenBobsBuddyAverageDamage>
+  <SessionRecapTop>15</SessionRecapTop>
+  <SessionRecapLeft>0</SessionRecapLeft>
+  <ShowSessionRecap>true</ShowSessionRecap>
+  <ShowSessionRecapBetweenGames>true</ShowSessionRecapBetweenGames>
+  <ShowSessionRecapMinionsBanned>true</ShowSessionRecapMinionsBanned>
+  <ShowSessionRecapStartCurrentMMR>true</ShowSessionRecapStartCurrentMMR>
+  <ShowSessionRecapLatestGames>true</ShowSessionRecapLatestGames>
+  <BattlegroundsSessionRecapWindowOnStart>false</BattlegroundsSessionRecapWindowOnStart>
+  <OverlaySessionRecapScaling>100</OverlaySessionRecapScaling>
+  <Tier7OverlayCollapsed>false</Tier7OverlayCollapsed>
   <SeenMulliganToast>true</SeenMulliganToast>
   <BobsBuddyAverageDamageInfoClosed>false</BobsBuddyAverageDamageInfoClosed>
   <InteractedWithLinkOpponentDeck>false</InteractedWithLinkOpponentDeck>

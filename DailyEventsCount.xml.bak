@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DailyEventsCount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event id="end match action hdt_hs-constructed" timestamp="2023-12-29T12:11:01.2338916+01:00" count="6" />
+  <Event id="Overlay Decklist Visible" timestamp="2023-12-29T12:11:01.2418842+01:00" count="5" />
+</DailyEventsCount>
